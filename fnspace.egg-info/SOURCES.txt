@@ -1,0 +1,9 @@
+README.md
+setup.py
+fnspace/__init__.py
+fnspace/core.py
+fnspace.egg-info/PKG-INFO
+fnspace.egg-info/SOURCES.txt
+fnspace.egg-info/dependency_links.txt
+fnspace.egg-info/requires.txt
+fnspace.egg-info/top_level.txt

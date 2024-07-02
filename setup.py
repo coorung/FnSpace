@@ -9,11 +9,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='fnspace',
-    version='0.1.0',
+    version='0.2.0',
     description='A utility to fetch financial data',
     author='Ungjin Jang',
     author_email='coorung77@gmail.com',
-    url='https://github.com/coorung/fnspace',
+    url='https://github.com/coorung/FnSpace',
     packages=find_packages(),
     install_requires=[
         'pandas',
