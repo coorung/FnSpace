@@ -22,6 +22,8 @@ pip install fnspace
 ## 사용법
 
 ```python
+from fnspace import FnSpace
+
 api_key = "Your API key"
 fs = FnSpace(api_key)
 ```
