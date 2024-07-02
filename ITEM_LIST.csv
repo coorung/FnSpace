@@ -1,0 +1,2348 @@
+,ITEM_CD,ITEM_NM_KOR,DATA_TYPE
+0,S100100,종가,stock_price
+1,S100110,시가,stock_price
+2,S100120,고가,stock_price
+3,S100130,저가,stock_price
+4,S100300,수정주가,stock_price
+5,S100310,수정시가,stock_price
+6,S100320,수정고가,stock_price
+7,S100330,수정저가,stock_price
+8,S100500,수정주가수익률,stock_price
+9,S100510,1주전대비수익률,stock_price
+10,S100550,1개월전대비수익률,stock_price
+11,S100570,3개월전대비수익률,stock_price
+12,S100590,6개월전대비수익률,stock_price
+13,S100620,12개월전대비수익률,stock_price
+14,S100530,연초대비수익률,stock_price
+15,S100700,액면가,stock_price
+16,S100820,기준가,stock_price
+17,S100900,거래량,stock_price
+18,S101200,거래대금,stock_price
+19,S100950,수정거래량,stock_price
+20,S101500,상장주식수,stock_price
+21,S101510,지수산정주식수,stock_price
+22,S101550,자기주식수,stock_price
+23,S101800,외국인주식수,stock_price
+24,S101850,외국인지분율,stock_price
+25,S102055,외국인시가총액,stock_price
+26,S102060,유동주식비율,stock_price
+27,S102100,시가총액,stock_price
+28,S102301,지수산정시가총액,stock_price
+29,S102306,유동시가총액,stock_price
+30,S120200,거래정지구분,stock_price
+31,S102400,일평균거래량,stock_price
+32,S102700,일평균거래대금,stock_price
+33,S102450,일평균수정거래량,stock_price
+34,S103000,일평균시가총액,stock_price
+35,S103210,일평균외국인시가총액,stock_price
+36,S103905,52주최고수정종가,stock_price
+37,S104105,52주최저수정종가,stock_price
+38,S111005,5일최고수정종가,stock_price
+39,S111115,5일최저수정종가,stock_price
+40,S111155,20일최고수정종가,stock_price
+41,S111175,20일최저수정종가,stock_price
+42,S111195,60일최고수정종가,stock_price
+43,S111215,60일최저수정종가,stock_price
+44,S111235,120일최고수정종가,stock_price
+45,S111255,120일최저수정종가,stock_price
+46,S121150,52주평균거래대금,stock_price
+47,S121050,52주평균수정거래량,stock_price
+48,S105710,5일평균거래대금,stock_price
+49,S105550,5일평균수정거래량,stock_price
+50,S106410,20일평균거래대금,stock_price
+51,S106250,20일평균수정거래량,stock_price
+52,S107110,60일평균거래대금,stock_price
+53,S106950,60일평균수정거래량,stock_price
+54,S107810,120일평균거래대금,stock_price
+55,S107650,120일평균수정거래량,stock_price
+56,S121180,52주누계거래대금,stock_price
+57,S121500,52주누계수정거래량,stock_price
+58,S121240,5일누계거래대금,stock_price
+59,S121530,5일누계수정거래량,stock_price
+60,S121300,20일누계거래대금,stock_price
+61,S121560,20일누계수정거래량,stock_price
+62,S121360,60일누계거래대금,stock_price
+63,S121590,60일누계수정거래량,stock_price
+64,S121420,120일누계거래대금,stock_price
+65,S121620,120일누계수정거래량,stock_price
+66,S131000,52주평균시가총액,stock_price
+67,S131120,52주평균외국인시가총액,stock_price
+68,S131150,5일평균시가총액,stock_price
+69,S131180,5일평균외국인시가총액,stock_price
+70,S131210,20일평균시가총액,stock_price
+71,S131240,20일평균외국인시가총액,stock_price
+72,S131270,60일평균시가총액,stock_price
+73,S131300,60일평균외국인시가총액,stock_price
+74,S131330,120일평균시가총액,stock_price
+75,S131360,120일평균외국인시가총액,stock_price
+76,S200110,주간시가,stock_price
+77,S200100,주간최고가,stock_price
+78,S200300,주간최저가,stock_price
+79,S200310,주간종가,stock_price
+80,S200910,주간수정주가,stock_price
+81,S201100,주간평균수정주가,stock_price
+82,S200705,주간최고수정종가,stock_price
+83,S200905,주간최저수정종가,stock_price
+84,S203100,주간수익률,stock_price
+85,S201600,주간평균거래대금,stock_price
+86,S205000,주간평균수정거래량,stock_price
+87,S201810,주간누계거래대금,stock_price
+88,S205030,주간누계수정거래량,stock_price
+89,S203120,주간평균시가총액,stock_price
+90,S203150,주간평균외국인시가총액,stock_price
+91,S300110,월간시가,stock_price
+92,S300100,월간최고가,stock_price
+93,S300300,월간최저가,stock_price
+94,S300310,월간종가,stock_price
+95,S300910,월간수정주가,stock_price
+96,S301100,월간평균수정주가,stock_price
+97,S300705,월간최고수정종가,stock_price
+98,S300905,월간최저수정종가,stock_price
+99,S302600,월간수익률,stock_price
+100,S301600,월간평균거래대금,stock_price
+101,S305000,월간평균수정거래량,stock_price
+102,S301540,월간누계거래대금,stock_price
+103,S305030,월간누계수정거래량,stock_price
+104,S302620,월간평균시가총액,stock_price
+105,S302650,월간평균외국인시가총액,stock_price
+106,S100365,연간수정주가,stock_price
+107,S100360,연간평균수정주가,stock_price
+108,S100345,연간최고수정종가,stock_price
+109,S100355,연간최저수정종가,stock_price
+110,S170115,연간평균거래대금,stock_price
+111,S170200,연간평균수정거래량,stock_price
+112,S170145,연간누계거래대금,stock_price
+113,S170230,연간누계수정거래량,stock_price
+114,S170160,연간평균시가총액,stock_price
+115,S170175,연간평균외국인시가총액,stock_price
+116,S107900,60일베타,stock_price
+117,S108000,60일알파,stock_price
+118,S130010,52주베타(일간),stock_price
+119,S130020,52주알파(일간),stock_price
+120,S201900,52주베타(주간),stock_price
+121,S202000,52주알파(주간),stock_price
+122,S202600,104주베타(주간),stock_price
+123,S202700,104주알파(주간),stock_price
+124,S202900,156주베타(주간),stock_price
+125,S203000,156주알파(주간),stock_price
+126,S301900,60개월베타,stock_price
+127,S302000,60개월알파,stock_price
+128,S400100,수정DPS(현금),stock_price
+129,S400700,현금배당률(액면가),stock_price
+130,S402000,배당락일,stock_price
+131,S501000,배당수익률(FY0),stock_price
+132,S500100,P/E(FY0),stock_price
+133,S500300,P/B(FY0),stock_price
+134,S500200,P/C(FY0),stock_price
+135,S500250,P/CE(FY0),stock_price
+136,S500400,P/S(FY0),stock_price
+137,S500550,P/FCF2(FY0),stock_price
+138,S500600,P/EBIT(FY0),stock_price
+139,S500750,EV/EBITDA2(FY0),stock_price
+140,S500800,EV/EBIT(FY0),stock_price
+141,S500900,EV(FY0),stock_price
+0,M111000,자산총계,account
+1,M111100,유동자산,account
+2,M111600,비유동자산,account
+3,M113000,부채총계,account
+4,M113100,유동부채,account
+5,M113800,이자발생부채,account
+6,M113900,순부채,account
+7,M113500,비유동부채,account
+8,M115000,자본총계,account
+9,M115020,자본총계(지배),account
+10,M115100,자본금,account
+11,M115500,자본잉여금,account
+12,M115600,이익잉여금,account
+13,M115850,비지배주주지분,account
+14,M121000,매출액,account
+15,M121100,매출원가,account
+16,M121200,매출총이익,account
+17,M121300,판매비와관리비,account
+18,M121500,영업이익,account
+19,M121540,금융수익,account
+20,M121550,금융비용,account
+21,M121570,기타영업외수익,account
+22,M121580,기타영업외비용,account
+23,M122100,감가상각비(판관비),account
+24,M122500,세전계속사업이익,account
+25,M122700,당기순이익,account
+26,M122710,당기순이익(지배),account
+27,M122720,당기순이익(비지배),account
+28,M131000,영업활동으로인한현금흐름,account
+29,M132020,감가상각비(현금흐름표),account
+30,M131025,운전자본증감,account
+31,M132000,투자활동으로인한현금흐름,account
+32,M132010,CAPEX,account
+33,M133000,재무활동으로인한현금흐름,account
+34,M134000,영업투자재무활동기타현금흐름,account
+35,M134010,현금의증가,account
+36,M124155,Free Cash Flow2,account
+37,M123200,EBITDA2,account
+38,M123100,EBIT,account
+39,M124000,IC,account
+40,M124100,NOPLAT,account
+41,M213000,EV,account
+42,M213050,EV2,account
+43,M211300,매출총이익률,account
+44,M211000,영업이익률,account
+45,M211200,순이익률,account
+46,M211900,EBITDA2마진율,account
+47,M211500,ROE(지배),account
+48,M211600,ROA,account
+49,M211700,ROIC,account
+50,M231000,매출액증가율(YoY),account
+51,M231100,매출액증가율(QoQ),account
+52,M231400,영업이익증가율(YoY),account
+53,M231500,영업이익증가율(QoQ),account
+54,M231800,순이익증가율(YoY),account
+55,M231900,순이익증가율(QoQ),account
+56,M231850,"순이익증가율(지배, YoY)",account
+57,M231950,"순이익증가율(지배, QoQ)",account
+58,M232400,EBITDA2증가율(YoY),account
+59,M232500,EBITDA2증가율(QoQ),account
+60,M232000,EBIT증가율(YoY),account
+61,M232100,EBIT증가율(QoQ),account
+62,M221100,부채비율,account
+63,M221200,유동비율,account
+64,M221000,자기자본비율,account
+65,M221600,이자보상배율,account
+66,M221700,비유동비율,account
+67,M222000,차입금비율,account
+68,M222100,순부채비율,account
+69,M223000,자본유보율,account
+70,M241000,총자산회전율,account
+71,M241100,매출채권회전율,account
+72,M241200,재고자산회전율,account
+73,M241400,매입채무회전율,account
+74,M241800,타인자본회전율,account
+75,M241900,자기자본회전율,account
+76,M242000,자본금회전율,account
+77,M312000,"EPS(지배, Adj.)",account
+78,M314000,"BPS(지배, Adj.)",account
+79,M316000,CPS(Adj.),account
+80,M316010,CEPS(Adj.),account
+81,M318000,SPS(Adj.),account
+82,M328500,EBITDA2PS(Adj.),account
+83,M322000,EBITPS(Adj.),account
+84,M334000,Net Debt/Share(Adj.),account
+85,M362000,EPS증가율(YoY),account
+86,M362500,EPS증가율(QoQ),account
+87,M364000,BPS증가율(YoY),account
+88,M364500,BPS증가율(QoQ),account
+89,M423200,"수정DPS(보통주, 기말현금)",account
+90,M423400,"수정DPS(보통주, 연간현금)",account
+91,M423300,"수정DPS(우선주, 기말현금)",account
+92,M423500,"수정DPS(우선주, 연간현금)",account
+93,M451200,현금배당성향(%),account
+94,M431200,"현금배당률(보통주, 기말, 액면가)",account
+95,M431400,"현금배당률(보통주, 연간, 액면가)",account
+96,M431800,"현금배당수익률(보통주, 연간, 수정주가)",account
+97,M431900,"현금배당수익률(우선주, 연간, 수정주가)",account
+98,M433000,"시가배당률(보통주, 기말, KRX기준)",account
+99,M382100,"P/E(Adj., FY End)",account
+100,M382500,"P/B(Adj., FY End)",account
+101,M382900,"P/C(Adj., FY End)",account
+102,M384550,"P/CE(Adj., FY End)",account
+103,M383300,"P/S(Adj., FY End)",account
+104,M385110,"P/FCF2(Adj., FY End)",account
+105,M383700,"PEG(Adj., FY End, YoY)",account
+106,M331030,EV/EBITDA2,account
+107,M331010,EV/EBIT,account
+108,M332000,EV/Sales,account
+109,M123500,매출액(잠정치),account
+110,M123600,영업이익(잠정치),account
+111,M123700,세전계속사업이익(잠정치),account
+112,M123800,당기순이익(잠정치),account
+113,M123850,"당기순이익(지배, 잠정치)",account
+114,M324000,"EPS(Adj., 잠정치)",account
+115,M324500,"EPS(지배, Adj., 잠정치)",account
+116,M326000,"SPS(Adj., 잠정치)",account
+117,M123900,잠정치발표일,account
+118,M327100,매출액(어닝서프라이즈),account
+119,M327200,영업이익(어닝서프라이즈),account
+120,M327300,당기순이익(어닝서프라이즈),account
+121,M327400,"당기순이익(지배, 어닝서프라이즈)",account
+122,M327500,"EPS(Adj., 어닝서프라이즈)",account
+123,M327600,"EPS(지배, Adj., 어닝서프라이즈)",account
+124,M123955,실적보고서발표일,account
+0,E610100,투자의견,consensus-price
+1,E612500,목표주가(Adj.),consensus-price
+2,E610360,목표주가괴리율,consensus-price
+3,E610500,투자의견참여증권사,consensus-price
+4,E610560,목표주가참여증권사,consensus-price
+5,E610600,목표주가(상향-하향)/전체(1주),consensus-price
+6,E610610,목표주가(상향-하향)/전체(1개월),consensus-price
+7,E611150,목표주가(상향-하향)/전체(3개월),consensus-price
+0,E121000,매출액,consensus-earning-fiscal
+1,E121500,영업이익,consensus-earning-fiscal
+2,E122500,세전계속사업이익,consensus-earning-fiscal
+3,E122700,당기순이익,consensus-earning-fiscal
+4,E122710,당기순이익(지배),consensus-earning-fiscal
+5,E123000,EBITDA,consensus-earning-fiscal
+6,E124000,EBIT,consensus-earning-fiscal
+7,E111000,자산총계,consensus-earning-fiscal
+8,E113000,부채총계,consensus-earning-fiscal
+9,E113900,순부채,consensus-earning-fiscal
+10,E115000,자본총계,consensus-earning-fiscal
+11,E115020,자본총계(지배),consensus-earning-fiscal
+12,E115100,자본금,consensus-earning-fiscal
+13,E213200,현금흐름,consensus-earning-fiscal
+14,E131000,영업활동현금흐름,consensus-earning-fiscal
+15,E132000,투자활동현금흐름,consensus-earning-fiscal
+16,E133000,재무활동현금흐름,consensus-earning-fiscal
+17,E122100,감가상각비,consensus-earning-fiscal
+18,E124200,FCF,consensus-earning-fiscal
+19,E135000,CAPEX,consensus-earning-fiscal
+20,E231000,매출액증가율(YoY),consensus-earning-fiscal
+21,E231100,매출액증가율(QoQ),consensus-earning-fiscal
+22,E231400,영업이익증가율(YoY),consensus-earning-fiscal
+23,E231500,영업이익증가율(QoQ),consensus-earning-fiscal
+24,E231800,순이익증가율(YoY),consensus-earning-fiscal
+25,E231900,순이익증가율(QoQ),consensus-earning-fiscal
+26,E231850,"순이익증가율(YoY, 지배)",consensus-earning-fiscal
+27,E231950,"순이익증가율(QoQ, 지배)",consensus-earning-fiscal
+28,E211500,ROE(지배),consensus-earning-fiscal
+29,E211600,ROA,consensus-earning-fiscal
+30,E211700,ROIC,consensus-earning-fiscal
+31,E211000,영업이익률,consensus-earning-fiscal
+32,E211200,순이익률,consensus-earning-fiscal
+33,E312000,EPS(지배),consensus-earning-fiscal
+34,E314000,BPS(지배),consensus-earning-fiscal
+35,E316000,CPS,consensus-earning-fiscal
+36,E318000,SPS,consensus-earning-fiscal
+37,E320000,EBITDAPS,consensus-earning-fiscal
+38,E336000,FCFPS,consensus-earning-fiscal
+39,E423800,"수정DPS(보통주, 연간현금)",consensus-earning-fiscal
+40,E315830,"EPS 변화율(1주, 조정, 지배)",consensus-earning-fiscal
+41,E315840,"EPS 변화율(1개월, 조정, 지배)",consensus-earning-fiscal
+42,E315850,"EPS 변화율(3개월, 조정, 지배)",consensus-earning-fiscal
+43,E610550,EPS참여증권사(지배),consensus-earning-fiscal
+44,E382100,P/E,consensus-earning-fiscal
+45,E382500,P/B,consensus-earning-fiscal
+46,E382900,P/C,consensus-earning-fiscal
+47,E383300,P/S,consensus-earning-fiscal
+48,E331000,EV/EBITDA,consensus-earning-fiscal
+49,E432400,현금배당수익률,consensus-earning-fiscal
+0,E121000,매출액,consensus-earning-daily
+1,E121500,영업이익,consensus-earning-daily
+2,E122500,세전계속사업이익,consensus-earning-daily
+3,E122700,당기순이익,consensus-earning-daily
+4,E122710,당기순이익(지배),consensus-earning-daily
+5,E123000,EBITDA,consensus-earning-daily
+6,E124000,EBIT,consensus-earning-daily
+7,E111000,자산총계,consensus-earning-daily
+8,E113000,부채총계,consensus-earning-daily
+9,E113900,순부채,consensus-earning-daily
+10,E115000,자본총계,consensus-earning-daily
+11,E115020,자본총계(지배),consensus-earning-daily
+12,E115100,자본금,consensus-earning-daily
+13,E213200,현금흐름,consensus-earning-daily
+14,E131000,영업활동현금흐름,consensus-earning-daily
+15,E132000,투자활동현금흐름,consensus-earning-daily
+16,E133000,재무활동현금흐름,consensus-earning-daily
+17,E122100,감가상각비,consensus-earning-daily
+18,E124200,FCF,consensus-earning-daily
+19,E135000,CAPEX,consensus-earning-daily
+20,E231000,매출액증가율(YoY),consensus-earning-daily
+21,E231100,매출액증가율(QoQ),consensus-earning-daily
+22,E231400,영업이익증가율(YoY),consensus-earning-daily
+23,E231500,영업이익증가율(QoQ),consensus-earning-daily
+24,E231800,순이익증가율(YoY),consensus-earning-daily
+25,E231900,순이익증가율(QoQ),consensus-earning-daily
+26,E231850,"순이익증가율(YoY, 지배)",consensus-earning-daily
+27,E231950,"순이익증가율(QoQ, 지배)",consensus-earning-daily
+28,E211500,ROE(지배),consensus-earning-daily
+29,E211600,ROA,consensus-earning-daily
+30,E211700,ROIC,consensus-earning-daily
+31,E211000,영업이익률,consensus-earning-daily
+32,E211200,순이익률,consensus-earning-daily
+33,E312000,EPS(지배),consensus-earning-daily
+34,E314000,BPS(지배),consensus-earning-daily
+35,E316000,CPS,consensus-earning-daily
+36,E318000,SPS,consensus-earning-daily
+37,E320000,EBITDAPS,consensus-earning-daily
+38,E336000,FCFPS,consensus-earning-daily
+39,E423800,"수정DPS(보통주, 연간현금)",consensus-earning-daily
+40,E315830,"EPS 변화율(1주, 조정, 지배)",consensus-earning-daily
+41,E315840,"EPS 변화율(1개월, 조정, 지배)",consensus-earning-daily
+42,E315850,"EPS 변화율(3개월, 조정, 지배)",consensus-earning-daily
+43,E610550,EPS참여증권사(지배),consensus-earning-daily
+44,E382100,P/E,consensus-earning-daily
+45,E382500,P/B,consensus-earning-daily
+46,E382900,P/C,consensus-earning-daily
+47,E383300,P/S,consensus-earning-daily
+48,E331000,EV/EBITDA,consensus-earning-daily
+49,E432400,현금배당수익률,consensus-earning-daily
+0,E312060,"EPS(Fwd.12M, 지배)",consensus-forward
+1,E314060,"BPS(Fwd.12M, 지배)",consensus-forward
+2,E316060,CPS(Fwd.12M),consensus-forward
+3,E318060,SPS(Fwd.12M),consensus-forward
+4,E423860,"수정DPS(보통주, 연간현금, Fwd.12M)",consensus-forward
+5,E121060,매출액(Fwd.12M),consensus-forward
+6,E121560,영업이익(Fwd.12M),consensus-forward
+7,E122560,세전계속사업이익(Fwd.12M),consensus-forward
+8,E122760,당기순이익(Fwd.12M),consensus-forward
+9,E122770,"당기순이익(Fwd.12M, 지배)",consensus-forward
+10,E123060,EBITDA(Fwd.12M),consensus-forward
+11,E124004,EBIT(Fwd.12M),consensus-forward
+12,E213260,현금흐름(Fwd.12M),consensus-forward
+13,E124260,FCF(Fwd.12M),consensus-forward
+14,E115060,자본총계(Fwd.12M),consensus-forward
+15,E115080,"자본총계(Fwd.12M, 지배)",consensus-forward
+16,E211560,"ROE(Fwd.12M, 지배)",consensus-forward
+17,E211570,ROE(Fwd.12M),consensus-forward
+18,E311300,"EPS1 이익조정비율(1주, 지배)",consensus-forward
+19,E311310,"EPS1 이익조정비율(1개월, 지배)",consensus-forward
+20,E391310,"EPS1 이익조정비율(3개월, 지배)",consensus-forward
+21,E313300,"EPS Q1 이익조정비율(1주, 지배)",consensus-forward
+22,E313310,"EPS Q1 이익조정비율(1개월, 지배)",consensus-forward
+23,E393310,"EPS Q1 이익조정비율(3개월, 지배)",consensus-forward
+24,E315770,"EPS(Fwd.12M) 변화율(1주, 조정, 지배)",consensus-forward
+25,E315780,"EPS(Fwd.12M) 변화율(1개월, 조정, 지배)",consensus-forward
+26,E315790,"EPS(Fwd.12M) 변화율(3개월, 조정, 지배)",consensus-forward
+27,E382160,P/E(Fwd.12M),consensus-forward
+28,E382560,P/B(Fwd.12M),consensus-forward
+29,E382960,P/C(Fwd.12M),consensus-forward
+30,E383360,P/S(Fwd.12M),consensus-forward
+31,E331060,EV/EBITDA(Fwd.12M),consensus-forward
+32,E432460,현금배당수익률(Fwd.12M),consensus-forward
+0,aKONA10NIGDPW,"국민총소득(명목,원화)(십억원)",macro
+1,aKONA10NIGDPDD,"국민총소득(명목,달러)(억달러)",macro
+2,aKONA10NIPCGNID,"1인당 국민총소득(명목,달러)(달러)",macro
+3,aKONA10GRGDPP,경제활동별 성장률(%),macro
+4,aKONA10GSGSR,총저축률(명목)(%),macro
+5,aKONA10GSGDIR,국내투자율(명목)(%),macro
+6,aKONA10REREE,수출입의 대 GNI 비율(%),macro
+7,aKONA10RGDPGDP,"GDP 성장률(실질,계조)(%)",macro
+8,aKONA10RGDPPEI,"민간소비 증감률(실질,계조)(%)",macro
+9,aKONA10RGDPFI,"설비투자 증감률(실질,계조)(%)",macro
+10,aKONA10RGDPCC,"건설투자 증감률(실질,계조)(%)",macro
+11,aKONA10RGDPEGDPP,"GDP 성장률(실질,원계열)(%)",macro
+12,aKONA10RGDPEEGDPDP,"민간소비 증감률(실질,원계열)(%)",macro
+13,aKONA10RGDPEEGDPDF,"설비투자 증감률(실질,원계열)(%)",macro
+14,aKONA10RGDPEEGDPDC,"건설투자 증감률(실질,원계열)(%)",macro
+15,aKONA10RGDPEEGDPDE,"재화수출 증감률(실질,원계열)(%)",macro
+16,aKONA10RGDPEEGDPDD,"내수 증감률(실질,원계열)(%)",macro
+17,aKONA10GS,"총저축률(명목,계조)(%)",macro
+18,aKONA10GSGIR,"국내총투자율(명목,계조)(%)",macro
+19,abKONA10VA,"총부가가치(GDP+GNI,명목,계조)(십억원)",macro
+20,abKONA10GDM,"GDP 규모(명목,계조)(십억원)",macro
+21,abKONA10GNI,"GNI 규모(명목,계조)(십억원)",macro
+22,aaKONA10C,"제조업 규모(명목,원계열)(십억원)",macro
+23,aaKONA10F,"건설업 규모(명목,원계열)(십억원)",macro
+24,aaKONA10S,"서비스업 규모(명목,원계열)(십억원)",macro
+25,aaKONA10GNI,"국민총소득 규모(명목,원계열)(십억원)",macro
+26,abKONA10CNF,"최종소비 규모(명목,계조)(십억원)",macro
+27,abKONA10CFS,"건설투자 규모(명목,계조)(십억원)",macro
+28,abKONA10CFI,"설비투자 규모(명목,계조)(십억원)",macro
+29,abKONA10EXT,"재화,서비스수출(명목,계조)(십억원)",macro
+30,adKONA10CNF,"최종소비지출(실질,계조)(십억원)",macro
+31,adKONA10CFIP,"지식재산생산물투자(실질,계조)(십억원)",macro
+32,aaKONA10CNP,"민간소비(명목,원계열)(십억원)",macro
+33,aaKONA10CNGV,"정부지출(명목,원계열)(십억원)",macro
+34,aaKONA10CF,"총자본형성(명목,원계열)(십억원)",macro
+35,aaKONA10CFA,"총고정자본형성(명목,원계열)(십억원)",macro
+36,aaKONA10EXT,"재화,서비스수출(명목,원계열)(십억원)",macro
+37,acKONA10CFA,"총고정자본형성(실질,원계열)(십억원)",macro
+38,aKONA10DFGDM,GDP디플레이터(시장가격)(2010=100),macro
+39,aKONA10DUI,제도부문별 생산계정(명목)(십억원),macro
+40,adKONA10CGDPCNP,"민간소비(실질,계조)(%p)",macro
+41,adKONA10CGDPCNGV,"정부소비(실질,계조)(%p)",macro
+42,adKONA10CGDPCFA,"총고정자본형성(실질,계조)(%p)",macro
+43,adKONA10FCNHG,"가계 최종소비지출(실질,계조)(십억원)",macro
+44,aaKONA10GSQGS,"총저축(명목,원계열)(십억원)",macro
+45,adKONA10GDMECOSY,"GDP(한은,실질,계조)(%)",macro
+46,adKONA10GDMKDIY,"GDP(KDI,실질,계조)(%)",macro
+47,adKONA10GDMOECDY,GDP(OECD)(%),macro
+48,ahKOMAIP15C,생산지수(제조업)(원지수)(2015=100),macro
+49,aiKOMAIP150,생산지수(계조)(2015=100),macro
+50,aiKOMAIP15B,생산지수(광업)(계조)(2015=100),macro
+51,aiKOMAIP15C,생산지수(제조업)(계조)(2015=100),macro
+52,aiKOMAIP15C10,생산지수(식료품 제조업)(계조)(2015=100),macro
+53,aiKOMAIP15C14,생산지수(의복 등 제조업)(계조)(2015=100),macro
+54,akKOMASH15C,생산자제품 출하지수(제조업)(원지수)(2015=100),macro
+55,ahKOMAIN15C,생산자제품 재고지수(제조업)(원지수)(2015=100),macro
+56,agKOMAIN15C,생산자제품 재고지수(제조업)(계조)(2015=100),macro
+57,aKOMAIP15MET13,기계설비류 내수출하지수(원지수)(2015=100),macro
+58,ahKOMAIU15C,제조업가동률지수(원지수)(2015=100),macro
+59,ahKOMAIU15AVG,제조업평균가동률(%),macro
+60,agKOMAAP15AIP,전산업생산지수(농림어업제외)(2015=100),macro
+61,aKOSANUIP15,서비스업생산(경상)(2015=100),macro
+62,aKOSANUIP15G451,자동차 판매업생산(경상)(2015=100),macro
+63,aKOSANUIP15G46443,화장품 및 비누 도매업 생산(경상)(2015=100),macro
+64,aKOSANOIP15,서비스업생산(불변)(2015=100),macro
+65,aKOSANOIP15G,도매 및 소매업생산(불변)(2015=100),macro
+66,aKOSANOIP15G451,자동차 판매업생산(불변)(2015=100),macro
+67,aKONWR15UD,백화점 (경상)(2015=100),macro
+68,aKONWR15UL,대형마트 (경상)(2015=100),macro
+69,aKONWR15USM,슈퍼마켓 및 잡화점 (경상)(2015=100),macro
+70,aKONWR15UC,편의점 (경상)(2015=100),macro
+71,aKONWR15UOR,승용차 및 연료 소매점 (경상)(2015=100),macro
+72,aKONWR15OS,소매업태별(불변)(2015=100),macro
+73,aKONWR15SS,소매업태별(계조)(2015=100),macro
+74,aKONWR15PUS,재별 (경상)(2015=100),macro
+75,aKONWR15PUD,내구재 (경상)(2015=100),macro
+76,aKONWR15PUSD,준내구재 (경상)(2015=100),macro
+77,aKONWR15PUNDG,비내구재 (경상)(2015=100),macro
+78,aKONWR15POS,재별 (불변)(2015=100),macro
+79,aaKOBH05IT,"가계소득(명목,전국)(원)",macro
+80,aaKOBH05SIT,"가계소득(명목,전국,근로자)(원)",macro
+81,aaKOBH05DIC,"처분가능소득(실질,전국)(원)",macro
+82,afKOBH05MI05,시장소득 지니계수(0~1),macro
+83,afKOBH05DI05,가처분소득 지니계수(0~1),macro
+84,asKOMBCH,가계신용금액(십억원),macro
+85,asKOMBCHGDP,가계대출비율(GDP대비)(%),macro
+86,aaKOFINBX,"총수주액(선박제외,경상)(백만원)",macro
+87,aaKOFINBXDD,"국내수요(선박제외,경상)(백만원)",macro
+88,ahKOFIEST10,설비투자총지수(2010=100),macro
+89,afKOCIHPP0,주택매매가격 종합지수(전국)(2019.01=100),macro
+90,afKOCIAPP0,아파트 매매가격지수(전국)(2019.01=100),macro
+91,afKOCIAPP11,아파트 매매가격지수(서울)(2019.01=100),macro
+92,afKOCIHJP0,주택전세가격 종합지수(전국)(2019.01=100),macro
+93,afKOPBTFA,용도별 건축허가 연면적(합계)(㎡),macro
+94,afKOPBTFATT,지역별 건축허가 연면적(전국)(㎡),macro
+95,aKOCIRCSTT,지역별 건축착공 연면적(전국)(㎡),macro
+96,aaKOCICO,발주자별 건설기성총액(경상)(백만원),macro
+97,aaKOCIOO,건설수주총액(백만원),macro
+98,arKOCIHRNC,새로운주택보급률(전국)(%),macro
+99,cCNPRKOLPTCM,지가변동률(전국)(%),macro
+100,aaKOBP,경상수지(백만달러),macro
+101,abKOBPA,경상수지(계조)(백만달러),macro
+102,abKOBPB,경상수지_상품수지(백만달러),macro
+103,aaKOBPA,자본수지(백만달러),macro
+104,aaKOBPB,금융계정(백만달러),macro
+105,aaKOBPB11,금융계정_직접투자(자산)(백만달러),macro
+106,aaKOBPB12,금융계정_직접투자(부채)(백만달러),macro
+107,aaKOBPB2,금융계정_증권투자(백만달러),macro
+108,aaKOBPD,서비스수지(무역세분류통계)(백만달러),macro
+109,aKOIIPB6P,증권투자(대외금융주자산)(백만달러),macro
+110,aKOIIPB6LP,증권투자(대외금융주부채)(백만달러),macro
+111,aKOEDB6EDG,대외채무(백만달러),macro
+112,aaKOEIEX,수출총액(천달러),macro
+113,aaKOEIIM,수입총액(천달러),macro
+114,aaKOEITB,무역수지(천달러),macro
+115,aaKOEIEX5CG1,농수산식품 수출액(백만달러),macro
+116,aaKOEIEX5CG2,화장품 수출액(백만달러),macro
+117,aaKOEIEX5CG3,패션의류 수출액(백만달러),macro
+118,aaKOEIEX5CG4,생활유아용품 수출액(백만달러),macro
+119,aaKOEIEX5CG5,의약품 수출액(백만달러),macro
+120,aaKOEIEXUS,미국 수출액(천달러),macro
+121,aaKOEIEXVT,베트남 수출액(천달러),macro
+122,aaKOEIEXID,인도 수출액(천달러),macro
+123,aaKOEIEXJP,일본 수출액(천달러),macro
+124,aaKOEIEXCN,중국 수출액(천달러),macro
+125,aaKOEIEXHK,홍콩 수출액(천달러),macro
+126,ahKOPR15C0,CPI(지출목적별 총지수)(2015=100),macro
+127,ahKOPR15L0,CPI(생활물가 총지수)(2015=100),macro
+128,ahKOPR15EPQB,CPI(농산물및석유류제외)(2015=100),macro
+129,ahKOPR15PIBA,생산자물가지수(2010=100),macro
+130,ahKOPR15PIEBAI,수출물가지수(2010=100),macro
+131,ahKOPR15PIIBAI,수입물가지수(2010=100),macro
+132,ahKOPR15EVIAI,수출금액지수(2010=100),macro
+133,ahKOPR15EVOAI,수출물량지수(2010=100),macro
+134,ahKOPR15IVIAI,수입금액지수(2010=100),macro
+135,ahKOPR15IVOAI,수입물량지수(2010=100),macro
+136,ahKOPR15TTN,순상품교역조건지수(2010=100),macro
+137,ahKOPR15TTI,소득교역조건지수(2010=100),macro
+138,afKOPR10XU,수출단가지수(2015=100),macro
+139,afKOPR10MU,수입단가지수(2015=100),macro
+140,aKOPP,전체 추계인구(전국)(명),macro
+141,aKOPPT,총인구(전국)(명),macro
+142,aKOPPGR,인구성장률(전국)(%),macro
+143,aKOPPDR,총부양비(전국)(%),macro
+144,aKOPPDRC,유소년부양비(전국)(%),macro
+145,aKOPPDRA,노년부양비(전국)(%),macro
+146,aKOPPACR,노령화지수(전국)(%),macro
+147,aKOPPMA,중위연령(전국)(세),macro
+148,aKOPPFR,합계출산율(전국)(명),macro
+149,aKOPPTM0,총전입자수(전국)(명),macro
+150,cFDPPKODR,총부양비(％),macro
+151,aKOLWWIAWP0,월급여액(전체근로자)(천원),macro
+152,aKOLWAME,임금근로자월평균임금(천원),macro
+153,apKOLWO3EAP,경제활동인구(원지수)(천명),macro
+154,apKOLWO3EMP,경제활동인구_취업자(원지수)(천명),macro
+155,apKOLWO3EAR,경제활동인구_경제활동참가율(원지수)(%),macro
+156,apKOLWO3UR,경제활동인구_실업률(원지수)(%),macro
+157,apKOLWO3ER,경제활동인구_고용률(원지수)(%),macro
+158,aoKOLWENEMP,경제활동인구_취업자(계조)(천명),macro
+159,aoKOLWENEAR,경제활동인구_경제활동참가율(계조)(%),macro
+160,aoKOLWENUR,경제활동인구_실업률(계조)(%),macro
+161,arKOLWUNRT,실업률(연령별)(%),macro
+162,arKOLWUNR1529,실업률(15~29세)(%),macro
+163,agKOCB1510LD1,선행_재고순환지표(%p),macro
+164,agKOCB159LD2,선행_소비자기대지수(NULL),macro
+165,agKOCB159LDPC,선행종합지수 전월비(%),macro
+166,agKOCB159LDPCCC,선행지수 순환변동치(p),macro
+167,agKOCB159COPCCC,동행지수 순환변동치(p),macro
+168,aqKOBSNFKP,"기업경기전망(BSI)(전산업,계조)(기준=100)",macro
+169,arKOBSBKNBBCR,기업경기실적(제조업)(기준=100),macro
+170,arKOCSBK13E,소비자심리지수(기준=100),macro
+171,arKOCSBK13EI,기대인플레이션율(소비자동향조사)(%),macro
+172,aKOFSISOIL09,"영업손익(전산업,기업경영분석)(백만원)",macro
+173,aKOFSISNIL09,"당기순손익(전산업,기업경영분석)(백만원)",macro
+174,aKOFSCG15S,"매출액증가율(제조업,기업경영분석)(%)",macro
+175,aKOFSIE15IBT,매출액세전순이익률(제조업)(%),macro
+176,aKOFSAL15DR,"부채비율(제조업,기업경영분석)(%)",macro
+177,aaKOMBM1A,"M1(협의통화,평잔)(십억원)",macro
+178,aaKOMBM2A,"M2(광의통화,평잔)(십억원)",macro
+179,aaKOMBLFA,Lf(평잔)(십억원),macro
+180,aaKOMBLE,L(말잔)(십억원),macro
+181,auKOMBBDA,예금은행총예금(평잔)(십억원),macro
+182,auKOMBBLA,예금은행대출금(평잔)(십억원),macro
+183,auKOMBRDB0,어음부도율(전국)(%),macro
+184,aKOPSCCSDHRV,"부도율(금액기준,전자결제분제외)(%)",macro
+185,aKOPSCCSDHCN,부도업체수(개),macro
+186,apKOMBCCAUP,개인 신용카드이용금액(백만원),macro
+187,arKOIRCR,"콜금리(1일,중개회사거래)(%)",macro
+188,arKOIRKO3,KORIBOR(3개월)(%),macro
+189,arKOIRTB3,국고채(3년)(%),macro
+190,arKOIRTB5,국고채(5년)(%),macro
+191,arKOIRCB3AAM,"회사채(3년,AA-)(%)",macro
+192,arKOIRMSB,통안증권(1년)(%),macro
+193,arKOIRCD,CD(91일)(%),macro
+194,arKOIRCP,CP(91일)(%),macro
+195,arKOIRCMA,CMA(수시형)(%),macro
+196,arKOIRPICR,한국은행 기준금리(%),macro
+197,arKOIRKSDATB1,국고채권(1년) 수익률(%),macro
+198,arKOIRKSDATB3,국고채권(3년) 수익률(%),macro
+199,arKOIRKSDATB5,국고채권(5년) 수익률(%),macro
+200,arKOIRKSDATB10,국고채권(10년) 수익률(%),macro
+201,arKOIRKSDACB3AAM,"회사채(무보증3년,AA-) 수익률(%)",macro
+202,arKOIRKSDAOTCP1,"회사채(3년,AA-,장외)수익률(%)",macro
+203,arKOIRKOFIAGKTB3,"국고채(3년,양곡,외평,재정)민평(%)",macro
+204,arKOIRCBOM3AAM,"회사채금리(장외3년,AA-)(연리%)",macro
+205,arKOIRTSN,저축성수신금리(신규취급액기준)(%),macro
+206,arKOIRTDN1Y,정기예금수신금리(신규취급액기준)(%),macro
+207,arKOIRLN,대출평균금리(신규취급액기준)(%),macro
+208,aaKOFXFR,외환보유액 현황(천달러),macro
+209,arKOFXUSDD,원/미국달러(매매기준율)(원),macro
+210,arKOFXJPYD,원/일본엔(100엔)(원),macro
+211,arKOFXEURD,원/유로(원),macro
+212,arKOFXGBP,원/영국파운드(원),macro
+213,arKOFXCAD,원/캐나다달러(원),macro
+214,arKOFXSZL,원/스위스프랑(원),macro
+215,arKOFXAUD,원/호주달러(원),macro
+216,arKOFXNZD,원/뉴질랜드달러(원),macro
+217,arKOFXCNHDD,원/위안(매매기준율)(원),macro
+218,arKOFXHKD,원/홍콩달러(원),macro
+219,arKOFXTWD,원/대만달러(원),macro
+220,arKOFXTHB,원/태국바트(원),macro
+221,arKOFXSGD,원/싱가폴달러(원),macro
+222,arKOFXIDR,원/인도네시아루피아(100루피아)(원),macro
+223,arKOFXMYR,원/말레이지아링기트(원),macro
+224,arKOFXPHP,원/필리핀페소(원),macro
+225,arKOFXVND,원/베트남동(100동)(원),macro
+226,arKOFXINR,원/인도루피(원),macro
+227,arKOFXBRL,원/브라질헤알(원),macro
+228,arKOFXRUB,원/러시아루블(원),macro
+229,arKOFXPLN,원/폴란드즈워티(원),macro
+230,arKOFXCZK,원/체코코루나(원),macro
+231,arKOFXSAR,원/사우디아라비아리알(원),macro
+232,arKOFXZAR,원/남아공랜드(원),macro
+233,arKOFXJPDD,일본엔/달러(일본엔),macro
+234,arKOFXDERD,달러/유로(달러),macro
+235,arKOFXDUKD,달러/영국파운드(달러),macro
+236,arKOFXCNDD,캐나다달러/달러(캐나다달러),macro
+237,arKOFXSWDD,스위스프랑/달러(스위스프랑),macro
+238,arKOFXDAUD,달러/호주달러(달러),macro
+239,arKOFXNZDD,달러/뉴질랜드달러(달러),macro
+240,arKOFXHKDD,홍콩달러/달러(홍콩달러),macro
+241,arKOFXTWDD,대만달러/달러(대만달러),macro
+242,arKOFXTHDD,태국바트/달러(태국바트),macro
+243,arKOFXSPDD,싱가폴달러/달러(싱가폴달러),macro
+244,arKOFXINDD,인도네시아루피아/달러(루피아),macro
+245,arKOFXMYRD,말레이지아링기트/달러(말레이지아링기트),macro
+246,arKOFXPHPD,필리핀페소/달러(필리핀페소),macro
+247,arKOFXVNDD,베트남동/달러(베트남동),macro
+248,arKOFXINRD,인도루피/달러(인도루피),macro
+249,arKOFXMXND,멕시코페소/달러(멕시코페소),macro
+250,arKOFXBRLD,브라질헤알/달러(브라질헤알),macro
+251,arKOFXRUBD,러시아루블/달러(러시아루블),macro
+252,arKOFXUSDCD,원/달러(종가)(원),macro
+253,arKOFXCNYC,원/위안(종가)(원),macro
+254,arKOFXUSDMA,"원/미국달러(매매기준율,평균)(원)",macro
+255,arKOFXJPYMA,"원/일본엔(100엔,평균)(원)",macro
+256,arKOFXUSDME,"원/미국달러(매매기준율,말일)(원)",macro
+257,arKOFXINRMEW,원/인도루피(말일)(원),macro
+258,arKOFXJPDMA,일본엔/달러(평균)(JPY),macro
+259,arKOFXDERMA,달러/유로(평균)(USD),macro
+260,arKOFXDUKMA,달러/영국파운드(평균)(USD),macro
+261,arKOFXCNDMA,캐나다달러/달러(평균)(CAD),macro
+262,arKOFXDAUMA,달러/호주달러(평균)(USD),macro
+263,arKOFXSPDMA,싱가폴달러/달러(평균)(SGD),macro
+264,arKOFXINDMA,인도네시아루피아/달러(평균)(IDR),macro
+265,arKOFXMYDMA,말레이지아링기트/달러(평균)(MYR),macro
+266,arKOFXPHPMA,필리핀페소/달러(평균)(PHP),macro
+267,arKOFXINRMA,인도루피/달러(평균)(INR),macro
+268,arKOFXMXNMA,멕시코 페소/달러(평균)(MXN),macro
+269,arKOFXBRLMA,브라질헤알/달러(평균)(BRL),macro
+270,arKOFXHUFMA,헝가리포린트/달러(평균)(HUF),macro
+271,arKOFXPLNMA,폴란트즈워티/달러(평균)(PLN),macro
+272,arKOFXJPDME,일본엔/달러(말일)(JPY),macro
+273,arKOFXDERME,달러/유로(말일)(USD),macro
+274,arKOFXDUKME,달러/영국파운드(말일)(USD),macro
+275,arKOFXCNDME,캐나다달러/달러(말일)(CAD),macro
+276,arKOFXDAUME,달러/호주달러(말일)(USD),macro
+277,arKOFXSPDME,싱가폴달러/달러(말일)(SGD),macro
+278,arKOFXINDME,인도네시아루피아/달러(말일)(IDR),macro
+279,arKOFXMYDME,말레이지아링기트/달러(말일)(MYR),macro
+280,arKOFXINRME,인도루피/달러(말일)(INR),macro
+281,arKOFXBRLME,브라질헤알/달러(말일)(BRL),macro
+282,aaKOPFCUR,통합재정수지(경상수입)(십억원),macro
+283,aaKOPFCUE,통합재정수지(경상지출)(십억원),macro
+284,aaKOPFBL,통합재정수지(십억원),macro
+285,aaKOPFCGGDP,"정부부채(GDP대비,BIS)(%)",macro
+286,aaKOPFGDT,국가채무규모액(조원),macro
+287,aKOFF08FSTTT,합계(십억원),macro
+288,aKOFF08FSTETT,국내 합계(십억원),macro
+289,aKOFF08FSFTT,국내 법인 합계(십억원),macro
+290,aKOFF08FSGGTT,국내 일반정부 합계(십억원),macro
+291,aKOFF08FSNCTT,국내 비금융법인 합계(십억원),macro
+292,aKOFF08FSHTT,가계 및 비영리단체 합계(십억원),macro
+293,aKOFF08FSRWTT,국외 합계(십억원),macro
+294,aKOFF08FATTT,금융자산 합계(십억원),macro
+295,aKOFF08FAFTT,국내 금융법인 금융자산합계(십억원),macro
+296,aKOFF08FAGGTT,국내 정부 금융자산 합계(십억원),macro
+297,aKOFF08FANCTT,국내 비금융법인 금융자산 합계(십억원),macro
+298,aKOFF08FAHTT,가계 및 비영리단체 금융자산(십억원),macro
+299,aKOFF08FARWTT,국외 금융자산 합계(십억원),macro
+300,aGLOCLDOTO,OECD - 전체(Index),macro
+301,aGLOCLDOEU,OECD - 유럽(Index),macro
+302,aGLOCLDG4E,유로 주요 4개국(Index),macro
+303,aGLOCLDG7M,G7(Index),macro
+304,aGLOCLDCAN,G7_캐나다(Index),macro
+305,aGLOCLDFRA,G7_프랑스(Index),macro
+306,aGLOCLDDEU,G7_독일(Index),macro
+307,aGLOCLDITA,G7_이탈리아(Index),macro
+308,aGLOCLDJPN,G7_일본(Index),macro
+309,aGLOCLDUSA,G7_미국(Index),macro
+310,aGLOCLDGBR,G7_영국(Index),macro
+311,aGLOCLDNAT,NAFTA(Index),macro
+312,aGLOCLDA5M,ASIA5(Index),macro
+313,aGLOCLDONM,OECD+주요6개국(Index),macro
+314,aGLOCLDMEX,멕시코(Index),macro
+315,aGLOCLDKOR,한국(Index),macro
+316,aGLOCLDAUS,호주(Index),macro
+317,aGLOCLDNZL,뉴질랜드(Index),macro
+318,aGLOCLDAUT,오스트리아(Index),macro
+319,aGLOCLDBEL,벨기에(Index),macro
+320,aGLOCLDCZE,체코(Index),macro
+321,aGLOCLDDNK,덴마크(Index),macro
+322,aGLOCLDFIN,핀란드(Index),macro
+323,aGLOCLDGRC,그리스(Index),macro
+324,aGLOCLDHUN,헝가리(Index),macro
+325,aGLOCLDIRL,아일랜드(Index),macro
+326,aGLOCLDIL,이스라엘(Index),macro
+327,aGLOCLDNLD,네덜란드(Index),macro
+328,aGLOCLDNOR,노르웨이(Index),macro
+329,aGLOCLDPOL,폴란드(Index),macro
+330,aGLOCLDPRT,포르투갈(Index),macro
+331,aGLOCLDSVK,슬로바키아(Index),macro
+332,aGLOCLDSVN,슬로베니아(Index),macro
+333,aGLOCLDEST,에스토니아(Index),macro
+334,aGLOCLDESP,스페인(Index),macro
+335,aGLOCLDSWE,스웨덴(Index),macro
+336,aGLOCLDCHE,스위스(Index),macro
+337,aGLOCLDTUR,터키(Index),macro
+338,aGLOCLDCL,칠레(Index),macro
+339,aGLOCLDBRA,비 OECD국가_브라질(Index),macro
+340,aGLOCLDCHN,비 OECD국가_중국(Index),macro
+341,aGLOCLDIND,비 OECD국가_인도(Index),macro
+342,aGLOCLDIDN,비 OECD국가_인도네시아(Index),macro
+343,aGLOCLDRUS,비 OECD국가_러시아(Index),macro
+344,aGLOCLDZAF,비 OECD국가_남아공(Index),macro
+345,aGLOCLDEU19,유로존(19개국)(Index),macro
+346,aGLOCL6OTO,OECD - 전체(%),macro
+347,aGLOCL6OEU,OECD - 유럽(%),macro
+348,aGLOCL6G4E,유로 주요 4개국(%),macro
+349,aGLOCL6G7M,G7(%),macro
+350,aGLOCL6CAN,G7_캐나다(%),macro
+351,aGLOCL6FRA,G7_프랑스(%),macro
+352,aGLOCL6DEU,G7_독일(%),macro
+353,aGLOCL6ITA,G7_이탈리아(%),macro
+354,aGLOCL6JPN,G7_일본(%),macro
+355,aGLOCL6USA,G7_미국(%),macro
+356,aGLOCL6GBR,G7_영국(%),macro
+357,aGLOCL6NAT,NAFTA(%),macro
+358,aGLOCL6A5M,ASIA5(%),macro
+359,aGLOCL6ONM,OECD+주요6개국(%),macro
+360,aGLOCL6MEX,멕시코(%),macro
+361,aGLOCL6KOR,한국(%),macro
+362,aGLOCL6AUS,호주(%),macro
+363,aGLOCL6NZL,뉴질랜드(%),macro
+364,aGLOCL6AUT,오스트리아(%),macro
+365,aGLOCL6BEL,벨기에(%),macro
+366,aGLOCL6CZE,체코(%),macro
+367,aGLOCL6DNK,덴마크(%),macro
+368,aGLOCL6FIN,핀란드(%),macro
+369,aGLOCL6GRC,그리스(%),macro
+370,aGLOCL6HUN,헝가리(%),macro
+371,aGLOCL6IRL,아일랜드(%),macro
+372,aGLOCL6IL,이스라엘(%),macro
+373,aGLOCL6NLD,네덜란드(%),macro
+374,aGLOCL6NOR,노르웨이(%),macro
+375,aGLOCL6POL,폴란드(%),macro
+376,aGLOCL6PRT,포르투갈(%),macro
+377,aGLOCL6SVK,슬로바키아(%),macro
+378,aGLOCL6SVN,슬로베니아(%),macro
+379,aGLOCL6EST,에스토니아(%),macro
+380,aGLOCL6ESP,스페인(%),macro
+381,aGLOCL6SWE,스웨덴(%),macro
+382,aGLOCL6CHE,스위스(%),macro
+383,aGLOCL6TUR,터키(%),macro
+384,aGLOCL6CL,칠레(%),macro
+385,aGLOCL6BRA,비 OECD국가_브라질(%),macro
+386,aGLOCL6CHN,비 OECD국가_중국(%),macro
+387,aGLOCL6IND,비 OECD국가_인도(%),macro
+388,aGLOCL6IDN,비 OECD국가_인도네시아(%),macro
+389,aGLOCL6RUS,비 OECD국가_러시아(%),macro
+390,aGLOCL6ZAF,비 OECD국가_남아공(%),macro
+391,aGLOCL6EU19,유로존(19개국)(%),macro
+392,arGLOCLTGOC,OECD 전체(백만달러),macro
+393,arGLOCLTGKR,한국(백만달러),macro
+394,arGLOCLTGUS,미국(백만달러),macro
+395,arGLOCLTGJP,일본(백만달러),macro
+396,arGLOCLTGGB,영국(백만달러),macro
+397,arGLOCLTGFR,프랑스(백만달러),macro
+398,arGLOCLTGCA,캐나다(백만달러),macro
+399,arGLOCLTGDE,독일(백만달러),macro
+400,arGLOCLTGCN,중국(백만달러),macro
+401,arGLOCLTGIN,인도(백만달러),macro
+402,arGLOCLTGID,인도네시아(백만달러),macro
+403,arGLOCLTGBR,브라질(백만달러),macro
+404,arGLOCLTGZA,남아프리카(백만달러),macro
+405,arGLOCLTGRU,러시아(백만달러),macro
+406,aGLGINIDE,독일(0~1),macro
+407,aGLGINIJP,일본(0~1),macro
+408,aGLGINIGB,영국(0~1),macro
+409,aGLGINIUS,미국(0~1),macro
+410,aGLOCGRAU,호주(%),macro
+411,aGLOCGRAT,오스트리아(%),macro
+412,aGLOCGRBE,벨기에(%),macro
+413,aGLOCGRCA,캐나다(%),macro
+414,aGLOCGRCL,칠레(%),macro
+415,aGLOCGRCZ,체코(%),macro
+416,aGLOCGRDK,덴마크(%),macro
+417,aGLOCGREE,에스토니아(%),macro
+418,aGLOCGRFI,핀란드(%),macro
+419,aGLOCGRFR,프랑스(%),macro
+420,aGLOCGRDE,독일(%),macro
+421,aGLOCGRGR,그리스(%),macro
+422,aGLOCGRHU,헝가리(%),macro
+423,aGLOCGRIS,아이슬란드(%),macro
+424,aGLOCGRIE,아일랜드(%),macro
+425,aGLOCGRIL,이스라엘(%),macro
+426,aGLOCGRIT,이탈리아(%),macro
+427,aGLOCGRJP,일본(%),macro
+428,aGLOCGRKR,한국(%),macro
+429,aGLOCGRLV,라트비아(%),macro
+430,aGLOCGRLU,룩셈부르크(%),macro
+431,aGLOCGRMX,멕시코(%),macro
+432,aGLOCGRNL,네덜란드(%),macro
+433,aGLOCGRNZ,뉴질랜드(%),macro
+434,aGLOCGRNO,노르웨이(%),macro
+435,aGLOCGRPL,폴란드(%),macro
+436,aGLOCGRPT,포르투갈(%),macro
+437,aGLOCGRSK,슬로바키아(%),macro
+438,aGLOCGRSI,슬로베니아(%),macro
+439,aGLOCGRES,스페인(%),macro
+440,aGLOCGRSE,스웨덴(%),macro
+441,aGLOCGRCH,스위스(%),macro
+442,aGLOCGRTR,터키(%),macro
+443,aGLOCGRGB,영국(%),macro
+444,aGLOCGRUS,미국(%),macro
+445,aGLOCGREA15,유로존(%),macro
+446,aGLOCGRT,OECD(%),macro
+447,aGLOCGRWD,세계(%),macro
+448,aGLOCGRNOC,비 OECD(%),macro
+449,aGLOCGRBR,브라질(%),macro
+450,aGLOCGRCN,중국(%),macro
+451,aGLOCGRCO,콜롬비아(%),macro
+452,aGLOCGRCR,코스타리카(%),macro
+453,aGLOCGRIN,인도(%),macro
+454,aGLOCGRID,인도네시아(%),macro
+455,aGLOCGRLT,리투아니아(%),macro
+456,aGLOCGRRU,러시아(%),macro
+457,aGLOCGRZA,남아공(%),macro
+458,aGLOCGRDAE,신흥공업국(%),macro
+459,aGLOCGROOP,기타산유국(%),macro
+460,apGLOCPAU,호주(AUD),macro
+461,apGLOCPAT,오스트리아(EUR),macro
+462,apGLOCPBE,벨기에(EUR),macro
+463,apGLOCPCA,캐나다(CAD),macro
+464,apGLOCPCL,칠레(CLP),macro
+465,apGLOCPCZ,체코(CZK),macro
+466,apGLOCPDK,덴마크(DKK),macro
+467,apGLOCPEE,에스토니아(EUR),macro
+468,apGLOCPFI,핀란드(EUR),macro
+469,apGLOCPFR,프랑스(EUR),macro
+470,apGLOCPDE,독일(EUR),macro
+471,apGLOCPGR,그리스(EUR),macro
+472,apGLOCPHU,헝가리(HUF),macro
+473,apGLOCPIS,아이슬란드(ISK),macro
+474,apGLOCPIE,아일랜드(EUR),macro
+475,apGLOCPIL,이스라엘(ILS),macro
+476,apGLOCPIT,이탈리아(EUR),macro
+477,apGLOCPJP,일본(JPY),macro
+478,apGLOCPKR,한국(KRW),macro
+479,apGLOCPLV,라트비아(EUR),macro
+480,apGLOCPLU,룩셈부르크(EUR),macro
+481,apGLOCPMX,멕시코(MXN),macro
+482,apGLOCPNL,네덜란드(EUR),macro
+483,apGLOCPNZ,뉴질랜드(NZD),macro
+484,apGLOCPNO,노르웨이(NOK),macro
+485,apGLOCPPL,폴란드(PLN),macro
+486,apGLOCPPT,포르투갈(EUR),macro
+487,apGLOCPSK,슬로바키아(EUR),macro
+488,apGLOCPSI,슬로베니아(EUR),macro
+489,apGLOCPES,스페인(EUR),macro
+490,apGLOCPSE,스웨덴(SEK),macro
+491,apGLOCPCH,스위스(CHF),macro
+492,apGLOCPTR,터키(TRY),macro
+493,apGLOCPGB,영국(GBP),macro
+494,apGLOCPUS,미국(USD),macro
+495,apGLOCPEA15,유로존(EUR),macro
+496,apGLOCPBR,브라질(BRL),macro
+497,apGLOCPCO,콜롬비아(COP),macro
+498,apGLOCPCR,코스타리카(CRC),macro
+499,apGLOCPIN,인도(INR),macro
+500,apGLOCPID,인도네시아(IDR),macro
+501,apGLOCPLT,리투아니아(EUR),macro
+502,apGLOCPRU,러시아(RUB),macro
+503,apGLOCPZA,남아공(ZAR),macro
+504,apGLOCGAU,호주(AUD),macro
+505,apGLOCGAT,오스트리아(EUR),macro
+506,apGLOCGBE,벨기에(EUR),macro
+507,apGLOCGCA,캐나다(CAD),macro
+508,apGLOCGCL,칠레(CLP),macro
+509,apGLOCGCZ,체코(CZK),macro
+510,apGLOCGDK,덴마크(DKK),macro
+511,apGLOCGEE,에스토니아(EUR),macro
+512,apGLOCGFI,핀란드(EUR),macro
+513,apGLOCGFR,프랑스(EUR),macro
+514,apGLOCGDE,독일(EUR),macro
+515,apGLOCGGR,그리스(EUR),macro
+516,apGLOCGHU,헝가리(HUF),macro
+517,apGLOCGIS,아이슬란드(ISK),macro
+518,apGLOCGIE,아일랜드(EUR),macro
+519,apGLOCGIL,이스라엘(ILS),macro
+520,apGLOCGIT,이탈리아(EUR),macro
+521,apGLOCGJP,일본(JPY),macro
+522,apGLOCGKR,한국(KRW),macro
+523,apGLOCGLV,라트비아(EUR),macro
+524,apGLOCGLU,룩셈부르크(EUR),macro
+525,apGLOCGMX,멕시코(MXN),macro
+526,apGLOCGNL,네덜란드(EUR),macro
+527,apGLOCGNZ,뉴질랜드(NZD),macro
+528,apGLOCGNO,노르웨이(NOK),macro
+529,apGLOCGPL,폴란드(PLN),macro
+530,apGLOCGPT,포르투갈(EUR),macro
+531,apGLOCGSK,슬로바키아(EUR),macro
+532,apGLOCGSI,슬로베니아(EUR),macro
+533,apGLOCGES,스페인(EUR),macro
+534,apGLOCGSE,스웨덴(SEK),macro
+535,apGLOCGCH,스위스(CHF),macro
+536,apGLOCGTR,터키(TRY),macro
+537,apGLOCGGB,영국(GBP),macro
+538,apGLOCGUS,미국(USD),macro
+539,apGLOCGEA15,유로존(EUR),macro
+540,apGLOCGBR,브라질(BRL),macro
+541,apGLOCGCO,콜롬비아(COP),macro
+542,apGLOCGCR,코스타리카(CRC),macro
+543,apGLOCGIN,인도(INR),macro
+544,apGLOCGID,인도네시아(IDR),macro
+545,apGLOCGLT,리투아니아(EUR),macro
+546,apGLOCGRU,러시아(RUB),macro
+547,apGLOCGZA,남아공(ZAR),macro
+548,abGLOCCAAU,"호주(명목,계조)(백만달러)",macro
+549,abGLOCCAAT,"오스트리아(명목,계조)(백만달러)",macro
+550,abGLOCCABE,"벨기에(명목,계조)(백만달러)",macro
+551,abGLOCCACA,"캐나다(명목,계조)(백만달러)",macro
+552,abGLOCCACL,"칠레(명목,계조)(백만달러)",macro
+553,abGLOCCACZ,"체코(명목,계조)(백만달러)",macro
+554,abGLOCCADK,"덴마크(명목,계조)(백만달러)",macro
+555,abGLOCCAEE,"에스토니아(명목,계조)(백만달러)",macro
+556,abGLOCCAFI,"핀란드(명목,계조)(백만달러)",macro
+557,abGLOCCAFR,"프랑스(명목,계조)(백만달러)",macro
+558,abGLOCCADE,"독일(명목,계조)(백만달러)",macro
+559,abGLOCCAGR,"그리스(명목,계조)(백만달러)",macro
+560,abGLOCCAHU,"헝가리(명목,계조)(백만달러)",macro
+561,abGLOCCAIS,"아이슬란드(명목,계조)(백만달러)",macro
+562,abGLOCCAIE,"아일랜드(명목,계조)(백만달러)",macro
+563,abGLOCCAIL,"이스라엘(명목,계조)(백만달러)",macro
+564,abGLOCCAIT,"이탈리아(명목,계조)(백만달러)",macro
+565,abGLOCCAJP,"일본(명목,계조)(백만달러)",macro
+566,abGLOCCAKR,"한국(명목,계조)(백만달러)",macro
+567,abGLOCCALV,"라트비아(명목,계조)(백만달러)",macro
+568,abGLOCCALU,"룩셈부르크(명목,계조)(백만달러)",macro
+569,abGLOCCAMX,"멕시코(명목,계조)(백만달러)",macro
+570,abGLOCCANL,"네덜란드(명목,계조)(백만달러)",macro
+571,abGLOCCANZ,"뉴질랜드(명목,계조)(백만달러)",macro
+572,abGLOCCANO,"노르웨이(명목,계조)(백만달러)",macro
+573,abGLOCCAPL,"폴란드(명목,계조)(백만달러)",macro
+574,abGLOCCAPT,"포르투갈(명목,계조)(백만달러)",macro
+575,abGLOCCASK,"슬로바키아(명목,계조)(백만달러)",macro
+576,abGLOCCASI,"슬로베니아(명목,계조)(백만달러)",macro
+577,abGLOCCAES,"스페인(명목,계조)(백만달러)",macro
+578,abGLOCCASE,"스웨덴(명목,계조)(백만달러)",macro
+579,abGLOCCACH,"스위스(명목,계조)(백만달러)",macro
+580,abGLOCCATR,"터키(명목,계조)(백만달러)",macro
+581,abGLOCCAGB,"영국(명목,계조)(백만달러)",macro
+582,abGLOCCAUS,"미국(명목,계조)(백만달러)",macro
+583,abGLOCCAEA15,"유로존(명목,계조)(백만달러)",macro
+584,abGLOCCAT,"OECD(명목,계조)(백만달러)",macro
+585,abGLOCCAWD,"세계(명목,계조)(백만달러)",macro
+586,abGLOCCANOC,"비OECD(명목,계조)(백만달러)",macro
+587,abGLOCCABR,"브라질(명목,계조)(백만달러)",macro
+588,abGLOCCACN,"중국(명목,계조)(백만달러)",macro
+589,abGLOCCACO,"콜롬비아(명목,계조)(백만달러)",macro
+590,abGLOCCACR,"코스타리카(명목,계조)(백만달러)",macro
+591,abGLOCCAIN,"인도(명목,계조)(백만달러)",macro
+592,abGLOCCAID,"인도네시아(명목,계조)(백만달러)",macro
+593,abGLOCCALT,"리투아니아(명목,계조)(백만달러)",macro
+594,abGLOCCARU,"러시아(명목,계조)(백만달러)",macro
+595,abGLOCCAZA,"남아공(명목,계조)(백만달러)",macro
+596,abGLOCCADAE,"신흥공업국(명목,계조)(백만달러)",macro
+597,abGLOCCAOOP,"기타산유국(명목,계조)(백만달러)",macro
+598,abGLOCCAGAU,호주(GDP대비)(%),macro
+599,abGLOCCAGAT,오스트리아(GDP대비)(%),macro
+600,abGLOCCAGBE,벨기에(GDP대비)(%),macro
+601,abGLOCCAGCA,캐나다(GDP대비)(%),macro
+602,abGLOCCAGCL,칠레(GDP대비)(%),macro
+603,abGLOCCAGCZ,체코(GDP대비)(%),macro
+604,abGLOCCAGDK,덴마크(GDP대비)(%),macro
+605,abGLOCCAGEE,에스토니아(GDP대비)(%),macro
+606,abGLOCCAGFI,핀란드(GDP대비)(%),macro
+607,abGLOCCAGFR,프랑스(GDP대비)(%),macro
+608,abGLOCCAGDE,독일(GDP대비)(%),macro
+609,abGLOCCAGGR,그리스(GDP대비)(%),macro
+610,abGLOCCAGHU,헝가리(GDP대비)(%),macro
+611,abGLOCCAGIS,아이슬란드(GDP대비)(%),macro
+612,abGLOCCAGIE,아일랜드(GDP대비)(%),macro
+613,abGLOCCAGIL,이스라엘(GDP대비)(%),macro
+614,abGLOCCAGIT,이탈리아(GDP대비)(%),macro
+615,abGLOCCAGJP,일본(GDP대비)(%),macro
+616,abGLOCCAGKR,한국(GDP대비)(%),macro
+617,abGLOCCAGLV,라트비아(GDP대비)(%),macro
+618,abGLOCCAGLU,룩셈부르크(GDP대비)(%),macro
+619,abGLOCCAGMX,멕시코(GDP대비)(%),macro
+620,abGLOCCAGNL,네덜란드(GDP대비)(%),macro
+621,abGLOCCAGNZ,뉴질랜드(GDP대비)(%),macro
+622,abGLOCCAGNO,노르웨이(GDP대비)(%),macro
+623,abGLOCCAGPL,폴란드(GDP대비)(%),macro
+624,abGLOCCAGPT,포르투갈(GDP대비)(%),macro
+625,abGLOCCAGSK,슬로바키아(GDP대비)(%),macro
+626,abGLOCCAGSI,슬로베니아(GDP대비)(%),macro
+627,abGLOCCAGES,스페인(GDP대비)(%),macro
+628,abGLOCCAGSE,스웨덴(GDP대비)(%),macro
+629,abGLOCCAGCH,스위스(GDP대비)(%),macro
+630,abGLOCCAGTR,터키(GDP대비)(%),macro
+631,abGLOCCAGGB,영국(GDP대비)(%),macro
+632,abGLOCCAGUS,미국(GDP대비)(%),macro
+633,abGLOCCAGEU,유로존(GDP대비)(%),macro
+634,abGLOCCAGOC,OECD(GDP대비)(%),macro
+635,abGLOCCAGNOC,비OECD(GDP대비)(%),macro
+636,abGLOCCAGBR,브라질(GDP대비)(%),macro
+637,abGLOCCAGCN,중국(GDP대비)(%),macro
+638,abGLOCCAGCO,콜롬비아(GDP대비)(%),macro
+639,abGLOCCAGCR,코스타리카(GDP대비)(%),macro
+640,abGLOCCAGIN,인도(GDP대비)(%),macro
+641,abGLOCCAGID,인도네시아(GDP대비)(%),macro
+642,abGLOCCAGLT,리투아니아(GDP대비)(%),macro
+643,abGLOCCAGRU,러시아(GDP대비)(%),macro
+644,abGLOCCAGZA,남아공(GDP대비)(%),macro
+645,abGLOCTBAU,"호주(명목,계조)(백만달러)",macro
+646,abGLOCTBAT,"오스트리아(명목,계조)(백만달러)",macro
+647,abGLOCTBBE,"벨기에(명목,계조)(백만달러)",macro
+648,abGLOCTBCA,"캐나다(명목,계조)(백만달러)",macro
+649,abGLOCTBCZ,"체코(명목,계조)(백만달러)",macro
+650,abGLOCTBDK,"덴마크(명목,계조)(백만달러)",macro
+651,abGLOCTBEE,"에스토니아(명목,계조)(백만달러)",macro
+652,abGLOCTBFI,"핀란드(명목,계조)(백만달러)",macro
+653,abGLOCTBFR,"프랑스(명목,계조)(백만달러)",macro
+654,abGLOCTBDE,"독일(명목,계조)(백만달러)",macro
+655,abGLOCTBGR,"그리스(명목,계조)(백만달러)",macro
+656,abGLOCTBHU,"헝가리(명목,계조)(백만달러)",macro
+657,abGLOCTBIS,"아이슬란드(명목,계조)(백만달러)",macro
+658,abGLOCTBIE,"아일랜드(명목,계조)(백만달러)",macro
+659,abGLOCTBIL,"이스라엘(명목,계조)(백만달러)",macro
+660,abGLOCTBIT,"이탈리아(명목,계조)(백만달러)",macro
+661,abGLOCTBJP,"일본(명목,계조)(백만달러)",macro
+662,abGLOCTBKR,"한국(명목,계조)(백만달러)",macro
+663,abGLOCTBLV,"라트비아(명목,계조)(백만달러)",macro
+664,abGLOCTBLU,"룩셈부르크(명목,계조)(백만달러)",macro
+665,abGLOCTBMX,"멕시코(명목,계조)(백만달러)",macro
+666,abGLOCTBNL,"네덜란드(명목,계조)(백만달러)",macro
+667,abGLOCTBNZ,"뉴질랜드(명목,계조)(백만달러)",macro
+668,abGLOCTBNO,"노르웨이(명목,계조)(백만달러)",macro
+669,abGLOCTBPL,"폴란드(명목,계조)(백만달러)",macro
+670,abGLOCTBPT,"포르투갈(명목,계조)(백만달러)",macro
+671,abGLOCTBSK,"슬로바키아(명목,계조)(백만달러)",macro
+672,abGLOCTBSI,"슬로베니아(명목,계조)(백만달러)",macro
+673,abGLOCTBES,"스페인(명목,계조)(백만달러)",macro
+674,abGLOCTBSE,"스웨덴(명목,계조)(백만달러)",macro
+675,abGLOCTBCH,"스위스(명목,계조)(백만달러)",macro
+676,abGLOCTBTR,"터키(명목,계조)(백만달러)",macro
+677,abGLOCTBGB,"영국(명목,계조)(백만달러)",macro
+678,abGLOCTBUS,"미국(명목,계조)(백만달러)",macro
+679,abGLOCTBEU,"유로존(명목,계조)(백만달러)",macro
+680,abGLOCTBOC,"OECD(명목,계조)(백만달러)",macro
+681,abGLOCTBWD,"세계(명목,계조)(백만달러)",macro
+682,abGLOCTBNOC,"비OECD(명목,계조)(백만달러)",macro
+683,abGLOCTBBR,"브라질(명목,계조)(백만달러)",macro
+684,abGLOCTBCN,"중국(명목,계조)(백만달러)",macro
+685,abGLOCTBCO,"콜롬비아(명목,계조)(백만달러)",macro
+686,abGLOCTBIN,"인도(명목,계조)(백만달러)",macro
+687,abGLOCTBID,"인도네시아(명목,계조)(백만달러)",macro
+688,abGLOCTBLT,"리투아니아(명목,계조)(백만달러)",macro
+689,abGLOCTBRU,"러시아(명목,계조)(백만달러)",macro
+690,abGLOCTBZA,"남아공(명목,계조)(백만달러)",macro
+691,abGLOCTBDAE,"신흥공업국(명목,계조)(백만달러)",macro
+692,abGLOCTBOOP,"기타산유국(명목,계조)(백만달러)",macro
+693,apGLOCEXAU,호주(달러),macro
+694,apGLOCEXAT,오스트리아(달러),macro
+695,apGLOCEXBE,벨기에(달러),macro
+696,apGLOCEXCA,캐나다(달러),macro
+697,apGLOCEXCL,칠레(달러),macro
+698,apGLOCEXCZ,체코(달러),macro
+699,apGLOCEXDK,덴마크(달러),macro
+700,apGLOCEXEE,에스토니아(달러),macro
+701,apGLOCEXFI,핀란드(달러),macro
+702,apGLOCEXFR,프랑스(달러),macro
+703,apGLOCEXDE,독일(달러),macro
+704,apGLOCEXGR,그리스(달러),macro
+705,apGLOCEXHU,헝가리(달러),macro
+706,apGLOCEXIS,아이슬란드(달러),macro
+707,apGLOCEXIE,아일랜드(달러),macro
+708,apGLOCEXIL,이스라엘(달러),macro
+709,apGLOCEXIT,이탈리아(달러),macro
+710,apGLOCEXJP,일본(달러),macro
+711,apGLOCEXKR,한국(달러),macro
+712,apGLOCEXLV,라트비아(달러),macro
+713,apGLOCEXLU,룩셈부르크(달러),macro
+714,apGLOCEXMX,멕시코(달러),macro
+715,apGLOCEXNL,네덜란드(달러),macro
+716,apGLOCEXNZ,뉴질랜드(달러),macro
+717,apGLOCEXNO,노르웨이(달러),macro
+718,apGLOCEXPL,폴란드(달러),macro
+719,apGLOCEXPT,포르투갈(달러),macro
+720,apGLOCEXSK,슬로바키아(달러),macro
+721,apGLOCEXSI,슬로베니아(달러),macro
+722,apGLOCEXES,스페인(달러),macro
+723,apGLOCEXSE,스웨덴(달러),macro
+724,apGLOCEXCH,스위스(달러),macro
+725,apGLOCEXTR,터키(달러),macro
+726,apGLOCEXGB,영국(달러),macro
+727,apGLOCEXUS,미국(달러),macro
+728,apGLOCEXEA15,유로존(달러),macro
+729,apGLOCEXT,OECD 전체(달러),macro
+730,apGLOCEXWD,세계(달러),macro
+731,apGLOCEXNOC,비 OECD국가(달러),macro
+732,apGLOCEXBR,브라질(달러),macro
+733,apGLOCEXCN,중국(달러),macro
+734,apGLOCEXCO,콜롬비아(달러),macro
+735,apGLOCEXCR,코스타리카(달러),macro
+736,apGLOCEXIN,인도(달러),macro
+737,apGLOCEXID,인도네시아(달러),macro
+738,apGLOCEXLT,리투아니아(달러),macro
+739,apGLOCEXRU,러시아(달러),macro
+740,apGLOCEXZA,남아공(달러),macro
+741,apGLOCEXDAE,신흥공업국군(달러),macro
+742,apGLOCEXOOP,기타 산유국(달러),macro
+743,apGLOCIMAU,호주(달러),macro
+744,apGLOCIMAT,오스트리아(달러),macro
+745,apGLOCIMBE,벨기에(달러),macro
+746,apGLOCIMCA,캐나다(달러),macro
+747,apGLOCIMCL,칠레(달러),macro
+748,apGLOCIMCZ,체코(달러),macro
+749,apGLOCIMDK,덴마크(달러),macro
+750,apGLOCIMEE,에스토니아(달러),macro
+751,apGLOCIMFI,핀란드(달러),macro
+752,apGLOCIMFR,프랑스(달러),macro
+753,apGLOCIMDE,독일(달러),macro
+754,apGLOCIMGR,그리스(달러),macro
+755,apGLOCIMHU,헝가리(달러),macro
+756,apGLOCIMIS,아이슬란드(달러),macro
+757,apGLOCIMIE,아일랜드(달러),macro
+758,apGLOCIMIL,이스라엘(달러),macro
+759,apGLOCIMIT,이탈리아(달러),macro
+760,apGLOCIMJP,일본(달러),macro
+761,apGLOCIMKR,한국(달러),macro
+762,apGLOCIMLV,라트비아(달러),macro
+763,apGLOCIMLU,룩셈부르크(달러),macro
+764,apGLOCIMMX,멕시코(달러),macro
+765,apGLOCIMNL,네덜란드(달러),macro
+766,apGLOCIMNZ,뉴질랜드(달러),macro
+767,apGLOCIMNO,노르웨이(달러),macro
+768,apGLOCIMPL,폴란드(달러),macro
+769,apGLOCIMPT,포르투갈(달러),macro
+770,apGLOCIMSK,슬로바키아(달러),macro
+771,apGLOCIMSI,슬로베니아(달러),macro
+772,apGLOCIMES,스페인(달러),macro
+773,apGLOCIMSE,스웨덴(달러),macro
+774,apGLOCIMCH,스위스(달러),macro
+775,apGLOCIMTR,터키(달러),macro
+776,apGLOCIMGB,영국(달러),macro
+777,apGLOCIMUS,미국(달러),macro
+778,apGLOCIMEA15,유로존(달러),macro
+779,apGLOCIMT,OECD 전체(달러),macro
+780,apGLOCIMWD,세계(달러),macro
+781,apGLOCIMNOC,비 OECD국가(달러),macro
+782,apGLOCIMBR,브라질(달러),macro
+783,apGLOCIMCN,중국(달러),macro
+784,apGLOCIMCO,콜롬비아(달러),macro
+785,apGLOCIMCR,코스타리카(달러),macro
+786,apGLOCIMIN,인도(달러),macro
+787,apGLOCIMID,인도네시아(달러),macro
+788,apGLOCIMLT,리투아니아(달러),macro
+789,apGLOCIMRU,러시아(달러),macro
+790,apGLOCIMZA,남아공(달러),macro
+791,apGLOCIMDAE,신흥공업국군(달러),macro
+792,apGLOCIMOOP,기타 산유국(달러),macro
+793,apGLOCTAU,호주(달러),macro
+794,apGLOCTAT,오스트리아(달러),macro
+795,apGLOCTBE,벨기에(달러),macro
+796,apGLOCTCA,캐나다(달러),macro
+797,apGLOCTCL,칠레(달러),macro
+798,apGLOCTCZ,체코(달러),macro
+799,apGLOCTDK,덴마크(달러),macro
+800,apGLOCTEE,에스토니아(달러),macro
+801,apGLOCTFI,핀란드(달러),macro
+802,apGLOCTFR,프랑스(달러),macro
+803,apGLOCTDE,독일(달러),macro
+804,apGLOCTGR,그리스(달러),macro
+805,apGLOCTHU,헝가리(달러),macro
+806,apGLOCTIS,아이슬란드(달러),macro
+807,apGLOCTIE,아일랜드(달러),macro
+808,apGLOCTIL,이스라엘(달러),macro
+809,apGLOCTIT,이탈리아(달러),macro
+810,apGLOCTJP,일본(달러),macro
+811,apGLOCTKR,한국(달러),macro
+812,apGLOCTLV,라트비아(달러),macro
+813,apGLOCTLU,룩셈부르크(달러),macro
+814,apGLOCTMX,멕시코(달러),macro
+815,apGLOCTNL,네덜란드(달러),macro
+816,apGLOCTNZ,뉴질랜드(달러),macro
+817,apGLOCTNO,노르웨이(달러),macro
+818,apGLOCTPL,폴란드(달러),macro
+819,apGLOCTPT,포르투갈(달러),macro
+820,apGLOCTSK,슬로바키아(달러),macro
+821,apGLOCTSI,슬로베니아(달러),macro
+822,apGLOCTES,스페인(달러),macro
+823,apGLOCTSE,스웨덴(달러),macro
+824,apGLOCTCH,스위스(달러),macro
+825,apGLOCTTR,터키(달러),macro
+826,apGLOCTGB,영국(달러),macro
+827,apGLOCTUS,미국(달러),macro
+828,apGLOCTEA15,유로존(달러),macro
+829,apGLOCTT,OECD(달러),macro
+830,apGLOCTWD,세계(달러),macro
+831,apGLOCTNOC,비 OECD(달러),macro
+832,apGLOCTBR,브라질(달러),macro
+833,apGLOCTCN,중국(달러),macro
+834,apGLOCTCO,콜롬비아(달러),macro
+835,apGLOCTIN,인도(달러),macro
+836,apGLOCTID,인도네시아(달러),macro
+837,apGLOCTLT,리투아니아(달러),macro
+838,apGLOCTRU,러시아(달러),macro
+839,apGLOCTZA,남아공(달러),macro
+840,apGLOCTDAE,신흥공업국(달러),macro
+841,apGLOCTOOP,기타 산유국(달러),macro
+842,aeGLOCCPIAU,호주(2014-2015=100),macro
+843,aeGLOCCPICA,캐나다(2007=100),macro
+844,aeGLOCCPICL,칠레(2013=100),macro
+845,aeGLOCCPICZ,체코(2010=100),macro
+846,aeGLOCCPIDK,덴마크(2010=100),macro
+847,aeGLOCCPIHU,헝가리(2005=100),macro
+848,aeGLOCCPIIS,아이슬란드(2005=100),macro
+849,aeGLOCCPIIE,이스라엘(2015=100),macro
+850,aeGLOCCPIJP,일본(2011=100),macro
+851,aeGLOCCPIKR,한국(2010=100),macro
+852,aeGLOCCPIMX,멕시코(2013=100),macro
+853,aeGLOCCPINZ,뉴질랜드(2009-2010=100),macro
+854,aeGLOCCPINO,노르웨이(2015=100),macro
+855,aeGLOCCPIPL,폴란드(2010=100),macro
+856,aeGLOCCPICH,스웨덴(2016=100),macro
+857,aeGLOCCPITR,스위스(2010=100),macro
+858,aeGLOCCPIGB,터키(2009=100),macro
+859,aeGLOCCPIUS,미국(2009=100),macro
+860,aeGLOCCPIT,OECD(2010=100),macro
+861,aeGLOCCPIBR,브라질(2000=100),macro
+862,aeGLOCCPICN,중국(2010=100),macro
+863,aeGLOCCPICO,콜롬비아(2005=100),macro
+864,aeGLOCCPICR,코스타리카(2012=100),macro
+865,aeGLOCCPIIN,인도(2011-2012=100),macro
+866,aeGLOCCPIID,인도네시아(2010=100),macro
+867,aeGLOCCPIRU,러시아(2016=100),macro
+868,aeGLOCCPIZA,남아공(2010=100),macro
+869,aGLOCNSAU,호주(%),macro
+870,aGLOCNSAT,오스트리아(%),macro
+871,aGLOCNSBE,벨기에(%),macro
+872,aGLOCNSCA,캐나다(%),macro
+873,aGLOCNSCL,칠레(%),macro
+874,aGLOCNSDK,덴마크(%),macro
+875,aGLOCNSEE,에스토니아(%),macro
+876,aGLOCNSFI,핀란드(%),macro
+877,aGLOCNSDE,독일(%),macro
+878,aGLOCNSHU,헝가리(%),macro
+879,aGLOCNSIS,아이슬란드(%),macro
+880,aGLOCNSIT,이탈리아(%),macro
+881,aGLOCNSJP,일본(%),macro
+882,aGLOCNSKR,한국(%),macro
+883,aGLOCNSLU,룩셈부르크(%),macro
+884,aGLOCNSNL,네덜란드(%),macro
+885,aGLOCNSNZ,뉴질랜드(%),macro
+886,aGLOCNSNO,노르웨이(%),macro
+887,aGLOCNSPL,폴란드(%),macro
+888,aGLOCNSSK,슬로바키아(%),macro
+889,aGLOCNSSI,슬로베니아(%),macro
+890,aGLOCNSES,스페인(%),macro
+891,aGLOCNSSE,스웨덴(%),macro
+892,aGLOCNSCH,스위스(%),macro
+893,aGLOCNSUS,미국(%),macro
+894,aGLOCNSEA15,유로존(%),macro
+895,aGLOCNSLT,리투아니아(%),macro
+896,aGLOCREAU,호주(2010=100),macro
+897,aGLOCREAT,오스트리아(2010=100),macro
+898,aGLOCREBE,벨기에(2010=100),macro
+899,aGLOCRECA,캐나다(2010=100),macro
+900,aGLOCRECL,칠레(2010=100),macro
+901,aGLOCRECZ,체코(2010=100),macro
+902,aGLOCREDK,덴마크(2010=100),macro
+903,aGLOCREEE,에스토니아(2010=100),macro
+904,aGLOCREFI,핀란드(2010=100),macro
+905,aGLOCREFR,프랑스(2010=100),macro
+906,aGLOCREDE,독일(2010=100),macro
+907,aGLOCREGR,그리스(2010=100),macro
+908,aGLOCREHU,헝가리(2010=100),macro
+909,aGLOCREIS,아이슬란드(2010=100),macro
+910,aGLOCREIE,아일랜드(2010=100),macro
+911,aGLOCREIL,이스라엘(2010=100),macro
+912,aGLOCREIT,이탈리아(2010=100),macro
+913,aGLOCREJP,일본(2010=100),macro
+914,aGLOCREKR,한국(2010=100),macro
+915,aGLOCRELU,룩셈부르크(2010=100),macro
+916,aGLOCREMX,멕시코(2010=100),macro
+917,aGLOCRENL,네덜란드(2010=100),macro
+918,aGLOCRENZ,뉴질랜드(2010=100),macro
+919,aGLOCRENO,노르웨이(2010=100),macro
+920,aGLOCREPL,폴란드(2010=100),macro
+921,aGLOCREPT,포르투갈(2010=100),macro
+922,aGLOCRESK,슬로바키아(2010=100),macro
+923,aGLOCRESI,슬로베니아(2010=100),macro
+924,aGLOCREES,스페인(2010=100),macro
+925,aGLOCRESE,스웨덴(2010=100),macro
+926,aGLOCRECH,스위스(2010=100),macro
+927,aGLOCRETR,터키(2010=100),macro
+928,aGLOCREGB,영국(2010=100),macro
+929,aGLOCREUS,미국(2010=100),macro
+930,aGLOCREBR,브라질(2010=100),macro
+931,aGLOCRECN,중국(2010=100),macro
+932,aGLOCREIN,인도(2010=100),macro
+933,aGLOCREID,인도네시아(2010=100),macro
+934,aGLOCRERU,러시아(2010=100),macro
+935,aGLOCREZA,남아공(2010=100),macro
+936,aGLIFACNAGDAR,"GDP(불변,전년비)(%)",macro
+937,aGLIFACNAGDARFX,"GDP(불변,시장환율)(%)",macro
+938,aaGLIFACNAGD$,"GDP(명목,달러)(십억달러)",macro
+939,aaGLIFACNAGDPPV$,"GDP(명목,PPP)(십억 구매력평가 달러)",macro
+940,aGLIFACNACFPG,투자(GDP대비비중)(%),macro
+941,aGLIFACNASVPG,총저축(GDP대비비중)(%),macro
+942,aGLIFACPRCAR,"CPI(평균,전년비)(%)",macro
+943,aGLIFACPRCARR,"CPI(기말,전년비)(%)",macro
+944,aGLIFACTVAR,재화서비스무역량(%),macro
+945,aGLIFACTIMVGSAR,재화서비스수입물량(%),macro
+946,aGLIFACTIMVGAR,재화수입물량(%),macro
+947,aGLIFACTEXVGSAR,재화서비스수출물량(%),macro
+948,aGLIFACTEXVGAR,재화수출물량(%),macro
+949,aaGLIFACBPCA$,경상수지(달러)(십억달러),macro
+950,aGLIFAENAGDAR,"GDP(불변,전년비)(%)",macro
+951,aaGLIFAENAGD$,"GDP(명목,달러)(십억달러)",macro
+952,aGLIFAENACFPG,투자(GDP대비)(%),macro
+953,aGLIFAENASVPG,총저축(GDP대비)(%),macro
+954,aGLIFAECPIAA,CPI(평균)(%),macro
+955,aGLIFAELWUR,실업률(%),macro
+956,aGLIFAEGGND,일반정부 순부채(GDP대비)(%),macro
+957,aaGLIFAEBPCA$,경상수지(달러)(십억달러),macro
+958,aGLIFAEBPCAPG,경상수지(GDP대비)(%),macro
+959,aGLIFERNAGDAR,"GDP(불변,전년비)(%)",macro
+960,aaGLIFERNAGD$,"GDP(명목,달러)(십억달러)",macro
+961,afGLIFERNAGDDF,GDP디플레이터(2000=100),macro
+962,aGLIFERGAPPPG,산출량갭(잠재GDP대비)(%),macro
+963,aGLIFERNACFPG,투자(GDP대비)(%),macro
+964,aGLIFERNASVPG,총저축(GDP대비)(%),macro
+965,aGLIFERCPIAB,"CPI(평균,전년비)(%)",macro
+966,aGLIFERCPIAEB,"CPI(기말,전년비)(%)",macro
+967,aGLIFERIRLIBOR3,LIBOR(3개월)(%),macro
+968,aGLIFERTIMVGSAR,재화서비스수입물량(%),macro
+969,aGLIFERTIMVGAR,재화수입물량(%),macro
+970,aGLIFERTIXVGSAR,재화서비스수출물량(%),macro
+971,aGLIFERTIXVGAR,재화수출물량(%),macro
+972,aGLIFERTINTTGSAR,재화서비스교역조건(%),macro
+973,aGLIFERTINTTGAR,재화교역조건(%),macro
+974,aGLIFERLWUR,실업률(%),macro
+975,aGLIFEREMPB,취업자(2000=100),macro
+976,aGLIFERGGR,일반정부 재정수입(GDP대비)(%),macro
+977,aGLIFERGGTE,일반정부 총지출(GDP대비)(%),macro
+978,aGLIFERPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+979,aGLIFERGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+980,aGLIFERGGND,일반정부 순부채(GDP대비)(%),macro
+981,aGLIFERGGGD,일반정부 총부채(GDP대비)(%),macro
+982,aGLIFERGGBLPG,일반정부 재정수지(GDP대비)(%),macro
+983,aGLIFERPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+984,aaGLIFERBPCA$,경상수지(달러)(십억달러),macro
+985,aGLIFERBPCAPG,경상수지(GDP대비)(%),macro
+986,aaGLIFERBPCAMGS$,재화서비스수입(십억달러),macro
+987,aaGLIFERBPCAXGS$,재화서비스수출(십억달러),macro
+988,aGLIFERBPFAB,금융수지(달러)(십억달러),macro
+989,aaGLIFERBPFDINT$,직접투자수지(십억달러),macro
+990,aGLIFERBPPI,증권투자소득수지(십억달러),macro
+991,aGLIFERBPFDIN$,파생금융상품수지(십억달러),macro
+992,aGLIFERBPOI,기타투자수지(십억달러),macro
+993,aaGLIFERFXRC$,외화보유액증감(십억달러),macro
+994,aGLIFMDCNAGDAR,"GDP(불변,전년비)(%)",macro
+995,aaGLIFMDCNAGD$,"GDP(명목,달러)(십억달러)",macro
+996,afGLIFMDCNAGDDF,GDP디플레이터(2000=100),macro
+997,aGLIFMDCGAPPPG,산출량갭(잠재GDP대비)(%),macro
+998,aaGLIFMDCNAGDPPV$,"GDP(명목,PPP)(십억 구매력평가 달러)",macro
+999,aaGLIFMDCNAGDPPP$,"1인당GDP(명목,PPP)(구매력평가 달러)",macro
+1000,aGLIFMDCNAGDPPSO,"GDP(PPP,전세계비중)(%)",macro
+1001,aGLIFMDCNACFPG,투자(GDP대비)(%),macro
+1002,aGLIFMDCNASVPG,총저축(GDP대비)(%),macro
+1003,aGLIFMDCCPIAC,"CPI(평균,전년비)(%)",macro
+1004,aGLIFMDCCPIAEC,"CPI(기말,전년비)(%)",macro
+1005,aGLIFMDCTIMVGSAR,재화서비스수입물량(%),macro
+1006,aGLIFMDCTIMVGAR,재화수입물량(%),macro
+1007,aGLIFMDCTIXVGSAR,재화서비스수출물량(%),macro
+1008,aGLIFMDCTIXVGAR,재화수출물량(%),macro
+1009,aGLIFMDCTINTTGSAR,재화서비스교역조건(%),macro
+1010,aGLIFMDCTINTTGAR,재화교역조건(%),macro
+1011,aGLIFMDCLWUR,실업률(%),macro
+1012,aGLIFMDCEMPC,취업자(%),macro
+1013,aGLIFMDCGGR,일반정부 재정수입(GDP대비)(%),macro
+1014,aGLIFMDCGGTE,일반정부 총지출(GDP대비)(%),macro
+1015,aGLIFMDCPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1016,aGLIFMDCPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1017,aGLIFMDCGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1018,aGLIFMDCGGND,일반정부 순부채(GDP대비)(%),macro
+1019,aGLIFMDCGGGD,일반정부 총부채(GDP대비)(%),macro
+1020,aGLIFMDCGGBLPG,일반정부 재정수지(GDP대비)(십억달러),macro
+1021,aaGLIFMDCBPCA$,경상수지(달러)(%),macro
+1022,aGLIFMDCBPCAPG,경상수지(GDP대비)(%),macro
+1023,aaGLIFMDCBPCAMGS$,재화서비스수입(%),macro
+1024,aaGLIFMDCBPCAXGS$,재화서비스수출(%),macro
+1025,aGLIFMDCBPFAB,금융수지(달러)(%),macro
+1026,aaGLIFMDCBPFDINT$,직접투자수지(%),macro
+1027,aGLIFMDCBPPI,증권투자소득수지(%),macro
+1028,aGLIFMDCBPFDIN$,파생금융상품수지(%),macro
+1029,aGLIFMDCBPOI,기타투자수지(%),macro
+1030,aaGLIFMDCFXRC$,외화보유액증감(%),macro
+1031,aGLIFDCOTNAGDAR,"GDP(불변,전년비)(%)",macro
+1032,aGLIFDCOTNACFPG,투자(GDP대비)(%),macro
+1033,aGLIFDCOTNASVPG,총저축(GDP대비)(%),macro
+1034,aGLIFDCOTCPIAE,CPI(평균)(%),macro
+1035,aGLIFDCOTLWUR,실업률(%),macro
+1036,aaGLIFDCOTBPCA$,경상수지(십억달러),macro
+1037,aGLIFDCOTBPCAPG,경상수지(GDP대비)(%),macro
+1038,aGLIFEUNAGDAR,"GDP(불변,전년비)(%)",macro
+1039,aaGLIFEUNAGDPPV$,"GDP(명목,PPP)(십억 구매력평가 달러)",macro
+1040,aaGLIFEUNAGDPPP$,"1인당GDP(명목,PPP)(구매력평가 달러)",macro
+1041,aGLIFEUNAGDPPSR,"GDP(PPP,전세계비중)(%)",macro
+1042,aGLIFEUNACFPG,투자(GDP대비)(%),macro
+1043,aGLIFEUNASVPG,총저축(GDP대비)(%),macro
+1044,aGLIFEUCPIAF,"CPI(평균,전년비)(%)",macro
+1045,aGLIFEUCPIAEF,"CPI(기말,전년비)(%)",macro
+1046,aGLIFEUGGR,일반정부 재정수입(GDP대비)(%),macro
+1047,aGLIFEUGGTE,일반정부 총지출(GDP대비)(%),macro
+1048,aGLIFEUPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1049,aGLIFEUGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1050,aGLIFEUGGND,일반정부 순부채(GDP대비)(%),macro
+1051,aGLIFEUGGGD,일반정부 총부채(GDP대비)(%),macro
+1052,aGLIFEUGGBLPG,일반정부 재정수지(GDP대비)(%),macro
+1053,aaGLIFEUBPCA$,경상수지(달러)(십억달러),macro
+1054,aGLIFEUBPCAPG,경상수지(GDP대비)(%),macro
+1055,aGLIFEMOTNAGDAR,"GDP(불변,전년비)(%)",macro
+1056,aGLIFEMOTNACFPG,투자(GDP대비)(%),macro
+1057,aGLIFEMOTNASVPG,총저축(GDP대비)(%),macro
+1058,aGLIFEMOTPRCAR,CPI(평균)(%),macro
+1059,aaGLIFEMOTBPCA$,경상수지(십억달러),macro
+1060,aGLIFEMOTBPCAPG,경상수지(GDP대비)(%),macro
+1061,aGLIFCEEUNAGDAR,"GDP(불변,전년비)(%)",macro
+1062,aGLIFCEEUNACFPG,투자(GDP대비)(%),macro
+1063,aGLIFCEEUNASVPG,총저축(GDP대비)(%),macro
+1064,aGLIFCEEUCPIAI,CPI(평균)(%),macro
+1065,aaGLIFCEEUBPCA$,경상수지(십억달러),macro
+1066,aGLIFCEEUBPCAPG,경상수지(GDP대비)(%),macro
+1067,aGLIFEANAGDAR,"GDP(불변,전년비)(%)",macro
+1068,aGLIFEANACFPG,투자(GDP대비)(%),macro
+1069,aGLIFEANASVPG,총저축(GDP대비)(%),macro
+1070,aGLIFEACPIAK,CPI(평균)(%),macro
+1071,aaGLIFEABPCA$,경상수지(십억달러),macro
+1072,aGLIFEABPCAPG,경상수지(GDP대비)(%),macro
+1073,aGLIFASE4NAGDAR,"GDP(불변,전년비)(%)",macro
+1074,aaGLIFASE5NAGD$,"GDP(명목,달러)(십억달러)",macro
+1075,aaGLIFASE6NAGDPPV$,"GDP(명목,PPP)(십억 구매력평가 달러)",macro
+1076,aaGLIFASE5NAGDPPP$,"GDP(PPP,1인당)(구매력평가 달러)",macro
+1077,aGLIFASE5NAGDPPS,"GDP(PPP,전세계비중)(%)",macro
+1078,aGLIFASE5NACFPG,투자(GDP대비)(%),macro
+1079,aGLIFASE5NASVPG,총저축(GDP대비)(%),macro
+1080,aGLIFASE7PRCAR,소비자물가(%),macro
+1081,aGLIFASE5CPIAEP,"CPI(기말값,연율)(%)",macro
+1082,aGLIFASE8TIMVGSAR,재화서비스수입물량(%),macro
+1083,aGLIFASE9TIMVGAR,재화수입물량(%),macro
+1084,aGLIFASE10TIXVGSAR,재화서비스수출물량(%),macro
+1085,aGLIFASE11TIXVGAR,재화수출물량(%),macro
+1086,aGLIFASE12TINTTGSAR,재화서비스교역조건(%),macro
+1087,aGLIFASE13TINTTGAR,재화교역조건(%),macro
+1088,aGLIFASE5GGR,일반정부 재정수입(GDP대비)(%),macro
+1089,aGLIFASE5GGTE,일반정부 총지출(GDP대비)(%),macro
+1090,aGLIFASE5PFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1091,aGLIFASE5GGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1092,aGLIFASE5GGGD,일반정부 총부채(GDP대비)(%),macro
+1093,aaGLIFASE14BPCA$,경상수지(십억달러),macro
+1094,aGLIFASE15BPCAPG,경상수지(GDP대비)(%),macro
+1095,aGLIFLACNACFPG,투자(GDP대비)(%),macro
+1096,aGLIFLACNASVPG,총저축(GDP대비)(%),macro
+1097,aGLIFLACBPCA$,경상수지(십억달러),macro
+1098,aGLIFLACBPCAPG,경상수지(GDP대비)(%),macro
+1099,acGLIFMCNAGDAR,"국내총생산(불변,전년비)(%)",macro
+1100,aGLIFMCNACFPG,투자(GDP대비 비중)(%),macro
+1101,aGLIFMCNASVPG,총저축(GDP대비 비중)(%),macro
+1102,aGLIFMCCPIAH,"소비자물가지수(평균,전년비)(%)",macro
+1103,aaGLIFMCBPCA$,경상수지(달러)(십억달러),macro
+1104,aGLIFMCBPCAPG,경상수지(GDP대비 비중)(%),macro
+1105,acGLIFAFSNAGDAR,"GDP(불변,전년비)(%)",macro
+1106,aGLIFAFSNACFPG,투자(GDP대비)(%),macro
+1107,aGLIFAFSNASVPG,총저축(GDP대비)(%),macro
+1108,aGLIFAFSCPIAH,CPI(평균)(%),macro
+1109,aaGLIFAFSBPCA$,경상수지(십억달러),macro
+1110,aGLIFAFSBPCAPG,경상수지(GDP대비)(%),macro
+1111,acGLIFBRNAGDL,GDP(불변)(십억 브라질헤알),macro
+1112,aGLIFBRNAGDAR,"GDP(불변,전년비)(%)",macro
+1113,aaGLIFBRNAGDL,GDP(명목)(십억 브라질헤알),macro
+1114,aaGLIFBRNAGD$,"GDP(명목,달러)(십억달러)",macro
+1115,afGLIFBRNAGDDF,GDP디플레이터(1995=100),macro
+1116,acGLIFBRNAGDPCL,1인당GDP(불변)(브라질헤알),macro
+1117,aaGLIFBRNAGDPCL,1인당GDP(명목)(브라질헤알),macro
+1118,aaGLIFBRNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1119,aaGLIFBRNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1120,aGLIFBRPPPCR,함축적PPP변환율(브라질헤알/달러),macro
+1121,aGLIFBRNACFPG,투자(GDP대비)(%),macro
+1122,aGLIFBRNASVPG,총저축(GDP대비)(%),macro
+1123,afGLIFBRCPIFFF,CPI(평균)(1980=100),macro
+1124,aGLIFBRCPIAFFF,"CPI(평균,전년비)(%)",macro
+1125,aGLIFBRCPIEKFFF,CPI(기말)(1980=100),macro
+1126,aGLIFBRCPIAEKFFF,"CPI(기말,전년비)(%)",macro
+1127,agGLIFBREIIGSV,재화와서비스수입량(%),macro
+1128,agGLIFBREIIG,재화의수입량(%),macro
+1129,agGLIFBREIEGSV,재화와서비스수출량(%),macro
+1130,agGLIFBREIEG,재화의수출량(%),macro
+1131,apGLIFBREIIOII,석유수입량(십억달러),macro
+1132,apGLIFBREIEOII,석유수출량(십억달러),macro
+1133,aGLIFBRLWUR,실업률(%),macro
+1134,apGLIFBRPP,인구(백만명),macro
+1135,aGLIFBRGGRL,일반정부 재정수입(십억 브라질헤알),macro
+1136,aGLIFBRGGR,일반정부 재정수입(GDP대비)(%),macro
+1137,aGLIFBRGGTEL,일반정부 총지출(십억 브라질헤알),macro
+1138,aGLIFBRGGTE,일반정부 총지출(GDP대비)(%),macro
+1139,aaGLIFBRPFBLL,일반정부 순융자/차입(십억 브라질헤알),macro
+1140,aGLIFBRPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1141,aaGLIFBRPFSBL,일반정부 구조화수지(십억 브라질헤알),macro
+1142,aGLIFBRPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1143,aGLIFBRGGPNLBL,일반정부 기초재정 순융자/차입(십억 브라질헤알),macro
+1144,aGLIFBRGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1145,aGLIFBRPFNDL,일반정부 순부채(십억 브라질헤알),macro
+1146,aGLIFBRGGND,일반정부 순부채(GDP대비)(%),macro
+1147,aGLIFBRPFDBL,일반정부 총부채(십억 브라질헤알),macro
+1148,aGLIFBRGGGD,일반정부 총부채(GDP대비)(%),macro
+1149,aGLIFBRNAGDP,경상가격(십억 브라질헤알),macro
+1150,aaGLIFBRBPCA,경상수지(달러)(십억달러),macro
+1151,aGLIFBRBPCAPG,경상수지(GDP대비)(%),macro
+1152,aGLIFCNNAGDAR,"GDP(불변,전년비)(%)",macro
+1153,aaGLIFCNNAGD$,"GDP(명목,달러)(십억달러)",macro
+1154,aaGLIFCNNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1155,aGLIFCNNACFPG,투자(GDP대비)(%),macro
+1156,aGLIFCNNASVPG,총저축(GDP대비)(%),macro
+1157,aGLIFCNCPIAN,CPI(평균)(%),macro
+1158,aGLIFCNLWUR,실업률(%),macro
+1159,apGLIFCNPP,인구(백만명),macro
+1160,aGLIFCNPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1161,aaGLIFCNBPCA$,경상수지(달러)(십억달러),macro
+1162,aGLIFCNBPCAPG,경상수지(GDP대비)(%),macro
+1163,acGLIFCHNAGDL,GDP(불변)(십억 중국위안),macro
+1164,aGLIFCHNAGDAR,"GDP(불변,전년비)(%)",macro
+1165,aaGLIFCHNAGD$,"GDP(명목,달러)(십억달러)",macro
+1166,afGLIFCHNAGDDF,국내총생산디플레이터(1990=100),macro
+1167,acGLIFCHNAGDPCL,1인당GDP(불변)(중국위안),macro
+1168,aaGLIFCHNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1169,aaGLIFCHNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1170,aGLIFCHNACFPG,투자(GDP대비)(%),macro
+1171,aGLIFCHNASVPG,총저축(GDP대비)(%),macro
+1172,aGLIFCHCPIAEEE,"CPI(평균,전년비)(%)",macro
+1173,aGLIFCHCPIAEKEEE,"CPI(기말,전년비)(%)",macro
+1174,agGLIFCHEIIGSV,재화와서비스수입량(%),macro
+1175,agGLIFCHEIIG,재화의수입량(%),macro
+1176,agGLIFCHEIEGSV,재화와서비스수출량(%),macro
+1177,agGLIFCHEIEG,재화의수출량(%),macro
+1178,apGLIFCHEIIOII,석유수입량(십억달러),macro
+1179,apGLIFCHEIEOII,석유수출량(십억달러),macro
+1180,aGLIFCHLWUR,실업률(%),macro
+1181,apGLIFCHPP,인구(백만명),macro
+1182,aGLIFCHGGRL,일반정부 재정수입(십억 위안),macro
+1183,aGLIFCHGGR,일반정부 재정수입(GDP대비)(%),macro
+1184,aGLIFCHGGTEL,일반정부 총지출(십억 위안),macro
+1185,aGLIFCHGGTE,일반정부 총지출(GDP대비)(%),macro
+1186,aaGLIFCHPFBLL,일반정부 순융자/차입(십억 위안),macro
+1187,aGLIFCHPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1188,aaGLIFCHPFSBL,일반정부 구조화수지(십억 위안),macro
+1189,aGLIFCHPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1190,aGLIFCHGGPNLBL,일반정부 주요순융자/차입(십억 위안),macro
+1191,aGLIFCHGGNLB,일반정부 주요순융자/차입(잠재GDP대비)(%),macro
+1192,aGLIFCHPFDBL,일반정부 총부채(십억 위안),macro
+1193,aGLIFCHGGGD,일반정부 총부채(GDP대비)(%),macro
+1194,aGLIFCHNAGDP,경상가격(십억 위안),macro
+1195,aaGLIFCHBPCA,경상수지(달러)(십억달러),macro
+1196,aGLIFCHBPCAPG,경상수지(GDP대비)(%),macro
+1197,acGLIFFRNAGDL,GDP(불변)(십억유로),macro
+1198,aGLIFFRNAGDAR,"GDP(불변,전년비)(%)",macro
+1199,aaGLIFFRNAGDL,GDP(명목)(십억유로),macro
+1200,aaGLIFFRNAGD$,"GDP(명목,달러)(십억달러)",macro
+1201,afGLIFFRNAGDDF,GDP디플레이터(2010=100),macro
+1202,acGLIFFRNAGDPCL,1인당GDP(불변)(유로),macro
+1203,aaGLIFFRNAGDPCL,1인당GDP(명목)(유로),macro
+1204,aaGLIFFRNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1205,aGLIFFRGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1206,aGLIFFRNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1207,aGLIFFRPPPCR,함축적PPP변환율(프랑스프랑/달러),macro
+1208,aGLIFFRNACFPG,투자(GDP대비)(%),macro
+1209,aGLIFFRNASVPG,총저축(GDP대비)(%),macro
+1210,afGLIFFRCPIO,CPI(평균)(2005=100),macro
+1211,aGLIFFRCPIAO,"CPI(평균,전년비)(%)",macro
+1212,aGLIFFRCPIEO,CPI(기말)(2005=100),macro
+1213,aGLIFFRCPIAEO,"CPI(기말,전년비)(%)",macro
+1214,agGLIFFREIIGSV,재화와서비스수입량(%),macro
+1215,agGLIFFREIIG,재화의수입량(%),macro
+1216,agGLIFFREIEGSV,재화와서비스수출량(%),macro
+1217,agGLIFFREIEG,재화의수출량(%),macro
+1218,apGLIFFREIIOII,석유수입량(십억달러),macro
+1219,apGLIFFREIEOII,석유수출량(십억달러),macro
+1220,aGLIFFRLWUR,실업률(%),macro
+1221,aGLIFFREMPF,취업자(백만명),macro
+1222,apGLIFFRPP,인구(백만명),macro
+1223,aGLIFFRGGRL,일반정부 재정수입(십억유로),macro
+1224,aGLIFFRGGR,일반정부 재정수입(GDP대비)(%),macro
+1225,aGLIFFRGGTEL,일반정부 총지출(십억유로),macro
+1226,aGLIFFRGGTE,일반정부 총지출(GDP대비)(%),macro
+1227,aaGLIFFRPFBLL,일반정부 순융자/차입(십억유로),macro
+1228,aGLIFFRPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1229,aaGLIFFRPFSBL,일반정부 구조화수지(십억유로),macro
+1230,aGLIFFRPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1231,aGLIFFRGGPNLBL,일반정부 기초재정 순융자/차입(십억유로),macro
+1232,aGLIFFRGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1233,aaGLIFFRPFNDL,일반정부 순부채(십억유로),macro
+1234,aGLIFFRPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1235,aaGLIFFRPFDBL,일반정부 총부채(십억유로),macro
+1236,aGLIFFRPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1237,aaGLIFFRNAGDP,경상가격(십억유로),macro
+1238,aaGLIFFRBPCA$,경상수지(달러)(십억달러),macro
+1239,aGLIFFRBPCAPG,경상수지(GDP대비)(%),macro
+1240,acGLIFBDNAGDL,GDP(불변)(십억유로),macro
+1241,aGLIFBDNAGDAR,"GDP(불변,전년비)(%)",macro
+1242,aaGLIFBDNAGDL,GDP(명목)(십억유로),macro
+1243,aaGLIFBDNAGD$,"GDP(명목,달러)(십억달러)",macro
+1244,afGLIFBDNAGDDF,국내총생산디플레이터(2010=100),macro
+1245,acGLIFBDNAGDPCL,1인당GDP(불변)(유로),macro
+1246,aaGLIFBDNAGDPCL,1인당GDP(명목)(유로),macro
+1247,aaGLIFBDNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1248,aGLIFBDGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1249,aGLIFBDNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1250,aGLIFBDPPPCR,함축적PPP변환율(독일마르크/달러),macro
+1251,aGLIFBDNACFPG,투자(GDP대비)(%),macro
+1252,aGLIFBDNASVPG,총저축(GDP대비)(%),macro
+1253,afGLIFBDCPIP,CPI(평균)(2005=100),macro
+1254,aGLIFBDCPIAP,"CPI(평균,전년비)(%)",macro
+1255,aGLIFBDCPIEP,CPI(기말)(2005=100),macro
+1256,aGLIFBDCPIAEP,"CPI(기말,전년비)(%)",macro
+1257,agGLIFBDEIIGSV,재화와서비스수입량(%),macro
+1258,agGLIFBDEIIG,재화의수입량(%),macro
+1259,agGLIFBDEIEGSV,재화와서비스수출량(%),macro
+1260,agGLIFBDEIEG,재화의수출량(%),macro
+1261,apGLIFBDEIIOII,석유수입량(십억달러),macro
+1262,apGLIFBDEIEOII,석유수출량(십억달러),macro
+1263,aGLIFBDLWUR,실업률(%),macro
+1264,aGLIFBDEMPG,취업자(백만명),macro
+1265,apGLIFBDPP,인구(백만명),macro
+1266,aGLIFBDGGRL,일반정부 재정수입(십억유로),macro
+1267,aGLIFBDGGR,일반정부 재정수입(GDP대비)(%),macro
+1268,aGLIFBDGGTEL,일반정부 총지출(십억유로),macro
+1269,aGLIFBDGGTE,일반정부 총지출(GDP대비)(%),macro
+1270,aaGLIFBDPFBLL,일반정부 순융자/차입(십억유로),macro
+1271,aGLIFBDPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1272,aaGLIFBDPFSBL,일반정부 구조화수지(십억유로),macro
+1273,aGLIFBDPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1274,aGLIFBDGGPNLBL,일반정부 기초재정 순융자/차입(십억유로),macro
+1275,aGLIFBDGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1276,aaGLIFBDPFNDL,일반정부 순부채(십억유로),macro
+1277,aGLIFBDPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1278,aaGLIFBDPFDBL,일반정부 총부채(십억유로),macro
+1279,aGLIFBDPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1280,aaGLIFBDNAGDP,경상가격(십억유로),macro
+1281,aaGLIFBDBPCA$,경상수지(달러)(십억달러),macro
+1282,aGLIFBDBPCAPG,경상수지(GDP대비)(%),macro
+1283,acGLIFHKNAGDL,GDP(불변)(십억 홍콩달러),macro
+1284,aGLIFHKNAGDAR,"GDP(불변,전년비)(%)",macro
+1285,aaGLIFHKNAGDL,GDP(명목)(십억 홍콩달러),macro
+1286,aaGLIFHKNAGD$,"GDP(명목,달러)(십억달러)",macro
+1287,afGLIFHKNAGDDF,국내총생산디플레이터(2013=100),macro
+1288,acGLIFHKNAGDPCL,1인당GDP(불변)(홍콩달러),macro
+1289,aaGLIFHKNAGDPCL,1인당GDP(명목)(홍콩달러),macro
+1290,aaGLIFHKNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1291,aaGLIFHKNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1292,aGLIFHKPPPCR,함축적PPP변환율(홍콩달러/달러),macro
+1293,aGLIFHKNACFPG,투자(GDP대비)(%),macro
+1294,aGLIFHKNASVPG,총저축(GDP대비)(%),macro
+1295,afGLIFHKCPIAAA,CPI(평균)(2010=100),macro
+1296,aGLIFHKCPIAAAA,"CPI(평균,전년비)(%)",macro
+1297,aGLIFHKCPIEKAAA,CPI(기말)(2010=100),macro
+1298,aGLIFHKCPIAEKAAA,"CPI(기말,전년비)(%)",macro
+1299,agGLIFHKEIIGSV,재화와서비스수입량(%),macro
+1300,agGLIFHKEIIG,재화의수입량(%),macro
+1301,agGLIFHKEIEGSV,재화와서비스수출량(%),macro
+1302,agGLIFHKEIEG,재화의수출량(%),macro
+1303,apGLIFHKEIIOII,석유수입량(십억달러),macro
+1304,apGLIFHKEIEOII,석유수출량(십억달러),macro
+1305,aGLIFHKLWUR,실업률(%),macro
+1306,aGLIFHKEMPM,취업자(백만명),macro
+1307,apGLIFHKPP,인구(백만명),macro
+1308,aGLIFHKGGRL,일반정부 재정수입(십억 홍콩달러),macro
+1309,aGLIFHKGGR,일반정부 재정수입(GDP대비)(%),macro
+1310,aGLIFHKGGTEL,일반정부 총지출(십억 홍콩달러),macro
+1311,aGLIFHKGGTE,일반정부 총지출(GDP대비)(%),macro
+1312,aaGLIFHKPFBLL,일반정부 순융자/차입(십억 홍콩달러),macro
+1313,aGLIFHKPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1314,aaGLIFHKPFSBL,일반정부 구조화수지(십억 홍콩달러),macro
+1315,aGLIFHKPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1316,aGLIFHKGGPNLBL,일반정부 기초재정 순융자/차입(십억 홍콩달러),macro
+1317,aGLIFHKGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1318,aGLIFHKPFDBL,일반정부 총부채(십억 홍콩달러),macro
+1319,aGLIFHKGGGD,일반정부 총부채(GDP대비)(%),macro
+1320,aaGLIFHKNAGDP,경상가격(십억 홍콩달러),macro
+1321,aaGLIFHKBPCA$,경상수지(달러)(십억달러),macro
+1322,aGLIFHKBPCAPG,경상수지(GDP대비)(%),macro
+1323,acGLIFINNAGDL,GDP(불변)(십억 인도루피),macro
+1324,aGLIFINNAGDAR,"GDP(불변,전년비)(%)",macro
+1325,aaGLIFINNAGD$,"GDP(명목,달러)(십억달러)",macro
+1326,afGLIFINNAGDDF,국내총생산디플레이터(2011=100),macro
+1327,acGLIFINNAGDPCL,1인당GDP(불변)(인도루피),macro
+1328,aaGLIFINNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1329,aaGLIFINNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1330,aGLIFINNACFPG,투자(GDP대비)(%),macro
+1331,aGLIFINNASVPG,총저축(GDP대비)(%),macro
+1332,aGLIFINCPIADDD,"CPI(평균,전년비)(%)",macro
+1333,aGLIFINCPIAEKDDD,"CPI(기말,전년비)(%)",macro
+1334,agGLIFINEIIGSV,재화와서비스수입량(%),macro
+1335,agGLIFINEIIG,재화의수입량(%),macro
+1336,agGLIFINEIEGSV,재화와서비스수출량(%),macro
+1337,agGLIFINEIEG,재화의수출량(%),macro
+1338,apGLIFINEIIOII,석유수입량(십억달러),macro
+1339,apGLIFINEIEOII,석유수출량(십억달러),macro
+1340,apGLIFINPP,인구(백만명),macro
+1341,aGLIFINGGRL,일반정부 재정수입(십억 인도루피),macro
+1342,aGLIFINGGR,일반정부 재정수입(GDP대비)(%),macro
+1343,aGLIFINGGTEL,일반정부 총지출(십억 인도루피),macro
+1344,aGLIFINGGTE,일반정부 총지출(GDP대비)(%),macro
+1345,aaGLIFINPFBLL,일반정부 순융자/차입(십억 인도루피),macro
+1346,aGLIFINPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1347,aaGLIFINPFSBL,일반정부 구조화수지(십억 인도루피),macro
+1348,aGLIFINPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1349,aGLIFINGGPNLBL,일반정부 기초재정 순융자/차입(십억 인도루피),macro
+1350,aGLIFINGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1351,aGLIFINPFDBL,일반정부 총부채(십억 인도루피),macro
+1352,aGLIFINGGGD,일반정부 총부채(GDP대비)(%),macro
+1353,aGLIFINNAGDP,경상가격(십억 인도루피),macro
+1354,aaGLIFINBPCA,경상수지(달러)(십억달러),macro
+1355,aGLIFINBPCAPG,경상수지(GDP대비)(%),macro
+1356,acGLIFIDNAGDL,GDP(불변)(십억 인도네시아루피아),macro
+1357,aGLIFIDNAGDAR,"GDP(불변,전년비)(%)",macro
+1358,aaGLIFIDNAGDL,GDP(명목)(십억 인도네시아루피아),macro
+1359,aaGLIFIDNAGD$,"GDP(명목,달러)(십억달러)",macro
+1360,afGLIFIDNAGDDF,GDP디플레이터(2010=100),macro
+1361,acGLIFIDNAGDPCL,1인당GDP(불변)(인도네시아 루피아),macro
+1362,aaGLIFIDNAGDPCL,1인당GDP(명목)(인도네시아 루피아),macro
+1363,aaGLIFIDNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1364,aaGLIFIDNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1365,aGLIFIDPPPCR,함축적PPP변환율(인도네시아루피아/달러),macro
+1366,aGLIFIDNACFPG,투자(GDP대비)(%),macro
+1367,aGLIFIDNASVPG,총저축(GDP대비)(%),macro
+1368,afGLIFIDCPIV,CPI(평균)(2012=100),macro
+1369,aGLIFIDCPIAV,"CPI(평균,전년비)(%)",macro
+1370,aGLIFIDCPIEV,CPI(기말)(2012=100),macro
+1371,aGLIFIDCPIAEV,"CPI(기말,전년비)(%)",macro
+1372,agGLIFIDEIIGSV,재화와서비스수입량(%),macro
+1373,agGLIFIDEIIG,재화의수입량(%),macro
+1374,agGLIFIDEIEGSV,재화와서비스수출량(%),macro
+1375,agGLIFIDEIEG,재화의수출량(%),macro
+1376,apGLIFIDEIIOII,석유수입량(십억달러),macro
+1377,apGLIFIDEIEOII,석유수출량(십억달러),macro
+1378,aGLIFIDLWUR,실업률(%),macro
+1379,apGLIFIDPP,인구(백만명),macro
+1380,aGLIFIDGGRL,일반정부 재정수입(십억 인도네시아루피아),macro
+1381,aGLIFIDGGR,일반정부 재정수입(GDP대비)(%),macro
+1382,aGLIFIDGGTEL,일반정부 총지출(십억 인도네시아루피아),macro
+1383,aGLIFIDGGTE,일반정부 총지출(GDP대비)(%),macro
+1384,aaGLIFIDPFBLL,일반정부 순융자/차입(십억 인도네시아루피아),macro
+1385,aGLIFIDPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1386,aaGLIFIDPFSBL,일반정부 구조화수지(십억 인도네시아루피아),macro
+1387,aGLIFIDPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1388,aGLIFIDGGPNLBL,일반정부 주요순융자/차입(십억 인도네시아루피아),macro
+1389,aGLIFIDGGNLB,일반정부 주요순융자/차입(잠재GDP대비)(%),macro
+1390,aGLIFIDPFDBL,일반정부 총부채(십억 인도네시아루피아),macro
+1391,aGLIFIDPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1392,aGLIFIDNAGDP,경상가격(십억 인도네시아루피아),macro
+1393,aaGLIFIDBPCA$,경상수지(십억달러),macro
+1394,aGLIFIDBPCAPG,경상수지(GDP대비)(%),macro
+1395,acGLIFITNAGDL,GDP(불변)(십억유로),macro
+1396,aGLIFITNAGDAR,"GDP(불변,전년비)(%)",macro
+1397,aaGLIFITNAGDL,GDP(명목)(십억유로),macro
+1398,aaGLIFITNAGD$,"GDP(명목,달러)(십억달러)",macro
+1399,afGLIFITNAGDDF,GDP디플레이터(2010=100),macro
+1400,acGLIFITNAGDPCL,1인당GDP(불변)(유로),macro
+1401,aaGLIFITNAGDPCL,1인당GDP(명목)(유로),macro
+1402,aaGLIFITNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1403,aGLIFITGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1404,aGLIFITNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1405,aGLIFITPPPCR,함축적PPP변환율(이탈리아리라/달러),macro
+1406,aGLIFITNACFPG,투자(GDP대비)(%),macro
+1407,aGLIFITNASVPG,총저축(GDP대비)(%),macro
+1408,afGLIFITCPIQ,CPI(평균)(2005=100),macro
+1409,aGLIFITCPIAQ,"CPI(평균,전년비)(%)",macro
+1410,aGLIFITCPIEQ,CPI(기말)(2005=100),macro
+1411,aGLIFITCPIAEQ,"CPI(기말,전년비)(%)",macro
+1412,agGLIFITEIIGSV,재화와서비스수입량(%),macro
+1413,agGLIFITEIIG,재화의수입량(%),macro
+1414,agGLIFITEIEGSV,재화와서비스수출량(%),macro
+1415,agGLIFITEIEG,재화의수출량(%),macro
+1416,apGLIFITEIIOII,석유수입량(십억달러),macro
+1417,apGLIFITEIEOII,석유수출량(십억달러),macro
+1418,aGLIFITLWUR,실업률(%),macro
+1419,aGLIFITEMPH,취업자(백만명),macro
+1420,apGLIFITPP,인구(백만명),macro
+1421,aGLIFITGGRL,일반정부 재정수입(십억유로),macro
+1422,aGLIFITGGR,일반정부 재정수입(GDP대비)(%),macro
+1423,aGLIFITGGTEL,일반정부 총지출(십억유로),macro
+1424,aGLIFITGGTE,일반정부 총지출(GDP대비)(%),macro
+1425,aaGLIFITPFBLL,일반정부 순융자/차입(십억유로),macro
+1426,aGLIFITPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1427,aaGLIFITPFSBL,일반정부 구조화수지(십억유로),macro
+1428,aGLIFITPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1429,aGLIFITGGPNLBL,일반정부 기초재정 순융자/차입(십억유로),macro
+1430,aGLIFITGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1431,aaGLIFITPFNDL,일반정부 순부채(십억유로),macro
+1432,aGLIFITPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1433,aaGLIFITPFDBL,일반정부 총부채(십억유로),macro
+1434,aGLIFITPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1435,aaGLIFITNAGDP,경상가격(십억유로),macro
+1436,aaGLIFITBPCA$,경상수지(달러)(십억달러),macro
+1437,aGLIFITBPCAPG,경상수지(GDP대비)(%),macro
+1438,acGLIFJPNAGDL,GDP(불변)(십억 일본엔),macro
+1439,aGLIFJPNAGDAR,"GDP(불변,전년비)(%)",macro
+1440,aaGLIFJPNAGD$,"GDP(명목,달러)(십억달러)",macro
+1441,afGLIFJPNAGDDF,국내총생산디플레이터(2005=100),macro
+1442,acGLIFJPNAGDPCL,1인당GDP(불변)(일본엔),macro
+1443,aaGLIFJPNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1444,aGLIFJPGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1445,aGLIFJPNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1446,aGLIFJPNACFPG,투자(GDP대비)(%),macro
+1447,aGLIFJPNASVPG,총저축(GDP대비)(%),macro
+1448,aGLIFJPCPIAR,"CPI(평균,전년비)(%)",macro
+1449,aGLIFJPCPIAER,"CPI(기말,전년비)(%)",macro
+1450,aGLIFJPIRLIBOR6,LIBOR(6개월)(%),macro
+1451,agGLIFJPEIIGSV,재화와서비스수입량(%),macro
+1452,agGLIFJPEIIG,재화의수입량(%),macro
+1453,agGLIFJPEIEGSV,재화와서비스수출량(%),macro
+1454,agGLIFJPEIEG,재화의수출량(%),macro
+1455,apGLIFJPEIIOII,석유수입량(십억달러),macro
+1456,apGLIFJPEIEOII,석유수출량(십억달러),macro
+1457,aGLIFJPLWUR,실업률(%),macro
+1458,aGLIFJPEMPI,취업자(백만명),macro
+1459,apGLIFJPPP,인구(백만명),macro
+1460,aGLIFJPGGRL,일반정부 재정수입(십억 일본엔),macro
+1461,aGLIFJPGGR,일반정부 재정수입(GDP대비)(%),macro
+1462,aGLIFJPGGTEL,일반정부 총지출(십억 일본엔),macro
+1463,aGLIFJPGGTE,일반정부 총지출(GDP대비)(%),macro
+1464,aaGLIFJPPFBLL,일반정부 순융자/차입(십억 일본엔),macro
+1465,aGLIFJPPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1466,aaGLIFJPPFSBL,일반정부 구조화수지(십억 일본엔),macro
+1467,aGLIFJPPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1468,aGLIFJPGGPNLBL,일반정부 기초재정 순융자/차입(십억 일본엔),macro
+1469,aGLIFJPGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1470,aaGLIFJPPFNDL,일반정부 순부채(십억 일본엔),macro
+1471,aGLIFJPPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1472,aaGLIFJPPFDBL,일반정부 총부채(십억 일본엔),macro
+1473,aGLIFJPPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1474,aaGLIFJPNAGDP,경상가격(십억 일본엔),macro
+1475,aaGLIFJPBPCA$,경상수지(달러)(십억달러),macro
+1476,aGLIFJPBPCAPG,경상수지(GDP대비)(%),macro
+1477,acGLIFKONAGDL,GDP(불변)(십억원),macro
+1478,aGLIFKONAGDAR,"GDP(불변,전년비)(%)",macro
+1479,aaGLIFKONAGD$,"GDP(명목,달러)(십억달러)",macro
+1480,afGLIFKONAGDDF,국내총생산디플레이터(2010=100),macro
+1481,acGLIFKONAGDPCL,1인당GDP(불변)(원),macro
+1482,aaGLIFKONAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1483,aGLIFKOGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1484,aaGLIFKONAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1485,aGLIFKONACFPG,투자(GDP대비)(%),macro
+1486,aGLIFKONASVPG,총저축(GDP대비)(%),macro
+1487,aGLIFKOCPIAZ,"CPI(평균,전년비)(%)",macro
+1488,aGLIFKOCPIAEZ,"CPI(기말,전년비)(%)",macro
+1489,agGLIFKOEIIGSV,재화와서비스수입량(%),macro
+1490,agGLIFKOEIIG,재화의수입량(%),macro
+1491,agGLIFKOEIEGSV,재화와서비스수출량(%),macro
+1492,agGLIFKOEIEG,재화의수출량(%),macro
+1493,apGLIFKOEIIOII,석유수입량(십억달러),macro
+1494,apGLIFKOEIEOII,석유수출량(십억달러),macro
+1495,aGLIFKOLWUR,실업률(%),macro
+1496,aGLIFKOEMPL,취업자(백만명),macro
+1497,apGLIFKOPP,인구(백만명),macro
+1498,aGLIFKOGGRL,일반정부 재정수입(십억원),macro
+1499,aGLIFKOGGR,일반정부 재정수입(GDP대비)(%),macro
+1500,aGLIFKOGGTEL,일반정부 총지출(십억원),macro
+1501,aGLIFKOGGTE,일반정부 총지출(GDP대비)(%),macro
+1502,aaGLIFKOPFBLL,일반정부 순융자/차입(십억원),macro
+1503,aGLIFKOPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1504,aaGLIFKOPFSBL,일반정부 구조화수지(십억원),macro
+1505,aGLIFKOPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1506,aGLIFKOGGPNLBL,일반정부 기초재정 순융자/차입(십억원),macro
+1507,aGLIFKOGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1508,aaGLIFKOPFNDL,일반정부 순부채(십억원),macro
+1509,aGLIFKOPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1510,aGLIFKOPFDBL,일반정부 총부채(십억원),macro
+1511,aGLIFKOGGGD,일반정부 총부채(GDP대비)(%),macro
+1512,aaGLIFKONAGDP,경상가격(십억원),macro
+1513,aaGLIFKOBPCA$,경상수지(달러)(십억달러),macro
+1514,aGLIFKOBPCAPG,경상수지(GDP대비)(%),macro
+1515,acGLIFMYNAGDL,GDP(불변)(십억 말레이지아링기트),macro
+1516,aGLIFMYNAGDAR,"GDP(불변,전년비)(%)",macro
+1517,aaGLIFMYNAGDL,GDP(명목)(십억 말레이지아링기트),macro
+1518,aaGLIFMYNAGD$,"GDP(명목,달러)(십억달러)",macro
+1519,afGLIFMYNAGDDF,GDP디플레이터(2010=100),macro
+1520,acGLIFMYNAGDPCL,1인당GDP(불변)(말레이지아링기트),macro
+1521,aaGLIFMYNAGDPCL,1인당GDP(명목)(말레이지아링기트),macro
+1522,aaGLIFMYNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1523,aaGLIFMYNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1524,aGLIFMYPPPCR,함축적PPP변환율(말레이시아링기트/달러),macro
+1525,aGLIFMYNACFPG,투자(GDP대비)(%),macro
+1526,aGLIFMYNASVPG,총저축(GDP대비)(%),macro
+1527,afGLIFMYCPIY,CPI(평균)(2010=100),macro
+1528,aGLIFMYCPIAY,"CPI(평균,전년비)(%)",macro
+1529,aGLIFMYCPIEY,CPI(기말)(2010=100),macro
+1530,aGLIFMYCPIAEY,"CPI(기말,전년비)(%)",macro
+1531,agGLIFMYEIIGSV,재화와서비스수입량(%),macro
+1532,agGLIFMYEIIG,재화의수입량(%),macro
+1533,agGLIFMYEIEGSV,재화와서비스수출량(%),macro
+1534,agGLIFMYEIEG,재화의수출량(%),macro
+1535,apGLIFMYEIIOII,석유수입량(십억달러),macro
+1536,apGLIFMYEIEOII,석유수출량(십억달러),macro
+1537,aGLIFMYLWUR,실업률(%),macro
+1538,apGLIFMYPP,인구(백만명),macro
+1539,aGLIFMYGGRL,일반정부 재정수입(십억 말레이지아링기트),macro
+1540,aGLIFMYGGR,일반정부 재정수입(GDP대비)(%),macro
+1541,aGLIFMYGGTEL,일반정부 총지출(십억 말레이지아링기트),macro
+1542,aGLIFMYGGTE,일반정부 총지출(GDP대비)(%),macro
+1543,aaGLIFMYPFBLL,일반정부 순융자/차입(십억 말레이지아링기트),macro
+1544,aGLIFMYPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1545,aaGLIFMYPFSBL,일반정부 구조화수지(십억 말레이지아링기트),macro
+1546,aGLIFMYPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1547,aGLIFMYGGPNLBL,일반정부 기초재정 순융자/차입(십억 말레이지아링기트),macro
+1548,aGLIFMYGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1549,aGLIFMYPFDBL,일반정부 총부채(십억 말레이지아링기트),macro
+1550,aGLIFMYGGGD,일반정부 총부채(GDP대비)(%),macro
+1551,aGLIFMYNAGDP,경상가격(십억 말레이지아링기트),macro
+1552,aaGLIFMYBPCA$,경상수지(십억달러),macro
+1553,aGLIFMYBPCAPG,경상수지(GDP대비)(%),macro
+1554,aGLIFPHNAGDAR,"GDP(불변,전년비)(%)",macro
+1555,aaGLIFPHNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1556,aGLIFPHNACFPG,투자(GDP대비)(%),macro
+1557,aGLIFPHNASVPG,총저축(GDP대비)(%),macro
+1558,aGLIFPHCPIAW,CPI(평균)(%),macro
+1559,aGLIFPHLWUR,실업률(%),macro
+1560,apGLIFPHPP,인구(백만명),macro
+1561,aaGLIFPHBPCA$,경상수지(달러)(십억달러),macro
+1562,aGLIFPHBPCAPG,경상수지(GDP대비)(%),macro
+1563,acGLIFRSNAGDL,GDP(불변)(십억 러시아루블),macro
+1564,aGLIFRSNAGDAR,"GDP(불변,전년비)(%)",macro
+1565,aaGLIFRSNAGDL,GDP(명목)(십억 러시아루블),macro
+1566,aaGLIFRSNAGD$,"GDP(명목,달러)(십억달러)",macro
+1567,afGLIFRSNAGDDF,GDP디플레이터(2008=100),macro
+1568,acGLIFRSNAGDPCL,1인당GDP(불변)(러시아루블),macro
+1569,aaGLIFRSNAGDPCL,1인당GDP(명목)(러시아루블),macro
+1570,aaGLIFRSNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1571,aaGLIFRSNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1572,aGLIFRSPPPCR,함축적PPP변환율(러시아루블/달러),macro
+1573,aGLIFRSNACFPG,투자(GDP대비)(%),macro
+1574,aGLIFRSNASVPG,총저축(GDP대비)(%),macro
+1575,afGLIFRSCPIGGG,CPI(평균)(1997=100),macro
+1576,aGLIFRSCPIAGGG,"CPI(평균,전년비)(%)",macro
+1577,aGLIFRSCPIEKGGG,CPI(기말)(1997=100),macro
+1578,aGLIFRSCPIAEKGGG,"CPI(기말,전년비)(%)",macro
+1579,agGLIFRSEIIGSV,재화와서비스수입량(%),macro
+1580,agGLIFRSEIIG,재화의수입량(%),macro
+1581,agGLIFRSEIEGSV,재화와서비스수출량(%),macro
+1582,agGLIFRSEIEG,재화의수출량(%),macro
+1583,apGLIFRSEIIOII,석유수입량(십억달러),macro
+1584,apGLIFRSEIEOII,석유수출량(십억달러),macro
+1585,aGLIFRSLWUR,실업률(%),macro
+1586,apGLIFRSPP,인구(백만명),macro
+1587,aGLIFRSGGRL,일반정부 재정수입(십억 러시아루블),macro
+1588,aGLIFRSGGR,일반정부 재정수입(GDP대비)(%),macro
+1589,aGLIFRSGGTEL,일반정부 총지출(십억 러시아루블),macro
+1590,aGLIFRSGGTE,일반정부 총지출(GDP대비)(%),macro
+1591,aaGLIFRSPFBLL,일반정부 순융자/차입(십억 러시아루블),macro
+1592,aGLIFRSPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1593,aaGLIFRSPFSBL,일반정부 구조화수지(십억 러시아루블),macro
+1594,aGLIFRSPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1595,aGLIFRSGGPNLBL,일반정부 기초재정 순융자/차입(십억 러시아루블),macro
+1596,aGLIFRSGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1597,aGLIFRSPFDBL,일반정부 총부채(십억 러시아루블),macro
+1598,aGLIFRSGGGD,일반정부 총부채(GDP대비)(%),macro
+1599,aGLIFRSNAGDP,경상가격(십억 러시아루블),macro
+1600,aaGLIFRSBPCA,경상수지(달러)(십억달러),macro
+1601,aGLIFRSBPCAPG,경상수지(GDP대비)(%),macro
+1602,acGLIFSPNAGDL,GDP(불변)(십억 싱가포르달러),macro
+1603,aGLIFSPNAGDAR,"GDP(불변,전년비)(%)",macro
+1604,aaGLIFSPNAGDL,GDP(명목)(십억 싱가포르달러),macro
+1605,aaGLIFSPNAGD$,"GDP(명목,달러)(십억달러)",macro
+1606,afGLIFSPNAGDDF,GDP디플레이터(2010=100),macro
+1607,acGLIFSPNAGDPCL,1인당GDP(불변)(싱가포르달러),macro
+1608,aaGLIFSPNAGDPCL,1인당GDP(명목)(싱가포르달러),macro
+1609,aaGLIFSPNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1610,aaGLIFSPNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1611,aGLIFSPPPPCR,함축적PPP변환율(싱가포르달러/달러),macro
+1612,aGLIFSPNACFPG,투자(GDP대비)(%),macro
+1613,aGLIFSPNASVPG,총저축(GDP대비)(%),macro
+1614,afGLIFSPCPICCC,CPI(평균)(2014=100),macro
+1615,aGLIFSPCPIACCC,"CPI(평균,전년비)(%)",macro
+1616,aGLIFSPCPIEKCCC,CPI(기말)(2014=100),macro
+1617,aGLIFSPCPIAEKCCC,"CPI(기말,전년비)(%)",macro
+1618,agGLIFSPEIIGSV,재화와서비스수입량(%),macro
+1619,agGLIFSPEIIG,재화의수입량(%),macro
+1620,agGLIFSPEIEGSV,재화와서비스수출량(%),macro
+1621,agGLIFSPEIEG,재화의수출량(%),macro
+1622,apGLIFSPEIIOII,석유수입량(십억달러),macro
+1623,apGLIFSPEIEOII,석유수출량(십억달러),macro
+1624,aGLIFSPLWUI,실업률(%),macro
+1625,aGLIFSPEMPO,취업자(백만명),macro
+1626,apGLIFSPPP,인구(백만명),macro
+1627,aGLIFSPGGRL,일반정부 재정수입(십억 싱가포르달러),macro
+1628,aGLIFSPGGR,일반정부 재정수입(GDP대비)(%),macro
+1629,aGLIFSPGGTEL,일반정부 총지출(십억 싱가포르달러),macro
+1630,aGLIFSPGGTE,일반정부 총지출(GDP대비)(%),macro
+1631,aaGLIFSPPFBLL,일반정부 순융자/차입(십억 싱가포르달러),macro
+1632,aGLIFSPPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1633,aaGLIFSPPFSBL,일반정부 구조화수지(십억 싱가포르달러),macro
+1634,aGLIFSPPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1635,aGLIFSPGGPNLBL,일반정부 기초재정 순융자/차입(십억 싱가포르달러),macro
+1636,aGLIFSPGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1637,aGLIFSPPFDBL,일반정부 총부채(십억 싱가포르달러),macro
+1638,aGLIFSPGGGD,일반정부 총부채(GDP대비)(%),macro
+1639,aaGLIFSPNAGDP,경상가격(십억 싱가포르달러),macro
+1640,aaGLIFSPBPCA$,경상수지(달러)(십억달러),macro
+1641,aGLIFSPBPCAPG,경상수지(GDP대비)(%),macro
+1642,acGLIFTWNAGDL,GDP(불변)(십억 대만달러),macro
+1643,aGLIFTWNAGDAR,"GDP(불변,전년비)(%)",macro
+1644,aaGLIFTWNAGDL,GDP(명목)(십억 대만달러),macro
+1645,aaGLIFTWNAGD$,"GDP(명목,달러)(십억달러)",macro
+1646,afGLIFTWNAGDDF,국내총생산디플레이터(2011=100),macro
+1647,acGLIFTWNAGDPCL,1인당GDP(불변)(대만달러),macro
+1648,aaGLIFTWNAGDPCL,1인당GDP(명목)(대만달러),macro
+1649,aaGLIFTWNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1650,aaGLIFTWNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1651,aGLIFTWPPPCR,함축적PPP변환율(대만달러/달러),macro
+1652,aGLIFTWNACFPG,투자(GDP대비)(%),macro
+1653,aGLIFTWNASVPG,총저축(GDP대비)(%),macro
+1654,afGLIFTWCPIBBB,CPI(평균)(2011=100),macro
+1655,aGLIFTWCPIABBB,"CPI(평균,전년비)(%)",macro
+1656,aGLIFTWCPIEKBBB,CPI(기말)(2011=100),macro
+1657,aGLIFTWCPIAEKBBB,"CPI(기말,전년비)(%)",macro
+1658,agGLIFTWEIIGSV,재화와서비스수입량(%),macro
+1659,agGLIFTWEIIG,재화의수입량(%),macro
+1660,agGLIFTWEIEGSV,재화와서비스수출량(%),macro
+1661,agGLIFTWEIEG,재화의수출량(%),macro
+1662,apGLIFTWEIIOII,석유수입량(십억달러),macro
+1663,apGLIFTWEIEOII,석유수출량(십억달러),macro
+1664,aGLIFTWLWUR,실업률(%),macro
+1665,aGLIFTWEMPN,취업자(백만명),macro
+1666,apGLIFTWPP,인구(백만명),macro
+1667,aGLIFTWGGRL,일반정부 재정수입(십억 대만달러),macro
+1668,aGLIFTWGGR,일반정부 재정수입(GDP대비)(%),macro
+1669,aGLIFTWGGTEL,일반정부 총지출(십억 대만달러),macro
+1670,aGLIFTWGGTE,일반정부 총지출(GDP대비)(%),macro
+1671,aaGLIFTWPFBLL,일반정부 순융자/차입(십억 대만달러),macro
+1672,aGLIFTWPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1673,aaGLIFTWPFSBL,일반정부 구조화수지(십억 대만달러),macro
+1674,aGLIFTWPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1675,aGLIFTWPFNDL,일반정부 순부채(십억 대만달러),macro
+1676,aGLIFTWGGND,일반정부 순부채(GDP대비)(%),macro
+1677,aGLIFTWPFDBL,일반정부 총부채(십억 대만달러),macro
+1678,aGLIFTWGGGD,일반정부 총부채(GDP대비)(%),macro
+1679,aaGLIFTWNAGDP,경상가격(십억 대만달러),macro
+1680,aaGLIFTWBPCA$,경상수지(달러)(십억달러),macro
+1681,aGLIFTWBPCAPG,경상수지(GDP대비)(%),macro
+1682,acGLIFTHNAGDL,GDP(불변)(십억 태국바트),macro
+1683,aGLIFTHNAGDAR,"GDP(불변,전년비)(%)",macro
+1684,aaGLIFTHNAGDL,GDP(명목)(십억 태국바트),macro
+1685,aaGLIFTHNAGD$,"GDP(명목,달러)(십억달러)",macro
+1686,afGLIFTHNAGDDF,국내총생산디플레이터(2002=100),macro
+1687,acGLIFTHNAGDPCL,1인당GDP(불변)(태국바트),macro
+1688,aaGLIFTHNAGDPCL,1인당GDP(명목)(태국바트),macro
+1689,aaGLIFTHNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1690,aaGLIFTHNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1691,aGLIFTHPPPCR,함축적PPP변환율(태국바트/달러),macro
+1692,aGLIFTHNACFPG,투자(GDP대비)(%),macro
+1693,aGLIFTHNASVPG,총저축(GDP대비)(%),macro
+1694,afGLIFTHCPIU,CPI(평균)(2011=100),macro
+1695,aGLIFTHCPIAU,"CPI(평균,전년비)(%)",macro
+1696,aGLIFTHCPIEU,CPI(기말)(2011=100),macro
+1697,aGLIFTHCPIAEU,"CPI(기말,전년비)(%)",macro
+1698,agGLIFTHEIIGSV,재화와서비스수입량(%),macro
+1699,agGLIFTHEIIG,재화의수입량(%),macro
+1700,agGLIFTHEIEGSV,재화와서비스수출량(%),macro
+1701,agGLIFTHEIEG,재화의수출량(%),macro
+1702,apGLIFTHEIIOII,석유수입량(십억달러),macro
+1703,apGLIFTHEIEOII,석유수출량(십억달러),macro
+1704,aGLIFTHLWUR,실업률(%),macro
+1705,apGLIFTHPP,인구(백만명),macro
+1706,aGLIFTHGGRL,일반정부 재정수입(십억 태국바트),macro
+1707,aGLIFTHGGR,일반정부 재정수입(GDP대비)(%),macro
+1708,aGLIFTHGGTEL,일반정부 총지출(십억 태국바트),macro
+1709,aGLIFTHGGTE,일반정부 총지출(GDP대비)(%),macro
+1710,aaGLIFTHPFBLL,일반정부 순융자/차입(십억태국바트),macro
+1711,aGLIFTHPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1712,aaGLIFTHPFSBL,일반정부 구조화수지(십억태국바트),macro
+1713,aGLIFTHPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1714,aGLIFTHGGPNLBL,일반정부 기초재정 순융자/차입(십억태국바트),macro
+1715,aGLIFTHGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1716,aGLIFTHPFDBL,일반정부 총부채(십억태국바트),macro
+1717,aGLIFTHPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1718,aGLIFTHNAGDP,경상가격(십억태국바트),macro
+1719,aaGLIFTHBPCA$,경상수지(달러)(십억달러),macro
+1720,aGLIFTHBPCAPG,경상수지(GDP대비)(%),macro
+1721,acGLIFVNNAGDL,GDP(불변)(십억 베트남동),macro
+1722,aGLIFVNNAGDAR,"GDP(불변,전년비)(%)",macro
+1723,aaGLIFVNNAGDL,GDP(명목)(십억 베트남동),macro
+1724,aaGLIFVNNAGD$,"GDP(명목,달러)(십억달러)",macro
+1725,afGLIFVNNAGDDF,GDP디플레이터(2002=100),macro
+1726,acGLIFVNNAGDPCL,1인당GDP(불변)(베트남동),macro
+1727,aaGLIFVNNAGDPCL,1인당GDP(명목)(베트남동),macro
+1728,aaGLIFVNNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1729,aaGLIFVNNAGDPPV$,"GDP(PPP,전세계비중)(%)",macro
+1730,aGLIFVNPPPCR,함축적PPP변환율(베트남동/달러),macro
+1731,aGLIFVNNACFPG,투자(GDP대비)(%),macro
+1732,aGLIFVNNASVPG,총저축(GDP대비)(%),macro
+1733,afGLIFVNCPIU,CPI(평균)(2011=100),macro
+1734,aGLIFVNCPIAU,"CPI(평균,전년비)(%)",macro
+1735,aGLIFVNCPIEU,CPI(기말)(2011=100),macro
+1736,aGLIFVNCPIAEU,"CPI(기말,전년비)(%)",macro
+1737,agGLIFVNEIIGSV,재화와서비스수입량(%),macro
+1738,agGLIFVNEIIG,재화의수입량(%),macro
+1739,agGLIFVNEIEGSV,재화와서비스수출량(%),macro
+1740,agGLIFVNEIEG,재화의수출량(%),macro
+1741,aGLIFVNLWUR,실업률(%),macro
+1742,apGLIFVNPP,인구(백만명),macro
+1743,aGLIFVNGGRL,일반정부 재정수입(십억 베트남동),macro
+1744,aGLIFVNGGR,일반정부 재정수입(GDP대비)(%),macro
+1745,aGLIFVNGGTEL,일반정부 총지출(십억 베트남동),macro
+1746,aGLIFVNGGTE,일반정부 총지출(GDP대비)(%),macro
+1747,aaGLIFVNPFBLL,일반정부 순융자/차입(십억베트남동),macro
+1748,aGLIFVNPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1749,aaGLIFVNPFSBL,일반정부 구조화수지(십억베트남동),macro
+1750,aGLIFVNPFSBPG,일반정부 기초재정 순융자/차입(%),macro
+1751,aGLIFVNGGPNLBL,일반정부 기초재정 순융자/차입(GDP대비)(십억베트남동),macro
+1752,aGLIFVNGGNLB,일반정부 총부채(%),macro
+1753,aGLIFVNPFDBL,일반정부 총부채(GDP대비)(십억베트남동),macro
+1754,aGLIFVNNAGDP,경상가격(십억베트남동),macro
+1755,aaGLIFVNBPCA$,경상수지(달러)(십억달러),macro
+1756,aGLIFVNBPCAPG,경상수지(GDP대비)(%),macro
+1757,acGLIFUKNAGDL,GDP(불변)(십억 영국파운드),macro
+1758,aGLIFUKNAGDAR,"GDP(불변,전년비)(%)",macro
+1759,aaGLIFUKNAGDL,GDP(명목)(십억 영국파운드),macro
+1760,aaGLIFUKNAGD$,"GDP(명목,달러)(십억달러)",macro
+1761,afGLIFUKNAGDDF,국내총생산디플레이터(2011=100),macro
+1762,acGLIFUKNAGDPCL,1인당GDP(불변)(영국파운드),macro
+1763,aaGLIFUKNAGDPCL,1인당GDP(명목)(영국파운드),macro
+1764,aaGLIFUKNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1765,aGLIFUKGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1766,aGLIFUKNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1767,aGLIFUKPPPCR,함축적PPP변환율(영국파운드/달러),macro
+1768,aGLIFUKNACFPG,투자(GDP대비)(%),macro
+1769,aGLIFUKNASVPG,총저축(GDP대비)(%),macro
+1770,afGLIFUKCPIS,CPI(평균)(2005=100),macro
+1771,aGLIFUKCPIAS,"CPI(평균,전년비)(%)",macro
+1772,aGLIFUKCPIES,CPI(기말)(2005=100),macro
+1773,aGLIFUKCPIAES,"CPI(기말,전년비)(%)",macro
+1774,agGLIFUKEIIGSV,재화와서비스수입량(%),macro
+1775,agGLIFUKEIIG,재화의수입량(%),macro
+1776,agGLIFUKEIEGSV,재화와서비스수출량(%),macro
+1777,agGLIFUKEIEG,재화의수출량(%),macro
+1778,apGLIFUKEIIOII,석유수입량(십억달러),macro
+1779,apGLIFUKEIEOII,석유수출량(십억달러),macro
+1780,aGLIFUKLWUR,실업률(%),macro
+1781,aGLIFUKEMPJ,취업자(백만명),macro
+1782,apGLIFUKPP,인구(백만명),macro
+1783,aGLIFUKGGRL,일반정부 재정수입(십억 영국파운드),macro
+1784,aGLIFUKGGR,일반정부 재정수입(GDP대비)(%),macro
+1785,aGLIFUKGGTEL,일반정부 총지출(십억 영국파운드),macro
+1786,aGLIFUKGGTE,일반정부 총지출(GDP대비)(%),macro
+1787,aaGLIFUKPFBLL,일반정부 순융자/차입(십억유로),macro
+1788,aGLIFUKPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1789,aaGLIFUKPFSBL,일반정부 구조화수지(십억 영국파운드),macro
+1790,aGLIFUKPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1791,aGLIFUKGGPNLBL,일반정부 기초재정 순융자/차입(십억 영국파운드),macro
+1792,aGLIFUKGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1793,aaGLIFUKPFNDL,일반정부 순부채(십억 영국파운드),macro
+1794,aGLIFUKPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1795,aaGLIFUKPFDBL,일반정부 총부채(십억 영국파운드),macro
+1796,aGLIFUKPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1797,aaGLIFUKNAGDP,경상가격(십억 영국파운드),macro
+1798,aaGLIFUKBPCA$,경상수지(달러)(십억달러),macro
+1799,aGLIFUKBPCAPG,경상수지(GDP대비)(%),macro
+1800,acGLIFUSNAGDL,GDP(불변)(십억달러),macro
+1801,aGLIFUSNAGDAR,"GDP(불변,전년비)(%)",macro
+1802,aaGLIFUSNAGD$,"GDP(명목,달러)(십억달러)",macro
+1803,afGLIFUSNAGDDF,국내총생산디플레이터(2009=100),macro
+1804,acGLIFUSNAGDPCL,1인당GDP(불변)(달러),macro
+1805,aaGLIFUSNAGDPC$,"1인당GDP(명목,달러)(달러)",macro
+1806,aGLIFUSGAPPPG,산출량갭(잠재GDP대비)(%),macro
+1807,aGLIFUSNAGDPPV,"GDP(PPP,전세계비중)(%)",macro
+1808,aGLIFUSNACFPG,투자(GDP대비)(%),macro
+1809,aGLIFUSNASVPG,총저축(GDP대비)(%),macro
+1810,aGLIFUSCPIAT,"CPI(평균,전년비)(%)",macro
+1811,aGLIFUSCPIAET,"CPI(기말,전년비)(%)",macro
+1812,aGLIFUSIRLIBOR6,LIBOR(6개월)(%),macro
+1813,agGLIFUSEIIGSV,재화와서비스수입량(%),macro
+1814,agGLIFUSEIIG,재화의수입량(%),macro
+1815,agGLIFUSEIEGSV,재화와서비스수출량(%),macro
+1816,agGLIFUSEIEG,재화의수출량(%),macro
+1817,apGLIFUSEIIOII,석유수입량(십억달러),macro
+1818,apGLIFUSEIEOII,석유수출량(십억달러),macro
+1819,aGLIFUSLWUR,실업률(%),macro
+1820,aGLIFUSEMPK,취업자(백만명),macro
+1821,apGLIFUSPP,인구(백만명),macro
+1822,aGLIFUSGGRL,일반정부 재정수입(십억달러),macro
+1823,aGLIFUSGGR,일반정부 재정수입(GDP대비)(%),macro
+1824,aGLIFUSGGTEL,일반정부 총지출(십억달러),macro
+1825,aGLIFUSGGTE,일반정부 총지출(GDP대비)(%),macro
+1826,aaGLIFUSPFBLL,일반정부 순융자/차입(십억달러),macro
+1827,aGLIFUSPFBLPG,일반정부 순융자/차입(GDP대비)(%),macro
+1828,aaGLIFUSPFSBL,일반정부 구조화수지(십억달러),macro
+1829,aGLIFUSPFSBPG,일반정부 구조화수지(잠재GDP대비)(%),macro
+1830,aGLIFUSGGPNLBL,일반정부 기초재정 순융자/차입(십억달러),macro
+1831,aGLIFUSGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro
+1832,aaGLIFUSPFNDL,일반정부 순부채(십억달러),macro
+1833,aGLIFUSPFNDPG,일반정부 순부채(GDP대비)(%),macro
+1834,aaGLIFUSPFDBL,일반정부 총부채(십억달러),macro
+1835,aGLIFUSPFDBPG,일반정부 총부채(GDP대비)(%),macro
+1836,aaGLIFUSNAGDP,"GDP,경상가격(십억달러)",macro
+1837,aaGLIFUSBPCA$,경상수지(달러)(십억달러),macro
+1838,aGLIFUSBPCAPG,경상수지(GDP대비)(%),macro
+1839,aGLTCNHKO,한국(%),macro
+1840,aGLBHCHAG,아르헨티나(%),macro
+1841,aGLBHCHAU,오스트레일리아(%),macro
+1842,aGLBHCHOE,오스트리아(%),macro
+1843,aGLBHCHBG,벨기에(%),macro
+1844,aGLBHCHBR,브라질(%),macro
+1845,aGLBHCHCN,캐나다(%),macro
+1846,aGLBHCHCL,칠레(%),macro
+1847,aGLBHCHCH,중국(%),macro
+1848,aGLBHCHCZ,체코(%),macro
+1849,aGLBHCHDK,덴마크(%),macro
+1850,aGLBHCHFN,핀란드(%),macro
+1851,aGLBHCHFR,프랑스(%),macro
+1852,aGLBHCHBD,독일(%),macro
+1853,aGLBHCHGR,그리스(%),macro
+1854,aGLBHCHHK,홍콩(%),macro
+1855,aGLBHCHHN,헝가리(%),macro
+1856,aGLBHCHIN,인도(%),macro
+1857,aGLBHCHID,인도네시아(%),macro
+1858,aGLBHCHIR,아일랜드(%),macro
+1859,aGLBHCHIS,이스라엘(%),macro
+1860,aGLBHCHIT,이탈리아(%),macro
+1861,aGLBHCHJP,일본(%),macro
+1862,aGLBHCHLU,룩셈부르크(%),macro
+1863,aGLBHCHMY,말레이시아(%),macro
+1864,aGLBHCHMX,멕시코(%),macro
+1865,aGLBHCHNL,네덜란드(%),macro
+1866,aGLBHCHNZ,뉴질랜드(%),macro
+1867,aGLBHCHNW,노르웨이(%),macro
+1868,aGLBHCHPO,폴란드(%),macro
+1869,aGLBHCHPT,포르투갈(%),macro
+1870,aGLBHCHRS,러시아(%),macro
+1871,aGLBHCHSI,사우디아라비아(%),macro
+1872,aGLBHCHSP,싱가포르(%),macro
+1873,aGLBHCHSA,남아프리카공화국(%),macro
+1874,aGLBHCHES,스페인(%),macro
+1875,aGLBHCHSD,스웨덴(%),macro
+1876,aGLBHCHSW,스위스(%),macro
+1877,aGLBHCHTH,태국(%),macro
+1878,aGLBHCHTK,터키(%),macro
+1879,aGLBHCHUK,영국(%),macro
+1880,aGLBHCHUS,미국(%),macro
+1881,aGLBHCHEU,유로(%),macro
+1882,aGLPFCGAU,오스트레일리아(%),macro
+1883,aGLPFCGOE,오스트리아(%),macro
+1884,aGLPFCGBG,벨기에(%),macro
+1885,aGLPFCGCN,캐나다(%),macro
+1886,aGLPFCGCL,칠레(%),macro
+1887,aGLPFCGCZ,체코(%),macro
+1888,aGLPFCGDK,덴마크(%),macro
+1889,aGLPFCGFN,핀란드(%),macro
+1890,aGLPFCGFR,프랑스(%),macro
+1891,aGLPFCGBD,독일(%),macro
+1892,aGLPFCGGR,그리스(%),macro
+1893,aGLPFCGHN,헝가리(%),macro
+1894,aGLPFCGIR,아일랜드(%),macro
+1895,aGLPFCGIS,이스라엘(%),macro
+1896,aGLPFCGIT,이탈리아(%),macro
+1897,aGLPFCGJP,일본(%),macro
+1898,aGLPFCGLU,룩셈부르크(%),macro
+1899,aGLPFCGNL,네덜란드(%),macro
+1900,aGLPFCGNW,노르웨이(%),macro
+1901,aGLPFCGPO,폴란드(%),macro
+1902,aGLPFCGPT,포르투갈(%),macro
+1903,aGLPFCGES,스페인(%),macro
+1904,aGLPFCGSD,스웨덴(%),macro
+1905,aGLPFCGSW,스위스(%),macro
+1906,aGLPFCGTK,터키(%),macro
+1907,aGLPFCGUK,영국(%),macro
+1908,aGLPFCGUS,미국(%),macro
+1909,aGLPFCGEU,유로(%),macro
+1910,aGLURBCH,중국 도시인구비율(총인구대비)(%),macro
+1911,aGLURBKO,한국 도시인구비율(총인구대비)(%),macro
+1912,aGLMBUS,본원통화(미국)(십억달러),macro
+1913,aGLPRUS,중앙은행할인율(미국)(%),macro
+1914,aGLMIUSTN10,T/Note(10년)(연%),macro
+1915,aGLCPINCN,CPI(중국)(전년동월=100),macro
+1916,aGLORACN,외환보유액(중국)(백만달러),macro
+1917,afUSCIOF,미국 주택가격(전국)(1991.1Q=100),macro
+1918,aaJPFFLILN,일본 가계부채 대출금 합계(억엔),macro
+1919,aGLRMGOLDPMFX,런던 금가격(LBMA)(USD/트로이 온스),macro
+1920,bKOIVVK,코스피 200 변동성지수(Index),macro
+1921,bKODSMKSVAS,KOSPI 거래대금(주식)(천원),macro
+1922,apKOSPIOAGBI,국고채 발행액(십억원),macro
+1923,bKOBOTBTA,상장채권거래대금(백만원),macro
+1924,bKOSMDM,투자자예탁금(억원),macro
+1925,bKOSMCO,위탁매매 미수금(억원),macro
+1926,bKOSMCL,신용융자: 잔고(억원),macro
+1927,bKOSMEB,주식형수익증권(억원),macro
+1928,bKOFNBTES,증권: 주식형(억원),macro
+1929,bKOFNBTEB,증권: 채권(억원),macro
+1930,bKOFNBTT,합계(억원),macro
+1931,bKOFNCTV,전체 설정액 합계(억원),macro
+1932,bKOFNCTESEXV,전체 설정액 주식형(ETF제외)(억원),macro
+1933,bKOFNCTEEBV,전체 설정액 채권형(ETF제외)(억원),macro
+1934,bKOFNCTESEXR,전체 해지액 주식형(ETF제외)(억원),macro
+1935,bKOFNCTEEBR,전체 해지액 채권형(ETF제외)(억원),macro
+1936,bKOFNCTESEXC,전체 증감액 주식형(ETF제외)(억원),macro
+1937,bKOFNCTEEBC,전체 증감액 채권형(ETF제외)(억원),macro
+1938,bKOFNATT,적립식펀드 판매유형별 합계(억원),macro
