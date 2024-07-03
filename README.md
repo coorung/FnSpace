@@ -28,7 +28,7 @@ api_key = "Your API key"
 fs = FnSpace(api_key)
 ```
 
-### 1. 출력 변수 목록 불러오기
+## 1. 출력 변수 목록 불러오기
 
 재무 데이터의 출력 변수 리스트를 조회합니다.
 
@@ -38,7 +38,7 @@ item_df = fs.get_data(category="item_list", data_type="account") # 재무 데이
 
 출력 변수의 Item Code는 본 github의 `ITEM_LIST.csv`를 참조하셔도 됩니다.
 
-### 2. 재무 데이터 불러오기
+## 2. 재무 데이터 불러오기
 
 종목코드와 출력 변수를 지정하여 재무 데이터를 조회합니다.
 
@@ -64,7 +64,7 @@ account_df = fs.get_data(
 stock_list_df = fs.get_data(
     category = 'stock_list',
     mkttype ='4', # KOSPI(1)/KOSDAQ(2)/KONEX(3)/KOSPI+KOSDAQ(4)/KOSPI200(5)/KOSDAQ150(6)
-    date ='20240624' # 조회 기준일
+    date ='20240624' # 조회 기준일 (default : 오늘 일자)
 )
 ```
 
