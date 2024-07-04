@@ -30,7 +30,7 @@ fs = FnSpace(api_key)
 
 ## 1. 출력 변수 목록 불러오기
 
-재무 데이터의 출력 변수 리스트를 조회합니다.
+출력 변수 리스트를 조회합니다.
 
 ```python
 item_df = fs.get_data(category="item_list", data_type="account") # 재무 데이터의 출력 변수 리스트
