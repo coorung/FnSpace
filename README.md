@@ -156,7 +156,7 @@ consensus_forward_df = fs.get_data(
 )
 ```
 
-## 7. 항목 가용성 활용하기
+## 7. 가용 항목 활용하기
 
 모든 API는 ITEM_LIST.csv의 IS_AVAILABLE 컬럼을 확인하여 'Y'인 항목만 API 요청에 포함합니다.
 사용 가능한 항목만 확인하려면 다음과 같이 필터링할 수 있습니다:
