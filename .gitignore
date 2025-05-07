@@ -1,0 +1,26 @@
+# 빌드 산출물
+build/
+dist/
+*.egg-info/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 개발 환경 설정
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db 

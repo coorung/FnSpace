@@ -1,0 +1,721 @@
+ITEM_CD,ITEM_NM_KOR,DATA_TYPE,IS_AVAILABLE
+aKONA10NIGDPW,"국민총소득(명목,원화)(십억원)",macro,N
+aKONA10NIGDPDD,"국민총소득(명목,달러)(억달러)",macro,N
+aKONA10NIPCGNID,"1인당 국민총소득(명목,달러)(달러)",macro,N
+aKONA10GRGDPP,경제활동별 성장률(%),macro,N
+aKONA10GSGSR,총저축률(명목)(%),macro,N
+aKONA10GSGDIR,국내투자율(명목)(%),macro,N
+aKONA10REREE,수출입의 대 GNI 비율(%),macro,N
+aKONA10RGDPGDP,"GDP 성장률(실질,계조)(%)",macro,N
+aKONA10RGDPPEI,"민간소비 증감률(실질,계조)(%)",macro,N
+aKONA10RGDPFI,"설비투자 증감률(실질,계조)(%)",macro,N
+aKONA10RGDPCC,"건설투자 증감률(실질,계조)(%)",macro,N
+aKONA10RGDPEGDPP,"GDP 성장률(실질,원계열)(%)",macro,N
+aKONA10RGDPEEGDPDP,"민간소비 증감률(실질,원계열)(%)",macro,N
+aKONA10RGDPEEGDPDF,"설비투자 증감률(실질,원계열)(%)",macro,N
+aKONA10RGDPEEGDPDC,"건설투자 증감률(실질,원계열)(%)",macro,N
+aKONA10RGDPEEGDPDE,"재화수출 증감률(실질,원계열)(%)",macro,N
+aKONA10RGDPEEGDPDD,"내수 증감률(실질,원계열)(%)",macro,N
+aKONA10GS,"총저축률(명목,계조)(%)",macro,N
+aKONA10GSGIR,"국내총투자율(명목,계조)(%)",macro,N
+abKONA10VA,"총부가가치(GDP+GNI,명목,계조)(십억원)",macro,N
+abKONA10GDM,"GDP 규모(명목,계조)(십억원)",macro,N
+abKONA10GNI,"GNI 규모(명목,계조)(십억원)",macro,N
+aaKONA10C,"제조업 규모(명목,원계열)(십억원)",macro,N
+aaKONA10F,"건설업 규모(명목,원계열)(십억원)",macro,N
+aaKONA10S,"서비스업 규모(명목,원계열)(십억원)",macro,N
+aaKONA10GNI,"국민총소득 규모(명목,원계열)(십억원)",macro,N
+abKONA10CNF,"최종소비 규모(명목,계조)(십억원)",macro,N
+abKONA10CFS,"건설투자 규모(명목,계조)(십억원)",macro,N
+abKONA10CFI,"설비투자 규모(명목,계조)(십억원)",macro,N
+abKONA10EXT,"재화,서비스수출(명목,계조)(십억원)",macro,N
+adKONA10CNF,"최종소비지출(실질,계조)(십억원)",macro,N
+adKONA10CFIP,"지식재산생산물투자(실질,계조)(십억원)",macro,N
+aaKONA10CNP,"민간소비(명목,원계열)(십억원)",macro,N
+aaKONA10CNGV,"정부지출(명목,원계열)(십억원)",macro,N
+aaKONA10CF,"총자본형성(명목,원계열)(십억원)",macro,N
+aaKONA10CFA,"총고정자본형성(명목,원계열)(십억원)",macro,N
+aaKONA10EXT,"재화,서비스수출(명목,원계열)(십억원)",macro,N
+acKONA10CFA,"총고정자본형성(실질,원계열)(십억원)",macro,N
+aKONA10DFGDM,GDP디플레이터(시장가격)(2010=100),macro,N
+aKONA10DUI,제도부문별 생산계정(명목)(십억원),macro,N
+adKONA10CGDPCNP,"민간소비(실질,계조)(%p)",macro,N
+adKONA10CGDPCNGV,"정부소비(실질,계조)(%p)",macro,N
+adKONA10CGDPCFA,"총고정자본형성(실질,계조)(%p)",macro,N
+adKONA10FCNHG,"가계 최종소비지출(실질,계조)(십억원)",macro,N
+aaKONA10GSQGS,"총저축(명목,원계열)(십억원)",macro,N
+adKONA10GDMKDIY,"GDP(KDI,실질,계조)(%)",macro,N
+adKONA10GDMOECDY,GDP(OECD)(%),macro,N
+ahKOMAIP15C,생산지수(제조업)(원지수)(2015=100),macro,N
+aiKOMAIP150,생산지수(계조)(2015=100),macro,N
+aiKOMAIP15B,생산지수(광업)(계조)(2015=100),macro,N
+aiKOMAIP15C,생산지수(제조업)(계조)(2015=100),macro,N
+aiKOMAIP15C10,생산지수(식료품 제조업)(계조)(2015=100),macro,N
+aiKOMAIP15C14,생산지수(의복 등 제조업)(계조)(2015=100),macro,N
+akKOMASH15C,생산자제품 출하지수(제조업)(원지수)(2015=100),macro,N
+ahKOMAIN15C,생산자제품 재고지수(제조업)(원지수)(2015=100),macro,N
+agKOMAIN15C,생산자제품 재고지수(제조업)(계조)(2015=100),macro,N
+aKOMAIP15MET13,기계설비류 내수출하지수(원지수)(2015=100),macro,N
+ahKOMAIU15C,제조업가동률지수(원지수)(2015=100),macro,N
+ahKOMAIU15AVG,제조업평균가동률(%),macro,N
+agKOMAAP15AIP,전산업생산지수(농림어업제외)(2015=100),macro,N
+aKOSANUIP15,서비스업생산(경상)(2015=100),macro,N
+aKOSANUIP15G451,자동차 판매업생산(경상)(2015=100),macro,N
+aKOSANUIP15G46443,화장품 및 비누 도매업 생산(경상)(2015=100),macro,N
+aKOSANOIP15,서비스업생산(불변)(2015=100),macro,N
+aKOSANOIP15G,도매 및 소매업생산(불변)(2015=100),macro,N
+aKOSANOIP15G451,자동차 판매업생산(불변)(2015=100),macro,N
+aKONWR15UD,백화점 (경상)(2015=100),macro,N
+aKONWR15UL,대형마트 (경상)(2015=100),macro,N
+aKONWR15USM,슈퍼마켓 및 잡화점 (경상)(2015=100),macro,N
+aKONWR15UC,편의점 (경상)(2015=100),macro,N
+aKONWR15UOR,승용차 및 연료 소매점 (경상)(2015=100),macro,N
+aKONWR15OS,소매업태별(불변)(2015=100),macro,N
+aKONWR15SS,소매업태별(계조)(2015=100),macro,N
+aKONWR15PUS,재별 (경상)(2015=100),macro,N
+aKONWR15PUD,내구재 (경상)(2015=100),macro,N
+aKONWR15PUSD,준내구재 (경상)(2015=100),macro,N
+aKONWR15PUNDG,비내구재 (경상)(2015=100),macro,N
+aKONWR15POS,재별 (불변)(2015=100),macro,N
+aaKOBH05IT,"가계소득(명목,전국)(원)",macro,N
+aaKOBH05SIT,"가계소득(명목,전국,근로자)(원)",macro,N
+aaKOBH05DIC,"처분가능소득(실질,전국)(원)",macro,N
+afKOBH05MI05,시장소득 지니계수(0~1),macro,N
+afKOBH05DI05,가처분소득 지니계수(0~1),macro,N
+asKOMBCHGDP,가계대출비율(GDP대비)(%),macro,N
+aaKOFINBX,"총수주액(선박제외,경상)(백만원)",macro,N
+aaKOFINBXDD,"국내수요(선박제외,경상)(백만원)",macro,N
+ahKOFIEST10,설비투자총지수(2010=100),macro,N
+afKOCIHPP0,주택매매가격 종합지수(전국)(2019.01=100),macro,N
+afKOCIAPP0,아파트 매매가격지수(전국)(2019.01=100),macro,N
+afKOCIAPP11,아파트 매매가격지수(서울)(2019.01=100),macro,N
+afKOCIHJP0,주택전세가격 종합지수(전국)(2019.01=100),macro,N
+arKOCIHRNC,새로운주택보급률(전국)(%),macro,N
+ahKOPR15C0,CPI(지출목적별 총지수)(2015=100),macro,N
+ahKOPR15L0,CPI(생활물가 총지수)(2015=100),macro,N
+ahKOPR15EPQB,CPI(농산물및석유류제외)(2015=100),macro,N
+aKOLWWIAWP0,월급여액(전체근로자)(천원),macro,N
+aKOLWAME,임금근로자월평균임금(천원),macro,N
+agKOCB1510LD1,선행_재고순환지표(%p),macro,N
+agKOCB159LD2,선행_소비자기대지수(NULL),macro,N
+agKOCB159LDPC,선행종합지수 전월비(%),macro,N
+agKOCB159LDPCCC,선행지수 순환변동치(p),macro,N
+agKOCB159COPCCC,동행지수 순환변동치(p),macro,N
+aKOFSISOIL09,"영업손익(전산업,기업경영분석)(백만원)",macro,N
+aKOFSISNIL09,"당기순손익(전산업,기업경영분석)(백만원)",macro,N
+aKOFSCG15S,"매출액증가율(제조업,기업경영분석)(%)",macro,N
+aKOFSIE15IBT,매출액세전순이익률(제조업)(%),macro,N
+aKOFSAL15DR,"부채비율(제조업,기업경영분석)(%)",macro,N
+auKOMBBDA,예금은행총예금(평잔)(십억원),macro,N
+auKOMBBLA,예금은행대출금(평잔)(십억원),macro,N
+auKOMBRDB0,어음부도율(전국)(%),macro,N
+arKOIRKSDATB3,국고채권(3년) 수익률(%),macro,N
+arKOIRKSDATB10,국고채권(10년) 수익률(%),macro,N
+aaKOPFCGGDP,"정부부채(GDP대비,BIS)(%)",macro,N
+aaKOPFGDT,국가채무규모액(조원),macro,N
+aGLOCLDOTO,OECD - 전체(Index),macro,N
+aGLOCLDOEU,OECD - 유럽(Index),macro,N
+aGLOCLDONM,OECD+주요6개국(Index),macro,N
+aGLOCLDNZL,뉴질랜드(Index),macro,N
+aGLOCLDAUT,오스트리아(Index),macro,N
+aGLOCLDBEL,벨기에(Index),macro,N
+aGLOCLDCZE,체코(Index),macro,N
+aGLOCLDDNK,덴마크(Index),macro,N
+aGLOCLDFIN,핀란드(Index),macro,N
+aGLOCLDGRC,그리스(Index),macro,N
+aGLOCLDHUN,헝가리(Index),macro,N
+aGLOCLDIRL,아일랜드(Index),macro,N
+aGLOCLDIL,이스라엘(Index),macro,N
+aGLOCLDNLD,네덜란드(Index),macro,N
+aGLOCLDNOR,노르웨이(Index),macro,N
+aGLOCLDPOL,폴란드(Index),macro,N
+aGLOCLDPRT,포르투갈(Index),macro,N
+aGLOCLDSVK,슬로바키아(Index),macro,N
+aGLOCLDSVN,슬로베니아(Index),macro,N
+aGLOCLDEST,에스토니아(Index),macro,N
+aGLOCLDSWE,스웨덴(Index),macro,N
+aGLOCLDCHE,스위스(Index),macro,N
+aGLOCLDCL,칠레(Index),macro,N
+aGLOCLDRUS,비 OECD국가_러시아(Index),macro,N
+aGLOCLDEU19,유로존(19개국)(Index),macro,N
+aGLOCL6OTO,OECD - 전체(%),macro,N
+aGLOCL6OEU,OECD - 유럽(%),macro,N
+aGLOCL6G7M,G7(%),macro,N
+aGLOCL6CAN,G7_캐나다(%),macro,N
+aGLOCL6FRA,G7_프랑스(%),macro,N
+aGLOCL6DEU,G7_독일(%),macro,N
+aGLOCL6ITA,G7_이탈리아(%),macro,N
+aGLOCL6JPN,G7_일본(%),macro,N
+aGLOCL6USA,G7_미국(%),macro,N
+aGLOCL6GBR,G7_영국(%),macro,N
+aGLOCL6NAT,NAFTA(%),macro,N
+aGLOCL6A5M,ASIA5(%),macro,N
+aGLOCL6ONM,OECD+주요6개국(%),macro,N
+aGLOCL6MEX,멕시코(%),macro,N
+aGLOCL6KOR,한국(%),macro,N
+aGLOCL6AUS,호주(%),macro,N
+aGLOCL6NZL,뉴질랜드(%),macro,N
+aGLOCL6AUT,오스트리아(%),macro,N
+aGLOCL6BEL,벨기에(%),macro,N
+aGLOCL6CZE,체코(%),macro,N
+aGLOCL6DNK,덴마크(%),macro,N
+aGLOCL6FIN,핀란드(%),macro,N
+aGLOCL6GRC,그리스(%),macro,N
+aGLOCL6HUN,헝가리(%),macro,N
+aGLOCL6IRL,아일랜드(%),macro,N
+aGLOCL6IL,이스라엘(%),macro,N
+aGLOCL6NLD,네덜란드(%),macro,N
+aGLOCL6NOR,노르웨이(%),macro,N
+aGLOCL6POL,폴란드(%),macro,N
+aGLOCL6PRT,포르투갈(%),macro,N
+aGLOCL6SVK,슬로바키아(%),macro,N
+aGLOCL6SVN,슬로베니아(%),macro,N
+aGLOCL6EST,에스토니아(%),macro,N
+aGLOCL6SWE,스웨덴(%),macro,N
+aGLOCL6CHE,스위스(%),macro,N
+aGLOCL6CL,칠레(%),macro,N
+aGLOCL6BRA,비 OECD국가_브라질(%),macro,N
+aGLOCL6CHN,비 OECD국가_중국(%),macro,N
+aGLOCL6IND,비 OECD국가_인도(%),macro,N
+aGLOCL6IDN,비 OECD국가_인도네시아(%),macro,N
+aGLOCL6RUS,비 OECD국가_러시아(%),macro,N
+aGLOCL6ZAF,비 OECD국가_남아공(%),macro,N
+aGLOCL6EU19,유로존(19개국)(%),macro,N
+aGLGINIDE,독일(0~1),macro,N
+aGLGINIJP,일본(0~1),macro,N
+aGLGINIGB,영국(0~1),macro,N
+aGLGINIUS,미국(0~1),macro,N
+apGLOCPAU,호주(AUD),macro,N
+apGLOCPAT,오스트리아(EUR),macro,N
+apGLOCPBE,벨기에(EUR),macro,N
+apGLOCPCA,캐나다(CAD),macro,N
+apGLOCPCL,칠레(CLP),macro,N
+apGLOCPCZ,체코(CZK),macro,N
+apGLOCPDK,덴마크(DKK),macro,N
+apGLOCPEE,에스토니아(EUR),macro,N
+apGLOCPFI,핀란드(EUR),macro,N
+apGLOCPFR,프랑스(EUR),macro,N
+apGLOCPDE,독일(EUR),macro,N
+apGLOCPGR,그리스(EUR),macro,N
+apGLOCPHU,헝가리(HUF),macro,N
+apGLOCPIS,아이슬란드(ISK),macro,N
+apGLOCPIE,아일랜드(EUR),macro,N
+apGLOCPIL,이스라엘(ILS),macro,N
+apGLOCPIT,이탈리아(EUR),macro,N
+apGLOCPJP,일본(JPY),macro,N
+apGLOCPKR,한국(KRW),macro,N
+apGLOCPLV,라트비아(EUR),macro,N
+apGLOCPLU,룩셈부르크(EUR),macro,N
+apGLOCPMX,멕시코(MXN),macro,N
+apGLOCPNL,네덜란드(EUR),macro,N
+apGLOCPNZ,뉴질랜드(NZD),macro,N
+apGLOCPNO,노르웨이(NOK),macro,N
+apGLOCPPL,폴란드(PLN),macro,N
+apGLOCPPT,포르투갈(EUR),macro,N
+apGLOCPSK,슬로바키아(EUR),macro,N
+apGLOCPSI,슬로베니아(EUR),macro,N
+apGLOCPES,스페인(EUR),macro,N
+apGLOCPSE,스웨덴(SEK),macro,N
+apGLOCPCH,스위스(CHF),macro,N
+apGLOCPTR,터키(TRY),macro,N
+apGLOCPGB,영국(GBP),macro,N
+apGLOCPUS,미국(USD),macro,N
+apGLOCPEA15,유로존(EUR),macro,N
+apGLOCPBR,브라질(BRL),macro,N
+apGLOCPCO,콜롬비아(COP),macro,N
+apGLOCPCR,코스타리카(CRC),macro,N
+apGLOCPIN,인도(INR),macro,N
+apGLOCPID,인도네시아(IDR),macro,N
+apGLOCPLT,리투아니아(EUR),macro,N
+apGLOCPRU,러시아(RUB),macro,N
+apGLOCPZA,남아공(ZAR),macro,N
+apGLOCGAU,호주(AUD),macro,N
+apGLOCGAT,오스트리아(EUR),macro,N
+apGLOCGBE,벨기에(EUR),macro,N
+apGLOCGCA,캐나다(CAD),macro,N
+apGLOCGCL,칠레(CLP),macro,N
+apGLOCGCZ,체코(CZK),macro,N
+apGLOCGDK,덴마크(DKK),macro,N
+apGLOCGEE,에스토니아(EUR),macro,N
+apGLOCGFI,핀란드(EUR),macro,N
+apGLOCGFR,프랑스(EUR),macro,N
+apGLOCGDE,독일(EUR),macro,N
+apGLOCGGR,그리스(EUR),macro,N
+apGLOCGHU,헝가리(HUF),macro,N
+apGLOCGIS,아이슬란드(ISK),macro,N
+apGLOCGIE,아일랜드(EUR),macro,N
+apGLOCGIL,이스라엘(ILS),macro,N
+apGLOCGIT,이탈리아(EUR),macro,N
+apGLOCGJP,일본(JPY),macro,N
+apGLOCGKR,한국(KRW),macro,N
+apGLOCGLV,라트비아(EUR),macro,N
+apGLOCGLU,룩셈부르크(EUR),macro,N
+apGLOCGMX,멕시코(MXN),macro,N
+apGLOCGNL,네덜란드(EUR),macro,N
+apGLOCGNZ,뉴질랜드(NZD),macro,N
+apGLOCGNO,노르웨이(NOK),macro,N
+apGLOCGPL,폴란드(PLN),macro,N
+apGLOCGPT,포르투갈(EUR),macro,N
+apGLOCGSK,슬로바키아(EUR),macro,N
+apGLOCGSI,슬로베니아(EUR),macro,N
+apGLOCGES,스페인(EUR),macro,N
+apGLOCGSE,스웨덴(SEK),macro,N
+apGLOCGCH,스위스(CHF),macro,N
+apGLOCGTR,터키(TRY),macro,N
+apGLOCGGB,영국(GBP),macro,N
+apGLOCGUS,미국(USD),macro,N
+apGLOCGEA15,유로존(EUR),macro,N
+apGLOCGBR,브라질(BRL),macro,N
+apGLOCGCO,콜롬비아(COP),macro,N
+apGLOCGCR,코스타리카(CRC),macro,N
+apGLOCGIN,인도(INR),macro,N
+apGLOCGID,인도네시아(IDR),macro,N
+apGLOCGLT,리투아니아(EUR),macro,N
+apGLOCGRU,러시아(RUB),macro,N
+apGLOCGZA,남아공(ZAR),macro,N
+abGLOCCAAU,"호주(명목,계조)(백만달러)",macro,N
+abGLOCCAAT,"오스트리아(명목,계조)(백만달러)",macro,N
+abGLOCCABE,"벨기에(명목,계조)(백만달러)",macro,N
+abGLOCCACA,"캐나다(명목,계조)(백만달러)",macro,N
+abGLOCCACL,"칠레(명목,계조)(백만달러)",macro,N
+abGLOCCACZ,"체코(명목,계조)(백만달러)",macro,N
+abGLOCCADK,"덴마크(명목,계조)(백만달러)",macro,N
+abGLOCCAEE,"에스토니아(명목,계조)(백만달러)",macro,N
+abGLOCCAFI,"핀란드(명목,계조)(백만달러)",macro,N
+abGLOCCAFR,"프랑스(명목,계조)(백만달러)",macro,N
+abGLOCCADE,"독일(명목,계조)(백만달러)",macro,N
+abGLOCCAGR,"그리스(명목,계조)(백만달러)",macro,N
+abGLOCCAHU,"헝가리(명목,계조)(백만달러)",macro,N
+abGLOCCAIS,"아이슬란드(명목,계조)(백만달러)",macro,N
+abGLOCCAIE,"아일랜드(명목,계조)(백만달러)",macro,N
+abGLOCCAIL,"이스라엘(명목,계조)(백만달러)",macro,N
+abGLOCCAIT,"이탈리아(명목,계조)(백만달러)",macro,N
+abGLOCCAJP,"일본(명목,계조)(백만달러)",macro,N
+abGLOCCAKR,"한국(명목,계조)(백만달러)",macro,N
+abGLOCCALV,"라트비아(명목,계조)(백만달러)",macro,N
+abGLOCCALU,"룩셈부르크(명목,계조)(백만달러)",macro,N
+abGLOCCAMX,"멕시코(명목,계조)(백만달러)",macro,N
+abGLOCCANL,"네덜란드(명목,계조)(백만달러)",macro,N
+abGLOCCANZ,"뉴질랜드(명목,계조)(백만달러)",macro,N
+abGLOCCANO,"노르웨이(명목,계조)(백만달러)",macro,N
+abGLOCCAPL,"폴란드(명목,계조)(백만달러)",macro,N
+abGLOCCAPT,"포르투갈(명목,계조)(백만달러)",macro,N
+abGLOCCASK,"슬로바키아(명목,계조)(백만달러)",macro,N
+abGLOCCASI,"슬로베니아(명목,계조)(백만달러)",macro,N
+abGLOCCAES,"스페인(명목,계조)(백만달러)",macro,N
+abGLOCCASE,"스웨덴(명목,계조)(백만달러)",macro,N
+abGLOCCACH,"스위스(명목,계조)(백만달러)",macro,N
+abGLOCCATR,"터키(명목,계조)(백만달러)",macro,N
+abGLOCCAGB,"영국(명목,계조)(백만달러)",macro,N
+abGLOCCAUS,"미국(명목,계조)(백만달러)",macro,N
+abGLOCCAEA15,"유로존(명목,계조)(백만달러)",macro,N
+abGLOCCAT,"OECD(명목,계조)(백만달러)",macro,N
+abGLOCCAWD,"세계(명목,계조)(백만달러)",macro,N
+abGLOCCANOC,"비OECD(명목,계조)(백만달러)",macro,N
+abGLOCCABR,"브라질(명목,계조)(백만달러)",macro,N
+abGLOCCACN,"중국(명목,계조)(백만달러)",macro,N
+abGLOCCACO,"콜롬비아(명목,계조)(백만달러)",macro,N
+abGLOCCACR,"코스타리카(명목,계조)(백만달러)",macro,N
+abGLOCCAIN,"인도(명목,계조)(백만달러)",macro,N
+abGLOCCAID,"인도네시아(명목,계조)(백만달러)",macro,N
+abGLOCCALT,"리투아니아(명목,계조)(백만달러)",macro,N
+abGLOCCARU,"러시아(명목,계조)(백만달러)",macro,N
+abGLOCCAZA,"남아공(명목,계조)(백만달러)",macro,N
+abGLOCCADAE,"신흥공업국(명목,계조)(백만달러)",macro,N
+abGLOCCAOOP,"기타산유국(명목,계조)(백만달러)",macro,N
+abGLOCCAGAU,호주(GDP대비)(%),macro,N
+abGLOCCAGAT,오스트리아(GDP대비)(%),macro,N
+abGLOCCAGBE,벨기에(GDP대비)(%),macro,N
+abGLOCCAGCA,캐나다(GDP대비)(%),macro,N
+abGLOCCAGCL,칠레(GDP대비)(%),macro,N
+abGLOCCAGCZ,체코(GDP대비)(%),macro,N
+abGLOCCAGDK,덴마크(GDP대비)(%),macro,N
+abGLOCCAGEE,에스토니아(GDP대비)(%),macro,N
+abGLOCCAGFI,핀란드(GDP대비)(%),macro,N
+abGLOCCAGFR,프랑스(GDP대비)(%),macro,N
+abGLOCCAGDE,독일(GDP대비)(%),macro,N
+abGLOCCAGGR,그리스(GDP대비)(%),macro,N
+abGLOCCAGHU,헝가리(GDP대비)(%),macro,N
+abGLOCCAGIS,아이슬란드(GDP대비)(%),macro,N
+abGLOCCAGIE,아일랜드(GDP대비)(%),macro,N
+abGLOCCAGIL,이스라엘(GDP대비)(%),macro,N
+abGLOCCAGIT,이탈리아(GDP대비)(%),macro,N
+abGLOCCAGJP,일본(GDP대비)(%),macro,N
+abGLOCCAGKR,한국(GDP대비)(%),macro,N
+abGLOCCAGLV,라트비아(GDP대비)(%),macro,N
+abGLOCCAGLU,룩셈부르크(GDP대비)(%),macro,N
+abGLOCCAGMX,멕시코(GDP대비)(%),macro,N
+abGLOCCAGNL,네덜란드(GDP대비)(%),macro,N
+abGLOCCAGNZ,뉴질랜드(GDP대비)(%),macro,N
+abGLOCCAGNO,노르웨이(GDP대비)(%),macro,N
+abGLOCCAGPL,폴란드(GDP대비)(%),macro,N
+abGLOCCAGPT,포르투갈(GDP대비)(%),macro,N
+abGLOCCAGSK,슬로바키아(GDP대비)(%),macro,N
+abGLOCCAGSI,슬로베니아(GDP대비)(%),macro,N
+abGLOCCAGES,스페인(GDP대비)(%),macro,N
+abGLOCCAGSE,스웨덴(GDP대비)(%),macro,N
+abGLOCCAGCH,스위스(GDP대비)(%),macro,N
+abGLOCCAGTR,터키(GDP대비)(%),macro,N
+abGLOCCAGGB,영국(GDP대비)(%),macro,N
+abGLOCCAGUS,미국(GDP대비)(%),macro,N
+abGLOCCAGEU,유로존(GDP대비)(%),macro,N
+abGLOCCAGOC,OECD(GDP대비)(%),macro,N
+abGLOCCAGNOC,비OECD(GDP대비)(%),macro,N
+abGLOCCAGBR,브라질(GDP대비)(%),macro,N
+abGLOCCAGCN,중국(GDP대비)(%),macro,N
+abGLOCCAGCO,콜롬비아(GDP대비)(%),macro,N
+abGLOCCAGCR,코스타리카(GDP대비)(%),macro,N
+abGLOCCAGIN,인도(GDP대비)(%),macro,N
+abGLOCCAGID,인도네시아(GDP대비)(%),macro,N
+abGLOCCAGLT,리투아니아(GDP대비)(%),macro,N
+abGLOCCAGRU,러시아(GDP대비)(%),macro,N
+abGLOCCAGZA,남아공(GDP대비)(%),macro,N
+abGLOCTBAU,"호주(명목,계조)(백만달러)",macro,N
+abGLOCTBAT,"오스트리아(명목,계조)(백만달러)",macro,N
+abGLOCTBBE,"벨기에(명목,계조)(백만달러)",macro,N
+abGLOCTBCA,"캐나다(명목,계조)(백만달러)",macro,N
+abGLOCTBCZ,"체코(명목,계조)(백만달러)",macro,N
+abGLOCTBDK,"덴마크(명목,계조)(백만달러)",macro,N
+abGLOCTBEE,"에스토니아(명목,계조)(백만달러)",macro,N
+abGLOCTBFI,"핀란드(명목,계조)(백만달러)",macro,N
+abGLOCTBFR,"프랑스(명목,계조)(백만달러)",macro,N
+abGLOCTBDE,"독일(명목,계조)(백만달러)",macro,N
+abGLOCTBGR,"그리스(명목,계조)(백만달러)",macro,N
+abGLOCTBHU,"헝가리(명목,계조)(백만달러)",macro,N
+abGLOCTBIS,"아이슬란드(명목,계조)(백만달러)",macro,N
+abGLOCTBIE,"아일랜드(명목,계조)(백만달러)",macro,N
+abGLOCTBIL,"이스라엘(명목,계조)(백만달러)",macro,N
+abGLOCTBIT,"이탈리아(명목,계조)(백만달러)",macro,N
+abGLOCTBJP,"일본(명목,계조)(백만달러)",macro,N
+abGLOCTBKR,"한국(명목,계조)(백만달러)",macro,N
+abGLOCTBLV,"라트비아(명목,계조)(백만달러)",macro,N
+abGLOCTBLU,"룩셈부르크(명목,계조)(백만달러)",macro,N
+abGLOCTBMX,"멕시코(명목,계조)(백만달러)",macro,N
+abGLOCTBNL,"네덜란드(명목,계조)(백만달러)",macro,N
+abGLOCTBNZ,"뉴질랜드(명목,계조)(백만달러)",macro,N
+abGLOCTBNO,"노르웨이(명목,계조)(백만달러)",macro,N
+abGLOCTBPL,"폴란드(명목,계조)(백만달러)",macro,N
+abGLOCTBPT,"포르투갈(명목,계조)(백만달러)",macro,N
+abGLOCTBSK,"슬로바키아(명목,계조)(백만달러)",macro,N
+abGLOCTBSI,"슬로베니아(명목,계조)(백만달러)",macro,N
+abGLOCTBES,"스페인(명목,계조)(백만달러)",macro,N
+abGLOCTBSE,"스웨덴(명목,계조)(백만달러)",macro,N
+abGLOCTBCH,"스위스(명목,계조)(백만달러)",macro,N
+abGLOCTBTR,"터키(명목,계조)(백만달러)",macro,N
+abGLOCTBGB,"영국(명목,계조)(백만달러)",macro,N
+abGLOCTBUS,"미국(명목,계조)(백만달러)",macro,N
+abGLOCTBEU,"유로존(명목,계조)(백만달러)",macro,N
+abGLOCTBOC,"OECD(명목,계조)(백만달러)",macro,N
+abGLOCTBWD,"세계(명목,계조)(백만달러)",macro,N
+abGLOCTBNOC,"비OECD(명목,계조)(백만달러)",macro,N
+abGLOCTBBR,"브라질(명목,계조)(백만달러)",macro,N
+abGLOCTBCN,"중국(명목,계조)(백만달러)",macro,N
+abGLOCTBCO,"콜롬비아(명목,계조)(백만달러)",macro,N
+abGLOCTBIN,"인도(명목,계조)(백만달러)",macro,N
+abGLOCTBID,"인도네시아(명목,계조)(백만달러)",macro,N
+abGLOCTBLT,"리투아니아(명목,계조)(백만달러)",macro,N
+abGLOCTBRU,"러시아(명목,계조)(백만달러)",macro,N
+abGLOCTBZA,"남아공(명목,계조)(백만달러)",macro,N
+abGLOCTBDAE,"신흥공업국(명목,계조)(백만달러)",macro,N
+abGLOCTBOOP,"기타산유국(명목,계조)(백만달러)",macro,N
+apGLOCEXAU,호주(달러),macro,N
+apGLOCEXAT,오스트리아(달러),macro,N
+apGLOCEXBE,벨기에(달러),macro,N
+apGLOCEXCA,캐나다(달러),macro,N
+apGLOCEXCL,칠레(달러),macro,N
+apGLOCEXCZ,체코(달러),macro,N
+apGLOCEXDK,덴마크(달러),macro,N
+apGLOCEXEE,에스토니아(달러),macro,N
+apGLOCEXFI,핀란드(달러),macro,N
+apGLOCEXFR,프랑스(달러),macro,N
+apGLOCEXDE,독일(달러),macro,N
+apGLOCEXGR,그리스(달러),macro,N
+apGLOCEXHU,헝가리(달러),macro,N
+apGLOCEXIS,아이슬란드(달러),macro,N
+apGLOCEXIE,아일랜드(달러),macro,N
+apGLOCEXIL,이스라엘(달러),macro,N
+apGLOCEXIT,이탈리아(달러),macro,N
+apGLOCEXJP,일본(달러),macro,N
+apGLOCEXKR,한국(달러),macro,N
+apGLOCEXLV,라트비아(달러),macro,N
+apGLOCEXLU,룩셈부르크(달러),macro,N
+apGLOCEXMX,멕시코(달러),macro,N
+apGLOCEXNL,네덜란드(달러),macro,N
+apGLOCEXNZ,뉴질랜드(달러),macro,N
+apGLOCEXNO,노르웨이(달러),macro,N
+apGLOCEXPL,폴란드(달러),macro,N
+apGLOCEXPT,포르투갈(달러),macro,N
+apGLOCEXSK,슬로바키아(달러),macro,N
+apGLOCEXSI,슬로베니아(달러),macro,N
+apGLOCEXES,스페인(달러),macro,N
+apGLOCEXSE,스웨덴(달러),macro,N
+apGLOCEXCH,스위스(달러),macro,N
+apGLOCEXTR,터키(달러),macro,N
+apGLOCEXGB,영국(달러),macro,N
+apGLOCEXUS,미국(달러),macro,N
+apGLOCEXEA15,유로존(달러),macro,N
+apGLOCEXT,OECD 전체(달러),macro,N
+apGLOCEXWD,세계(달러),macro,N
+apGLOCEXNOC,비 OECD국가(달러),macro,N
+apGLOCEXBR,브라질(달러),macro,N
+apGLOCEXCN,중국(달러),macro,N
+apGLOCEXCO,콜롬비아(달러),macro,N
+apGLOCEXCR,코스타리카(달러),macro,N
+apGLOCEXIN,인도(달러),macro,N
+apGLOCEXID,인도네시아(달러),macro,N
+apGLOCEXLT,리투아니아(달러),macro,N
+apGLOCEXRU,러시아(달러),macro,N
+apGLOCEXZA,남아공(달러),macro,N
+apGLOCEXDAE,신흥공업국군(달러),macro,N
+apGLOCEXOOP,기타 산유국(달러),macro,N
+apGLOCIMAU,호주(달러),macro,N
+apGLOCIMAT,오스트리아(달러),macro,N
+apGLOCIMBE,벨기에(달러),macro,N
+apGLOCIMCA,캐나다(달러),macro,N
+apGLOCIMCL,칠레(달러),macro,N
+apGLOCIMCZ,체코(달러),macro,N
+apGLOCIMDK,덴마크(달러),macro,N
+apGLOCIMEE,에스토니아(달러),macro,N
+apGLOCIMFI,핀란드(달러),macro,N
+apGLOCIMFR,프랑스(달러),macro,N
+apGLOCIMDE,독일(달러),macro,N
+apGLOCIMGR,그리스(달러),macro,N
+apGLOCIMHU,헝가리(달러),macro,N
+apGLOCIMIS,아이슬란드(달러),macro,N
+apGLOCIMIE,아일랜드(달러),macro,N
+apGLOCIMIL,이스라엘(달러),macro,N
+apGLOCIMIT,이탈리아(달러),macro,N
+apGLOCIMJP,일본(달러),macro,N
+apGLOCIMKR,한국(달러),macro,N
+apGLOCIMLV,라트비아(달러),macro,N
+apGLOCIMLU,룩셈부르크(달러),macro,N
+apGLOCIMMX,멕시코(달러),macro,N
+apGLOCIMNL,네덜란드(달러),macro,N
+apGLOCIMNZ,뉴질랜드(달러),macro,N
+apGLOCIMNO,노르웨이(달러),macro,N
+apGLOCIMPL,폴란드(달러),macro,N
+apGLOCIMPT,포르투갈(달러),macro,N
+apGLOCIMSK,슬로바키아(달러),macro,N
+apGLOCIMSI,슬로베니아(달러),macro,N
+apGLOCIMES,스페인(달러),macro,N
+apGLOCIMSE,스웨덴(달러),macro,N
+apGLOCIMCH,스위스(달러),macro,N
+apGLOCIMTR,터키(달러),macro,N
+apGLOCIMGB,영국(달러),macro,N
+apGLOCIMUS,미국(달러),macro,N
+apGLOCIMEA15,유로존(달러),macro,N
+apGLOCIMT,OECD 전체(달러),macro,N
+apGLOCIMWD,세계(달러),macro,N
+apGLOCIMNOC,비 OECD국가(달러),macro,N
+apGLOCIMBR,브라질(달러),macro,N
+apGLOCIMCN,중국(달러),macro,N
+apGLOCIMCO,콜롬비아(달러),macro,N
+apGLOCIMCR,코스타리카(달러),macro,N
+apGLOCIMIN,인도(달러),macro,N
+apGLOCIMID,인도네시아(달러),macro,N
+apGLOCIMLT,리투아니아(달러),macro,N
+apGLOCIMRU,러시아(달러),macro,N
+apGLOCIMZA,남아공(달러),macro,N
+apGLOCIMDAE,신흥공업국군(달러),macro,N
+apGLOCIMOOP,기타 산유국(달러),macro,N
+apGLOCTAU,호주(달러),macro,N
+apGLOCTAT,오스트리아(달러),macro,N
+apGLOCTBE,벨기에(달러),macro,N
+apGLOCTCA,캐나다(달러),macro,N
+apGLOCTCL,칠레(달러),macro,N
+apGLOCTCZ,체코(달러),macro,N
+apGLOCTDK,덴마크(달러),macro,N
+apGLOCTEE,에스토니아(달러),macro,N
+apGLOCTFI,핀란드(달러),macro,N
+apGLOCTFR,프랑스(달러),macro,N
+apGLOCTDE,독일(달러),macro,N
+apGLOCTGR,그리스(달러),macro,N
+apGLOCTHU,헝가리(달러),macro,N
+apGLOCTIS,아이슬란드(달러),macro,N
+apGLOCTIE,아일랜드(달러),macro,N
+apGLOCTIL,이스라엘(달러),macro,N
+apGLOCTIT,이탈리아(달러),macro,N
+apGLOCTJP,일본(달러),macro,N
+apGLOCTKR,한국(달러),macro,N
+apGLOCTLV,라트비아(달러),macro,N
+apGLOCTLU,룩셈부르크(달러),macro,N
+apGLOCTMX,멕시코(달러),macro,N
+apGLOCTNL,네덜란드(달러),macro,N
+apGLOCTNZ,뉴질랜드(달러),macro,N
+apGLOCTNO,노르웨이(달러),macro,N
+apGLOCTPL,폴란드(달러),macro,N
+apGLOCTPT,포르투갈(달러),macro,N
+apGLOCTSK,슬로바키아(달러),macro,N
+apGLOCTSI,슬로베니아(달러),macro,N
+apGLOCTES,스페인(달러),macro,N
+apGLOCTSE,스웨덴(달러),macro,N
+apGLOCTCH,스위스(달러),macro,N
+apGLOCTTR,터키(달러),macro,N
+apGLOCTGB,영국(달러),macro,N
+apGLOCTUS,미국(달러),macro,N
+apGLOCTEA15,유로존(달러),macro,N
+apGLOCTT,OECD(달러),macro,N
+apGLOCTWD,세계(달러),macro,N
+apGLOCTNOC,비 OECD(달러),macro,N
+apGLOCTBR,브라질(달러),macro,N
+apGLOCTCN,중국(달러),macro,N
+apGLOCTCO,콜롬비아(달러),macro,N
+apGLOCTIN,인도(달러),macro,N
+apGLOCTID,인도네시아(달러),macro,N
+apGLOCTLT,리투아니아(달러),macro,N
+apGLOCTRU,러시아(달러),macro,N
+apGLOCTZA,남아공(달러),macro,N
+apGLOCTDAE,신흥공업국(달러),macro,N
+apGLOCTOOP,기타 산유국(달러),macro,N
+aeGLOCCPIAU,호주(2014-2015=100),macro,N
+aeGLOCCPICA,캐나다(2007=100),macro,N
+aeGLOCCPICL,칠레(2013=100),macro,N
+aeGLOCCPICZ,체코(2010=100),macro,N
+aeGLOCCPIDK,덴마크(2010=100),macro,N
+aeGLOCCPIHU,헝가리(2005=100),macro,N
+aeGLOCCPIIS,아이슬란드(2005=100),macro,N
+aeGLOCCPIIE,이스라엘(2015=100),macro,N
+aeGLOCCPIJP,일본(2011=100),macro,N
+aeGLOCCPIKR,한국(2010=100),macro,N
+aeGLOCCPIMX,멕시코(2013=100),macro,N
+aeGLOCCPINZ,뉴질랜드(2009-2010=100),macro,N
+aeGLOCCPINO,노르웨이(2015=100),macro,N
+aeGLOCCPIPL,폴란드(2010=100),macro,N
+aeGLOCCPICH,스웨덴(2016=100),macro,N
+aeGLOCCPITR,스위스(2010=100),macro,N
+aeGLOCCPIGB,터키(2009=100),macro,N
+aeGLOCCPIUS,미국(2009=100),macro,N
+aeGLOCCPIT,OECD(2010=100),macro,N
+aeGLOCCPIBR,브라질(2000=100),macro,N
+aeGLOCCPICN,중국(2010=100),macro,N
+aeGLOCCPICO,콜롬비아(2005=100),macro,N
+aeGLOCCPICR,코스타리카(2012=100),macro,N
+aeGLOCCPIIN,인도(2011-2012=100),macro,N
+aeGLOCCPIID,인도네시아(2010=100),macro,N
+aeGLOCCPIRU,러시아(2016=100),macro,N
+aeGLOCCPIZA,남아공(2010=100),macro,N
+aGLOCNSAU,호주(%),macro,N
+aGLOCNSAT,오스트리아(%),macro,N
+aGLOCNSBE,벨기에(%),macro,N
+aGLOCNSCA,캐나다(%),macro,N
+aGLOCNSCL,칠레(%),macro,N
+aGLOCNSDK,덴마크(%),macro,N
+aGLOCNSEE,에스토니아(%),macro,N
+aGLOCNSFI,핀란드(%),macro,N
+aGLOCNSDE,독일(%),macro,N
+aGLOCNSHU,헝가리(%),macro,N
+aGLOCNSIS,아이슬란드(%),macro,N
+aGLOCNSIT,이탈리아(%),macro,N
+aGLOCNSJP,일본(%),macro,N
+aGLOCNSKR,한국(%),macro,N
+aGLOCNSLU,룩셈부르크(%),macro,N
+aGLOCNSNL,네덜란드(%),macro,N
+aGLOCNSNZ,뉴질랜드(%),macro,N
+aGLOCNSNO,노르웨이(%),macro,N
+aGLOCNSPL,폴란드(%),macro,N
+aGLOCNSSK,슬로바키아(%),macro,N
+aGLOCNSSI,슬로베니아(%),macro,N
+aGLOCNSES,스페인(%),macro,N
+aGLOCNSSE,스웨덴(%),macro,N
+aGLOCNSCH,스위스(%),macro,N
+aGLOCNSUS,미국(%),macro,N
+aGLOCNSEA15,유로존(%),macro,N
+aGLOCNSLT,리투아니아(%),macro,N
+aGLOCREAU,호주(2010=100),macro,N
+aGLOCREAT,오스트리아(2010=100),macro,N
+aGLOCREBE,벨기에(2010=100),macro,N
+aGLOCRECA,캐나다(2010=100),macro,N
+aGLOCRECL,칠레(2010=100),macro,N
+aGLOCRECZ,체코(2010=100),macro,N
+aGLOCREDK,덴마크(2010=100),macro,N
+aGLOCREEE,에스토니아(2010=100),macro,N
+aGLOCREFI,핀란드(2010=100),macro,N
+aGLOCREFR,프랑스(2010=100),macro,N
+aGLOCREDE,독일(2010=100),macro,N
+aGLOCREGR,그리스(2010=100),macro,N
+aGLOCREHU,헝가리(2010=100),macro,N
+aGLOCREIS,아이슬란드(2010=100),macro,N
+aGLOCREIE,아일랜드(2010=100),macro,N
+aGLOCREIL,이스라엘(2010=100),macro,N
+aGLOCREIT,이탈리아(2010=100),macro,N
+aGLOCREJP,일본(2010=100),macro,N
+aGLOCREKR,한국(2010=100),macro,N
+aGLOCRELU,룩셈부르크(2010=100),macro,N
+aGLOCREMX,멕시코(2010=100),macro,N
+aGLOCRENL,네덜란드(2010=100),macro,N
+aGLOCRENZ,뉴질랜드(2010=100),macro,N
+aGLOCRENO,노르웨이(2010=100),macro,N
+aGLOCREPL,폴란드(2010=100),macro,N
+aGLOCREPT,포르투갈(2010=100),macro,N
+aGLOCRESK,슬로바키아(2010=100),macro,N
+aGLOCRESI,슬로베니아(2010=100),macro,N
+aGLOCREES,스페인(2010=100),macro,N
+aGLOCRESE,스웨덴(2010=100),macro,N
+aGLOCRECH,스위스(2010=100),macro,N
+aGLOCRETR,터키(2010=100),macro,N
+aGLOCREGB,영국(2010=100),macro,N
+aGLOCREUS,미국(2010=100),macro,N
+aGLOCREBR,브라질(2010=100),macro,N
+aGLOCRECN,중국(2010=100),macro,N
+aGLOCREIN,인도(2010=100),macro,N
+aGLOCREID,인도네시아(2010=100),macro,N
+aGLOCRERU,러시아(2010=100),macro,N
+aGLOCREZA,남아공(2010=100),macro,N
+aGLIFERIRLIBOR3,LIBOR(3개월)(%),macro,N
+aGLIFERGGBLPG,일반정부 재정수지(GDP대비)(%),macro,N
+aGLIFMDCGGBLPG,일반정부 재정수지(GDP대비)(십억달러),macro,N
+aGLIFEUGGBLPG,일반정부 재정수지(GDP대비)(%),macro,N
+apGLIFBREIIOII,석유수입량(십억달러),macro,N
+apGLIFBREIEOII,석유수출량(십억달러),macro,N
+apGLIFCHEIIOII,석유수입량(십억달러),macro,N
+apGLIFCHEIEOII,석유수출량(십억달러),macro,N
+apGLIFFREIIOII,석유수입량(십억달러),macro,N
+apGLIFFREIEOII,석유수출량(십억달러),macro,N
+aGLIFFREMPF,취업자(백만명),macro,N
+apGLIFBDEIIOII,석유수입량(십억달러),macro,N
+apGLIFBDEIEOII,석유수출량(십억달러),macro,N
+aGLIFBDEMPG,취업자(백만명),macro,N
+apGLIFHKEIIOII,석유수입량(십억달러),macro,N
+apGLIFHKEIEOII,석유수출량(십억달러),macro,N
+aGLIFHKEMPM,취업자(백만명),macro,N
+apGLIFINEIIOII,석유수입량(십억달러),macro,N
+apGLIFINEIEOII,석유수출량(십억달러),macro,N
+apGLIFIDEIIOII,석유수입량(십억달러),macro,N
+apGLIFIDEIEOII,석유수출량(십억달러),macro,N
+apGLIFITEIIOII,석유수입량(십억달러),macro,N
+apGLIFITEIEOII,석유수출량(십억달러),macro,N
+aGLIFITEMPH,취업자(백만명),macro,N
+aGLIFJPIRLIBOR6,LIBOR(6개월)(%),macro,N
+apGLIFJPEIIOII,석유수입량(십억달러),macro,N
+apGLIFJPEIEOII,석유수출량(십억달러),macro,N
+aGLIFJPEMPI,취업자(백만명),macro,N
+aGLIFKOGAPPPG,산출량갭(잠재GDP대비)(%),macro,N
+apGLIFKOEIIOII,석유수입량(십억달러),macro,N
+apGLIFKOEIEOII,석유수출량(십억달러),macro,N
+aGLIFKOEMPL,취업자(백만명),macro,N
+apGLIFMYEIIOII,석유수입량(십억달러),macro,N
+apGLIFMYEIEOII,석유수출량(십억달러),macro,N
+apGLIFRSEIIOII,석유수입량(십억달러),macro,N
+apGLIFRSEIEOII,석유수출량(십억달러),macro,N
+apGLIFSPEIIOII,석유수입량(십억달러),macro,N
+apGLIFSPEIEOII,석유수출량(십억달러),macro,N
+aGLIFSPEMPO,취업자(백만명),macro,N
+aGLIFSPGGPNLBL,일반정부 기초재정 순융자/차입(십억 싱가포르달러),macro,N
+aGLIFSPGGNLB,일반정부 기초재정 순융자/차입(GDP대비)(%),macro,N
+apGLIFTWEIIOII,석유수입량(십억달러),macro,N
+apGLIFTWEIEOII,석유수출량(십억달러),macro,N
+aGLIFTWEMPN,취업자(백만명),macro,N
+apGLIFTHEIIOII,석유수입량(십억달러),macro,N
+apGLIFTHEIEOII,석유수출량(십억달러),macro,N
+apGLIFUKEIIOII,석유수입량(십억달러),macro,N
+apGLIFUKEIEOII,석유수출량(십억달러),macro,N
+aGLIFUKEMPJ,취업자(백만명),macro,N
+aGLIFUSIRLIBOR6,LIBOR(6개월)(%),macro,N
+apGLIFUSEIIOII,석유수입량(십억달러),macro,N
+apGLIFUSEIEOII,석유수출량(십억달러),macro,N
+aGLIFUSEMPK,취업자(백만명),macro,N
+aGLURBCH,중국 도시인구비율(총인구대비)(%),macro,N
+aGLURBKO,한국 도시인구비율(총인구대비)(%),macro,N
+afUSCIOF,미국 주택가격(전국)(1991.1Q=100),macro,N
+aaJPFFLILN,일본 가계부채 대출금 합계(억엔),macro,N
+bKODSMKSVAS,KOSPI 거래대금(주식)(천원),macro,N
