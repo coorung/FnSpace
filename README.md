@@ -87,13 +87,11 @@ price_df = fs.get_data(
 경제 데이터를 조회합니다. ITEM_LIST의 IS_AVAILABLE 컬럼이 'Y'인 항목만 조회 가능합니다.
 
 ```python
-macro_df = fs.get_data(
-    category = 'macro',
-    item = ['aKONA10NIGDPW', 'aKONA10GSGSR'], # 출력 변수 리스트. 예) 국민총소득(명목,원화)(십억원), 총저축률(명목)(%)
-    from_date = '20230101', # 조회 시작 일자 (default : to_date-365일)
-    to_date ='20240624', # 조회 종료 일자 (default : 오늘 일자)
-    kor_item_name=True # 컬럼명 한글 출력 여부 (default : ITEM_CD 그대로)
-)
+macro_df = fs.get_data(category = 'macro', 
+                           item = ['arKOFXUSDD', 'aKOPSCCSDHCN', 'aaKOMBM2A', 'aaKOBP', 'aaKOEITB'], # 출력 변수 리스트. 예) 원달러환율, 부도업체 수, M2통화량(십억원), 경상수지(백만달러), 무역수지(천달러)
+                           from_date = '20240101', # 조회 시작 일자 (default : to_date-365일)
+                           to_date ='20250507', # 조회 종료 일자 (default : 오늘 일자)
+                           kor_item_name=True) # 컬럼명 한글 출력 여부 (default : ITEM_CD 그대로)
 ```
 
 ## 6. 컨센서스 데이터 불러오기
