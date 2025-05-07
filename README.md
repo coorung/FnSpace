@@ -179,7 +179,7 @@ for category in categories:
 
 ## 배포 기록
 
-### v0.3 (2024-07-10)
+### v0.3.1 (2024-05-07)
 
 - 코드 구조 개선 및 중복 제거를 위한 리팩토링
   - 공통 기능을 위한 헬퍼 메서드 추가: `_filter_available_items`, `_make_api_request`, `_process_json_response`

@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fnspace',
-    version='0.3',
+    version='0.3.1',
     description='A utility to fetch financial data',
     author='Ungjin Jang',
     author_email='coorung77@gmail.com',
