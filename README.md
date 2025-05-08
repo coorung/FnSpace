@@ -189,7 +189,6 @@ for category in categories:
 - consensus-earning-daily API 수정
   - accdategb 파라미터 추가 및 오류 수정
   - 응답 처리 개선
-- consensus-earning-fiscal API에 accdategb 파라미터 추가
 - 에러 처리 및 로깅 개선
   - 다양한 예외 유형 처리 강화
   - 상세한 에러 메시지 제공
