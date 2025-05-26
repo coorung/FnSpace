@@ -1,3 +1,5 @@
+mcp/
+
 # 빌드 산출물
 build/
 dist/
@@ -24,3 +26,7 @@ ENV/
 # 운영체제 파일
 .DS_Store
 Thumbs.db 
+
+# 임시 파일
+test/making_description.py
+test/.env

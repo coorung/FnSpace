@@ -28,6 +28,15 @@ api_key = "Your API key"
 fs = FnSpace(api_key)
 ```
 
+## **용어 참조**
+- **주재무제표(M)**: 기업이 공시용으로 가장 기본적으로 제출하는 대표 재무제표, 일반적으로 연결 또는 별도 기준 중 하나가 선택되어 사용됨.
+- **연결(C)**: 기업이 지배력을 가진 모든 종속회사를 포함한 재무제표. 그룹 전체의 실적을 반영.
+- **별도(I)**: 모회사 단독 기준의 재무제표로, 종속회사의 재무는 포함되지 않음.
+- **Calendar(C)**: 일반력(1월\~12월) 기준으로 데이터를 정렬한 방식. 예: 2024년 회계연도는 2024.01.01\~2024.12.31
+- **Fiscal(F)**: 기업마다 지정한 사업연도 기준. 예를 들어 어떤 회사는 회계연도를 3월 시작~익년 2월 말로 설정할 수 있음.
+- **컨센서스** : 애널리스트들의 평균 예측치
+- **Forward 지표** : 애널리스트들의 예측치를 기반으로 한 추정 지표
+
 ## 1. 출력 변수 목록 불러오기
 
 출력 변수 리스트를 조회합니다. 출력 결과에는 각 항목의 API 지원 여부를 나타내는 `IS_AVAILABLE` 컬럼이 포함됩니다.
@@ -55,7 +64,7 @@ account_df = fs.get_data(
     kor_item_name = True # 컬럼명 한글 출력 여부 (default : ITEM_CD 그대로)
 )
 ```
-
+  
 ## 3. 주식 리스트 데이터 불러오기
 
 특정 시장의 주식 리스트 데이터를 조회합니다.
@@ -98,6 +107,8 @@ macro_df = fs.get_data(category = 'macro',
 
 ### 6-1) 컨센서스 - 투자의견 & 목표주가
 
+투자의견, 목표주가, 투자의견 참여증권사수 등의 데이터를 조회할 수 있습니다.
+
 ```python
 consensus_price_df = fs.get_data(
     category = 'consensus-price',
@@ -110,6 +121,8 @@ consensus_price_df = fs.get_data(
 ```
 
 ### 6-2) 컨센서스 - 추정실적 - Fiscal 조회
+
+실적 추정 및 추정 재무비율, 가치지표 등의 데이터를 결산년월별로 조회할 수 있습니다.
 
 ```python
 consensus_earning_df = fs.get_data(
@@ -125,6 +138,8 @@ consensus_earning_df = fs.get_data(
 ```
 
 ### 6-3) 컨센서스 - 추정실적 - daily 조회
+
+실적 추정 및 추정 재무비율, 가치지표 등의 데이터를 일별 히스토리로 조회할 수 있습니다.
 
 ```python
 consensus_earning_df = fs.get_data(
@@ -144,6 +159,8 @@ consensus_earning_df = fs.get_data(
 
 ### 6-4) 컨센서스 - Forward 지표
 
+애널리스트들이 앞으로 12개월 혹은 특정 기간 동안 예측하는 실적 기준으로 계산한 투자 지표를 조회할 수 있습니다.
+
 ```python
 consensus_forward_df = fs.get_data(
     category = 'consensus-forward',
@@ -156,7 +173,7 @@ consensus_forward_df = fs.get_data(
 )
 ```
 
-## 7. 항목 가용성 활용하기
+## 7. 가용 항목 활용하기
 
 모든 API는 ITEM_LIST.csv의 IS_AVAILABLE 컬럼을 확인하여 'Y'인 항목만 API 요청에 포함합니다.
 사용 가능한 항목만 확인하려면 다음과 같이 필터링할 수 있습니다:
@@ -189,7 +206,6 @@ for category in categories:
 - consensus-earning-daily API 수정
   - accdategb 파라미터 추가 및 오류 수정
   - 응답 처리 개선
-- consensus-earning-fiscal API에 accdategb 파라미터 추가
 - 에러 처리 및 로깅 개선
   - 다양한 예외 유형 처리 강화
   - 상세한 에러 메시지 제공

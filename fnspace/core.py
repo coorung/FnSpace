@@ -25,7 +25,7 @@ class FnSpace(object):
                         "macro" : "A000007"
                         }
         
-        self.item_df = pd.read_csv("https://raw.githubusercontent.com/coorung/FnSpace/main/ITEM_LIST.csv", encoding="ANSI", index_col=0)
+        self.item_df = pd.read_csv("https://gist.githubusercontent.com/coorung/eade3aa25d7a555d67c47ca1bbfc010b/raw/FNSPACE_ITEM_LIST.csv", encoding="utf-8", index_col=0)
         # ITEM_NM_KOR 컬럼의 앞뒤 공백 제거
         if 'ITEM_NM_KOR' in self.item_df.columns:
             self.item_df['ITEM_NM_KOR'] = self.item_df['ITEM_NM_KOR'].str.strip()
