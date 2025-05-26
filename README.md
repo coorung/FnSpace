@@ -45,8 +45,9 @@ fs = FnSpace(api_key)
 item_df = fs.get_data(category="item_list", data_type="account") # 재무 데이터의 출력 변수 리스트
 ```
 
-출력 변수의 Item Code는 본 github의 `ITEM_LIST.csv`를 참조하셔도 됩니다.
+출력 변수의 Item Code는 아래의 `FNSPACE_ITEM_LIST.csv`를 참조하셔도 됩니다.
 
+url : https://gist.githubusercontent.com/coorung/eade3aa25d7a555d67c47ca1bbfc010b/raw/FNSPACE_ITEM_LIST.csv
 ## 2. 재무 데이터 불러오기
 
 종목코드와 출력 변수를 지정하여 재무 데이터를 조회합니다.
